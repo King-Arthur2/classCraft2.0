@@ -6,6 +6,6 @@ import Lectura from './ReadingPage.tsx'
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <App />
+    <Lectura />
   </StrictMode>,
 )
