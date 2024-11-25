@@ -1,0 +1,11 @@
+.nav-item {
+    text-decoration: none;
+  }
+  
+  .nav-item:hover {
+    background-color: #C1A14A; /* Oro viejo para el fondo */
+    color: #8B4513; /* Madera oscura para el texto */
+    transform: scale(1.05); /* Hace que el elemento crezca un poco */
+    transition: all 0.3s ease-in-out; /* Suaviza la transición */
+  }
+  
