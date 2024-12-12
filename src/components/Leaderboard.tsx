@@ -37,7 +37,7 @@ const Leaderboard: React.FC = () => {
       {/* Contenido Principal */}
       <main className="leaderboard-main">
         <div className="top-leaderboard">
-          {leaderboardData.slice(0, 3).map((user, index) => (
+          {leaderboardData.slice(0, 3).map((user) => (
             <div key={user.rank} className="top-user" style={{ backgroundColor: user.color || "#F5DEB3" }}>
               <h3>{user.name}</h3>
               <p>{user.score.toLocaleString()} pts</p>

@@ -1,5 +1,4 @@
 import React from "react";
-import mapImage from "./assets/mapa 1.webp"; // Reemplaza con tu imagen local
 import mapImage2 from "./assets/mapa 2.webp"; // Reemplaza con tu imagen local
 
 const MapSection: React.FC = () => {
