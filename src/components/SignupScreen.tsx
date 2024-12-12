@@ -1,7 +1,7 @@
 import React from "react";
 import "../styles/styles.css";
 import cabaña from "../assets/cabaña.png"; 
-import { useNavigate} from "react-router-dom";
+import { useNavigate, Link} from "react-router-dom";
 
 const SignupScreen: React.FC = () => {
 
@@ -29,6 +29,7 @@ const SignupScreen: React.FC = () => {
       <div className="right-section">
         <h1 className="welcome-title">Bienvenido a Classcraft</h1>
         <h2 className="signup-title">Crear cuenta</h2>
+
         <form className="form" onSubmit={handleLogin}>
           {/* Correo Electrónico */}
           <label htmlFor="email" className="form-label">
@@ -82,9 +83,9 @@ const SignupScreen: React.FC = () => {
           {/* Ya tienes una cuenta */}
           <p className="form-footer">
             ¿Ya tienes una cuenta?{" "}
-            <a href="/" className="form-link">
-              Iniciar Sesión
-            </a>
+            <Link to="/" className="form-link">
+              Iniciar sesión
+            </Link>
           </p>
         </form>
       </div>
