@@ -1,0 +1,129 @@
+/* Contenedor Principal */
+.store-container {
+  font-family: "Poppins", sans-serif;
+  background-color: #2F4F4F; /* Verde oscuro */
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding: 6px 15px;
+}
+
+/* Contenido Principal */
+.store-main {
+  flex: 1;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Contenedor de Tabs */
+.tabs-container {
+  display: flex;
+  width: 100%; /* Ancho total */
+  background-color: #C1A14A; /* Fondo de los tabs */
+  border-radius: 10px 10px 0 0; /* Esquinas redondeadas superiores */
+  overflow: hidden; /* Para evitar bordes visibles */
+  margin-bottom: 0px;
+}
+
+.tab {
+  flex: 1; /* Cada tab ocupa el 50% */
+  text-align: center;
+  padding: 10px 0;
+  font-size: 1rem;
+  font-weight: bold;
+  background-color: #F5DEB3; /* Color de fondo */
+  color: #2F4F4F; /* Verde oscuro */
+  border: none;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  border: 2px solid #2F4F4F; /* Línea para destacar el tab activo */
+  border-radius: 0;
+}
+
+.tab:hover {
+  background-color: #C1A14A; /* Fondo más claro al pasar el mouse */
+}
+
+.tab.active {
+  background-color: #C1A14A; /* Fondo claro para el tab activo */
+  color: #274c47; /* Texto más oscuro para el tab activo */
+  border: 2px solid #2F4F4F; /* Línea para destacar el tab activo */
+}
+
+/* Sección de Tienda */
+.store-section {
+  background-color: #F5DEB3;
+  padding: 20px;
+  border-radius: 0 0 10px 10px; /* Esquinas redondeadas inferiores */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.store-section h2 {
+  font-size: 1.5rem;
+  color: #2f4f4f;
+  margin-bottom: 10px;
+}
+
+.player-coins {
+  font-size: 1rem;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.player-coins span {
+  color: #88c576; /* Verde claro */
+}
+
+/* Ítems */
+.store-items {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr); /* Máximo 5 ítems por fila */
+  gap: 20px; /* Espaciado entre ítems */
+}
+
+.item-card {
+  background-color: #fff;
+  border: 2px solid #2f4f4f; /* Verde oscuro */
+  border-radius: 10px;
+  text-align: center; 
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  height: 60vh;
+}
+.container-image-store{
+  background-color: #E1C99D;
+  border-radius: 0 0 15px 15px;
+  height: 60%;
+}
+.item-image {
+  width: 80%;
+  height: 80%;
+  object-fit: contain;
+}
+
+.item-name {
+  font-size: 1rem;
+  font-weight: bold;
+  color: #2f4f4f;
+  margin-bottom: 2px;
+}
+
+.item-price {
+  font-size: 0.9rem;
+  color: #6b705c; /* Gris oscuro */
+  margin-bottom: 10px;
+}
+
+.buy-button {
+  padding: 10px;
+  background-color: #ffd700; /* Amarillo */
+  color: #2f4f4f;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 10vw;
+}
+
+.buy-button:hover {
+  background-color: #ffc107; /* Amarillo más oscuro */
+}

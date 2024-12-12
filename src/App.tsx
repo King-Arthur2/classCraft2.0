@@ -1,44 +1,38 @@
 import React from "react";
-import Navbar from "./Navbar";
-import MapSection from "./MapSection";
-import CharacterSection from "./CharacterSection";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import WelcomeScreen from "./components/WelcomeScreen";
+import SignupScreen from "./components/SignupScreen";
+import GameDashboard from "./components/GameDashboard";
+import GameScreen from "./components/GameScreen";
+import CharacterSelection from "./components/CharacterSelection";
+import Tutorial from "./components/tutorialScreen";
+import Store from "./components/Store";
+import Leaderboard from "./components/Leaderboard";
+
 
 const App: React.FC = () => {
   return (
-    <div style={styles.container}>
-      <div style={styles.navbarWrapper}>
-        <Navbar />
-      </div>
-      <div style={styles.mainContent}>
-        <MapSection />
-        <CharacterSection />
-      </div>
-    </div>
+    <Router>
+      <Routes>
+        {/* Ruta para la pantalla de inicio */}
+        <Route path="/" element={<WelcomeScreen />} />
+        {/* Ruta para la pantalla de registro */}
+        <Route path="/signup" element={<SignupScreen />} />
+        {/* Ruta para el dashboard del juego */}
+        <Route path="/dashboard" element={<GameDashboard />} />
+        {/* Ruta para el dashboard del juego */}
+        <Route path="/game-screen" element={<GameScreen/>} />
+        {/* Ruta para el dashboard del juego */}
+        <Route path="/character-selection" element={<CharacterSelection/>} />
+        {/* Ruta para el dashboard del juego */}
+        <Route path="/tutorial" element={<Tutorial/>} />
+        {/* Ruta para el dashboard del juego */}
+        <Route path="/store" element={<Store/>} />
+        {/* Ruta para el dashboard del juego */}
+        <Route path="/leaderboard" element={<Leaderboard/>} />
+      </Routes>
+    </Router>
   );
-};
-
-const styles: { [key: string]: React.CSSProperties } = {
-  container: {
-    display: "flex",
-    flexDirection: "column",
-    height: "100vh",
-    width: "100vw",
-    overflow: "hidden",
-    backgroundColor: "#2F4F4F", // Fondo principal
-    padding: "20px", // Espaciado general
-    boxSizing: "border-box",
-  },
-  navbarWrapper: {
-    display: "flex",
-    justifyContent: "center",
-    alignItems: "center",
-    height: "15%",
-  },
-  mainContent: {
-    display: "flex",
-    flex: 1, // Rellena el espacio restante bajo el navbar
-    gap: "20px", // Más separación entre el mapa y el personaje
-  },
 };
 
 export default App;

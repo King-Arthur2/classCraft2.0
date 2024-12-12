@@ -1,0 +1,269 @@
+/* Contenedor Principal */
+.game-screen-container {
+    display: flex;
+    height: 100vh;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  /* Sección Izquierda */
+  .left-section {
+    width: 10%;
+    background-color: #274c47; /* Verde oscuro */
+    color: #fff;
+    display: inline;
+    flex-direction: column;
+    padding: 20px 0;
+    gap: 20px;
+    text-align: center;
+  }
+  
+  .time-counter {
+    font-size: 2rem;
+  }
+  
+  .hearts {
+    font-size: 2rem;
+  }
+  
+  .score-counter {
+    font-size: 2rem;
+  }
+  
+  /* Sección Central */
+  .central-section {
+    background-color: #f5deb3; /* Beige claro */
+    width: 80%;
+    padding: 20px;
+    overflow-y: auto;
+  }
+
+  .level-header {
+    display: flex;            
+    justify-content: center;  
+    align-items: center;             
+  }
+  
+  .level-header h1 {
+    font-size: 2rem;
+    color: #274c47;
+    font-family: 'Aclonica', sans-serif;
+    margin: 0;
+  }
+  
+  .reading-section {
+    margin-bottom: 20px;
+    background-color: white;
+    padding: 10px 10px;
+    border-radius: 20px;
+  }
+  
+  .reading-section h2 {
+    font-size: 1.5rem;
+    color: #274c47;
+  }
+  
+  .reading-section p {
+    font-size: 1rem;
+    color: #6b705c; /* Gris oscuro */
+    white-space: pre-wrap;
+    line-height: 1.8;
+    
+  }
+  
+  .questions-section {
+    margin-top: 20px;
+  }
+  
+ /* Contenedor de la pregunta */
+.question-title-container {
+  margin-bottom: 15px;
+  background-color: white;
+  padding: 5px;
+  border-radius: 20px;
+}
+
+.question-title {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #274c47;
+}
+
+.question-text {
+  font-size: 1.1rem;
+  color: black;
+  font-weight: bold;
+}
+
+/* Respuestas */
+.answers {
+  display: flex;
+  flex-direction: row; /* Las respuestas estarán en fila */
+  flex-wrap: wrap; /* Se ajustan en varias filas si no caben */
+  gap: 10px; /* Espacio entre botones */
+  justify-content: space-between; /* Espaciado uniforme */
+  margin-bottom: 10px;
+}
+
+.answer {
+  flex: 1; /* Todas las respuestas tendrán el mismo ancho */
+  padding: 10px;
+  background-color: #2f4f4f;
+  color: #fff;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  font-size: 1rem;
+  text-align: center;
+  height: auto; /* Altura dinámica */
+  min-height: 40px; /* Altura mínima */
+}
+
+.answer:hover {
+  background-color: #88c576; /* Cambio de color al pasar el mouse */
+}
+
+  
+  /* Sección Derecha */
+  .right-section {
+    width: 15%;
+    background-color: #274c47; /* Verde oscuro */
+    display: inline;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 0;
+    gap: 20px;
+    text-align: center;
+    align-items: center;
+  }
+  
+  .powers{
+    display: flex;
+    flex-direction: column;
+    gap: 2vw;
+    align-items: center;
+    justify-content: center;
+  }
+  .right-section img {
+    width: 5vw;
+    height: 5vw;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+
+  .finish-button-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  /* Botón de Terminar */
+.finish-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: #2f4f4f; /* Verde oscuro */
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+.finish-button:hover {
+  background-color: #88c576; /* Verde claro */
+}
+
+/* Modal */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.modal {
+  background-color: #2F4F4F;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  width: 30vw;
+  height: 50vh;
+}
+
+.modal h1 {
+  margin-bottom: 10px;
+}
+
+.modal p {
+  margin-bottom: 30px;
+  font-size: 1.5rem;
+}
+
+.close-modal-button {
+  padding: 10px 20px;
+  background-color: #C1A14A; /* Verde oscuro */
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+.close-modal-button:hover {
+  background-color: #88c576; /* Verde claro */
+}
+
+/* Modal del Tutorial */
+.tutorial-modal-overlay {
+  position: fixed;
+  bottom: 5%;
+  left: 15%;
+  width: 70%;
+  background-color: #f5deb3; /* Beige claro */
+  border: 3px solid #2f4f4f; /* Línea superior */
+  box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.2);
+  z-index: 1000;
+  border-radius: 20px 0 20px 0;
+  width: 70vw;
+}
+
+.tutorial-modal {
+  padding: 10px;
+  font-family: "Poppins", sans-serif;
+  text-align: left;
+  color: black; /* Verde oscuro */
+  font-size: 1rem;
+}
+
+.tutorial-modal h2 {
+  font-size: 1rem;
+  margin-bottom: 10px;
+}
+
+.tutorial-modal p {
+  font-size: 0.7rem;
+  margin-bottom: 10px;
+  line-height: 1.5;
+}
+
+.tutorial-modal .close-modal-button {
+  padding: 10px 20px;
+  background-color: #2f4f4f; /* Verde oscuro */
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 0.6rem;
+}
+
+.tutorial-modal .close-modal-button:hover {
+  background-color: #88c576; /* Verde claro */
+}
+
+  

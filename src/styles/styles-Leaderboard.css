@@ -1,0 +1,126 @@
+/* Contenedor Principal */
+.leaderboard-container {
+    font-family: "Poppins", sans-serif;
+    background-color: #2F4F4F; /* Beige claro */
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    padding: 6px 15px;
+  }
+  
+  /* Contenido Principal */
+  .leaderboard-main {
+    margin-top: 8vh;
+    flex: 1;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-color: #F5DEB3 ;
+  }
+  
+ /* Top 3 Usuarios */
+.top-leaderboard {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end; /* Alinear elementos verticalmente */
+    gap: 20px;
+  }
+  
+  .top-user {
+    flex: 1;
+    max-width: 200px;
+    text-align: center;
+    background-color: #FFF;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    position: relative;
+  }
+  
+  /* Ajuste para el Rango 1 */
+  .top-user.rank-one {
+    transform: translateY(-20px); /* Elevar al centro */
+    z-index: 1; /* Asegurarse de que esté sobre los otros */
+    max-width: 240px; /* Hacer más grande el contenedor del rango 1 */
+    padding: 25px;
+  }
+  
+  /* Texto dentro de los usuarios */
+  .top-user h3 {
+    font-size: 1.2rem;
+    color: #2F4F4F; /* Verde oscuro */
+    margin-bottom: 10px;
+  }
+  
+  .top-user p {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #6B705C; /* Gris oscuro */
+  }
+  
+  /* Círculo para el rango */
+  .rank-circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: #FFF;
+    color: #2F4F4F;
+    font-size: 1.5rem;
+    font-weight: bold;
+    line-height: 50px;
+    position: absolute;
+    top: -25px;
+    left: calc(50% - 25px);
+    border: 2px solid #2F4F4F;
+  }
+  
+  /* Lista de Resto de Usuarios */
+  .rest-leaderboard {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .rest-user {
+    display: flex;
+    justify-content: space-between;
+    background-color: #FFF;
+    border-radius: 10px;
+    padding: 10px 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .rest-rank {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #2F4F4F;
+  }
+  
+  .rest-name {
+    font-size: 1rem;
+    color: #6B705C;
+  }
+  
+  .rest-score {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #2F4F4F;
+  }
+  
+  /* Footer con Puntuación del Usuario */
+  .user-score {
+    margin-top: auto;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: bold;
+    background-color: #2F4F4F;
+    color: #FFF;
+    padding: 10px;
+    border-radius: 10px;
+  }
+  
+  .user-score span {
+    color: #88C576; /* Verde claro */
+  }
+  
