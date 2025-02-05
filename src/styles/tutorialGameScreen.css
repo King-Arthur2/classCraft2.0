@@ -1,0 +1,8 @@
+.slick-dots li button:before {
+    color: #ff6347; /* Cambia el color de los dots */
+    font-size: 12px; /* Ajusta el tamaño */
+  }
+  
+  .slick-dots li.slick-active button:before {
+    color: #4caf50; /* Cambia el color del dot activo */
+  }

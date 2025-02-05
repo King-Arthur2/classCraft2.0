@@ -54,14 +54,14 @@
   .welcome-title {
     font-size: 2rem;
     color: #274c47; /* Verde oscuro */
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     text-align: center;
   }
   
   .signup-title {
     font-size: 1.5rem;
     color: #4f4f4f; /* Gris oscuro */
-    margin-bottom: 20px;
+    margin-bottom: 5px;
     text-align: center;
   }
 
@@ -181,11 +181,9 @@
   }
   
   .nav-link {
-    font-size: 20px;
     font-weight: bold;
     text-decoration: none;
     color: #274c47; /* Verde oscuro */
-    width: 15vw;
     align-content: center;
     text-align: center;
   }

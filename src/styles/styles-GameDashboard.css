@@ -1,285 +1,448 @@
 /* Contenedor Principal */
 .game-dashboard-container {
-    display: flex;
-    flex-direction: column;
-    height: 100vh;
-    font-family: 'Poppins', sans-serif;
-    background-color: #2F4F4F; /* Verde oscuro */
-    padding: 6px 15px;
-  }
-  
-  /* Barra Superior */
-  .dashboard-header {
-    display: flex;
-    gap: 80px;
-    align-items: center;
-    background-color: #F5DEB3; /* Beige claro */
-    padding: 0px 30px;
-    border-radius: 20px;
-    height: 9vh;
-  }
-  
-  .dashboard-logo {
-    height: 50px;
-    border-radius: 40px;
-  }
-  
-  .dashboard-nav {
-    display: flex;
-    justify-content: space-evenly;
-    gap: 20px;
-    width: 80vw;
-    height: 100%;
-  }
-  
-  .nav-link {
-    font-size: 20px;
-    font-weight: bold;
-    text-decoration: none;
-    color: #274c47; /* Verde oscuro */
-    width: 15vw;
-    align-content: center;
-    text-align: center;
-    background-color: #F5DEB3;
-  } 
-  
-  .nav-link:hover {
-    color: #f4f1de;
-    background-color: #C1A14A;
-  }
-  
-  .nav-link.active {
-    color: #f4f1de; /* Beige claro */
-    background-color: #C1A14A; /* Verde oscuro */
-    padding: 5px 10px;
-    align-content: center;
-    text-align: center;
-  }
-  
-  /* Contenido Principal */
-  .dashboard-main {
-    display: flex;
-    flex: 1;
-    padding: 10px 5px;
-    gap: 10px;
-    overflow: hidden; /* Previene el scroll */
-  }
-  
-  /* Sección del Mapa */
-  .map-section {
-    flex: 1.2; /* Reducir espacio para el mapa */
-    display: flex;
-    flex-direction: column;
-    gap: 5px; /* Espaciado entre mapa e información del nivel */
-  }
-  
-  /* Contenedor del Mapa */
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  font-family: 'Poppins', sans-serif;
+  background-color: #2F4F4F; /* Verde oscuro */
+  padding: 6px 15px;
+}
+
+/* Barra Superior */
+.dashboard-header {
+  display: flex;
+  gap: 80px;
+  align-items: center;
+  background-color: #F5DEB3; /* Beige claro */
+  padding: 0px 30px;
+  border-radius: 20px;
+  height: 9vh;
+}
+
+.dashboard-logo {
+  height: 50px;
+  border-radius: 40px;
+}
+
+.dashboard-nav {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 20px;
+  width: 80vw;
+  height: 100%;
+}
+
+.nav-link {
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #274c47; /* Verde oscuro */
+  width: 15vw;
+  align-content: center;
+  text-align: center;
+  background-color: #F5DEB3;
+} 
+
+.nav-link:hover {
+  color: #f4f1de;
+  background-color: #C1A14A;
+}
+
+.nav-link.active {
+  color: #f4f1de; /* Beige claro */
+  background-color: #C1A14A; /* Verde oscuro */
+  padding: 5px 10px;
+  align-content: center;
+  text-align: center;
+}
+
+/* Contenido Principal */
+.dashboard-main {
+  display: flex;
+  flex: 1;
+  padding: 10px 5px;
+  gap: 10px;
+  overflow: hidden; /* Previene el scroll */
+}
+
+/* Sección del Mapa */
+.map-section {
+  flex: 1.4; /* Reducir espacio para el mapa */
+  width: 75%;
+}
+
+/* Contenedor del Mapa */
 .map-container {
-    position: relative; /* Contenedor relativo para posicionar los botones */
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    max-height: 68%;
-  }
+  width: 100%;
+  max-width: 90vw; /* Máximo ancho del contenedor */
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2VH;
+  overflow: hidden; /* Evita que el contenido se salga */  
+}
+.map.title{
+  position: "absolute";
+  top: "5%";
+  left: "50%";
+  transform: "translateX(-50%)";
+  background-color: "rgba(0, 0, 0, 0.5)";
+  padding: "10px 20px";
+}
+.container-slide{
+  position: relative;
+}
+.slick-slider {
+  max-width: 90%; /* Limita el tamaño máximo del slider */
+  margin: 0 auto; /* Centra el carrusel */
+  gap: 1px;
   
-  .map-image {
-    width: 100%;
-    height: auto;
-    max-height: 95%;
-    border-radius: 10px;
-    max-width: 90%;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  }
-  
-  /* Botones de Puntos en el Mapa */
-  .map-point {
-    position: absolute;
-    width: 30px;
-    height: 30px;
-    border-radius: 50%;
-    border: 2px solid #fff;
-    background-color: #808080; /* Color gris predeterminado */
-    color: white;
-    font-size: 0.8rem;
-    font-weight: bold;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    cursor: pointer;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
-    transition: transform 0.2s ease;
-  }
-  
-  .map-point:hover {
-    transform: scale(1.2); /* Efecto de ampliación al pasar el mouse */
-  }
-  
-  .point-yellow {
-    background-color: #FFD700; /* Color amarillo para el punto destacado */
-  }
-  
-  /* Información del Nivel */
-  .level-info {
-    background-color: #F5DEB3; /* Beige claro */
-    padding: 10px 15px;
-    border-radius: 10px;
-    flex-shrink: 0; /* Evita que se colapse */
-    height: auto; /* Permitir que se adapte según contenido */
-  }
-  
- .level-info .level-header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 2px;
-    font-weight: bold;
-  }
-  
-  .level-world, .level-number, .level-time {
-    font-size: 1rem;
-    color: #274c47; 
-    font-family: 'Aclonica', sans-serif;
-  }
-  
-  .level-title {
-    font-size: 0.8rem;
-    font-weight: bold;
-    color: black;
-    margin: 4px 0;
-    text-align: left
-  }
-  
-  .level-info .level-description {
-    font-size: 0.6rem;
-    color: #6b705c; /* Gris oscuro */
-    margin-bottom: 8px;
-    text-align: left
-  }
-  
-  .start-level-button {
-    padding: 10px 20px;
-    background-color: #2F4F4F; /* Verde oscuro */
-    color: #FFFFFF; /* Beige claro */
-    border: none;
-    border-radius: 16px;
-    cursor: pointer;
-    font-size: 0.7rem;
-    font-weight: bold;
-  }
-  
-  .start-level-button:hover {
-    background-color: #88c576; /* Verde claro */
-  }
-  
+}
+
+.slick-slide {
+  display: flex; /* Asegura que los elementos se alineen correctamente */
+  justify-content: center;
+  align-items: center;
+}
+
+
+.slick-slide img {
+  width: 100%; /* La imagen ocupa el 100% del ancho del contenedor del slide */
+  max-height: 85vh; /* Limitar la altura máxima */
+  object-fit: contain; /* Mantiene la proporción de la imagen */
+  border-radius: 10px; /* Añade bordes redondeados si es necesario */
+}
+
+/* Botones de Puntos en el Mapa */
+.map-point {
+  position: absolute;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  border: 2px solid #fff; 
+  color: white;
+  font-size: 0.8rem;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s ease;
+}
+
+.map-point:hover {
+  transform: scale(1.2); /* Efecto de ampliación al pasar el mouse */
+}
+
+.point-yellow {
+  background-color: #FFD700; /* Color amarillo para el punto destacado */
+}
+
+/* Información del Nivel */
+.level-info {
+  background-color: #F5DEB3; /* Beige claro */
+  padding: 10px 15px;
+  border-radius: 10px;
+  flex-shrink: 0; /* Evita que se colapse */
+  height: auto; /* Permitir que se adapte según contenido */
+}
+
+.level-info .level-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2px;
+  font-weight: bold;
+}
+
+.level-world, .level-number, .level-time {
+  font-size: 1rem;
+  color: #274c47; 
+  font-family: 'Aclonica', sans-serif;
+}
+
+.level-title {
+  font-size: 0.8rem;
+  font-weight: bold;
+  color: black;
+  margin: 4px 0;
+  text-align: left
+}
+
+.level-info .level-description {
+  font-size: 0.6rem;
+  color: #6b705c; /* Gris oscuro */
+  margin-bottom: 8px;
+  text-align: left
+}
+
+.start-level-button {
+  padding: 10px 20px;
+  background-color: #2F4F4F; /* Verde oscuro */
+  color: #FFFFFF; /* Beige claro */
+  border: none;
+  border-radius: 16px;
+  cursor: pointer;
+  font-size: 0.7rem;
+  font-weight: bold;
+  margin-left: 15px;
+}
+
+.start-level-button:hover {
+  background-color: #88c576; /* Verde claro */
+}
+
 /* Sección de Detalles del Jugador */
 .player-details {
-    flex: 0.3;
-    background-color: #F5DEB3; /* Beige claro */
-    border-radius: 10px;
-    padding: 10px 10px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 2px;
-  }
+  flex: 0.3;
+  background-color: #F5DEB3; /* Beige claro */
+  border-radius: 10px;
+  padding: 10px 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+}
 
-  .player-name {
-    font-size: 0.9rem;
-    color: #274c47; /* Verde oscuro */
-    font-weight: bold;
-    margin: 0
-  }
-  
-  .player-details .player-avatar {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    background-color: #88c576;
-  }
-  
-  .avatar-image {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-  
-  .character-name {
-    font-size: 0.6rem;
-    color: #6b705c; 
-    font-style: italic;
-    margin: 0   ;
-  }
-  
-  .player-stats {
-    margin: 0;
-    width: 100%;
-    text-align: left;
-  }
 
-  .player-stats p{
-    margin: 5px;
-  }
-  
-  .stat-title {
-    font-weight: bold;
-    color: #274c47; /* Verde oscuro */
-    font-size: 0.8rem;
-  }
-  
-  .progress-bar {
-    width: 100%;
-    height: 10px;
-    background-color: #e0e0e0; /* Gris claro */
-    border-radius: 5px;
-    margin-top: 5px;
-  }
-  
-  .progress {
-    height: 100%;
-    background-color: #344966; /* Verde claro */
-    border-radius: 5px;
-  }
-  
-  .player-powers {
-    width: 100%;
-  }
-  
-  .player-powers .powers-title {
-    font-size: 0.9rem;
-    color: #274c47;
-    margin-top: 4px;
-    margin-bottom: 3px;
-    text-align: center;
-  }
-  
-  .powers-list {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-  
-  .power-item {
-    display: flex;
-    align-items: center;
-    gap: 2px;
-    margin-bottom: 1px;
-  }
-  
-  .power-icon {
-    width: 50px;
-    height: 50px;
-  }
-  
-  .power-title {
-    font-size: 0.7rem;
-    font-weight: bold;
-    color: #274c47;
-    margin: 0;
-  }
-  
-  .power-description {
-    font-size: 0.6rem;
-    color: #6b705c;
-    margin: 0;
-  }
-  
+.player-details .player-avatar {
+  width: 200px;
+  height: 130px;
+  border-radius: 10%;
+  background-image: url('https://i.pinimg.com/1200x/13/ae/2b/13ae2b7142daaf58c6458e4f8d3e1acb.jpg');
+  background-size: cover; /* Ajusta la imagen para cubrir el contenedor */
+  background-position: center; /* Centra la imagen */
+}
+
+.character-name {
+  font-size: 0.6rem;
+  color: #6b705c; 
+  font-style: italic;
+  margin: 0   ;
+}
+
+.player-stats {
+  margin: 0;
+  width: 100%;
+  text-align: left;
+}
+
+s
+.stat-title {
+  font-weight: bold;
+  color: #274c47; /* Verde oscuro */
+  font-size: 0.8rem;
+}
+
+.progress-bar {
+  width: 100%;
+  height: 10px;
+  background-color: #e0e0e0; /* Gris claro */
+  border-radius: 5px;
+  margin-top: 1px;
+}
+
+.progress {
+  height: 100%;
+  background-color: #669bbc; /* Verde claro */
+  border-radius: 5px;
+}
+
+.player-powers {
+  width: 100%;
+}
+
+.player-powers .powers-title {
+  font-size: 0.9rem;
+  color: #274c47;
+  margin-top: 4px;
+  margin-bottom: 3px;
+  text-align: center;
+}
+
+.powers-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.power-item {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  margin-bottom: 1px;
+}
+
+.power-icon {
+  width: 50px;
+  height: 50px;
+}
+
+.power-title {
+  font-size: 0.7rem;
+  font-weight: bold;
+  color: #274c47;
+  margin: 0;
+}
+
+.power-description {
+  font-size: 0.6rem;
+  color: #6b705c;
+  margin: 0;
+}
+
+
+.slide-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  padding: 20px;
+  background-color: #f5f5f5;
+  border-radius: 10px;
+}
+
+.slide-image {
+  width: 100%;
+  max-width: 300px;
+  height: auto;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+
+.slick-slide img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+
+.slide-text h2 {
+  font-size: 1.5rem;
+  margin: 0;
+  color: #333;
+}
+
+.slide-text p {
+  font-size: 1rem;
+  color: #666;
+  margin: 10px 0 0;
+}
+
+.swiper {
+  width: 100%; /* Asegúrate de que ocupe el espacio completo */
+  max-width: 100%; /* Para evitar que crezca más allá de su contenedor */
+  height: auto;
+  overflow: hidden; /* Previene crecimiento extraño */
+}
+
+/* Botón del lápiz para editar avatar */
+.edit-avatar-button {
+  position: absolute;
+  top: 34vh;
+  right: 4vw;
+  background-color: #c1a14a; /* Beige */
+  border: none;
+  border-radius: 50%;
+  padding: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s ease, background-color 0.2s ease;
+}
+
+.edit-avatar-button:hover {
+  background-color: #9c6644; /* Más oscuro */
+  transform: scale(1.1);
+}
+
+/* Modal Overlay */
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 200vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5); /* Fondo semitransparente */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000; /* Asegura que esté al frente */
+}
+
+/* Contenido del Modal */
+.modal-content {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 20px;
+  text-align: center;
+  align-items: center;
+  width: 100%;
+  max-width: 50vw;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.modal-content h2 {
+  font-size: 1.5rem;
+  color: #274c47; /* Verde oscuro */
+}
+
+.modal-content p {
+  font-size: 1rem;
+  color: #6b705c; /* Gris oscuro */
+}
+
+.close-modal-button {
+  padding: 10px 20px;
+  background-color: #2f4f4f; /* Verde oscuro */
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 10px;
+  font-size: 1rem;
+}
+
+.close-modal-button:hover {
+  background-color: #88c576; /* Verde claro */
+}
+
+
+.modal-content .store-items {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Máximo 5 ítems por fila */
+  gap: 20px; /* Espaciado entre ítems */
+}
+
+.item-card {
+  background-color: #fff;
+  border: 2px solid #2f4f4f; /* Verde oscuro */
+  border-radius: 10px;
+  text-align: center; 
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  height: 60vh;
+}
+
+.item-card:hover {
+  transform: scale(1.05); /* Efecto de ampliación al pasar el mouse */
+  border-color: #88c576; /* Verde claro */
+}
+
+.item-name {
+  font-size: 1rem;
+  font-weight: bold;
+  color: #2f4f4f;
+  margin-bottom: 40px;
+}
+
+.buy-button {
+  padding: 10px;
+  background-color: #ffd700; /* Amarillo */
+  color: #2f4f4f;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 10vw;
+}

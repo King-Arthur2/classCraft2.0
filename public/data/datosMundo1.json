@@ -1,0 +1,281 @@
+{
+  "datos": [
+    {
+      "mundo": 1,
+      "nivel": 1,
+      "tiempo": "8 minutos",
+      "titulo": " Introducción a la Identificación de Ideas y Vocabulario en Contexto",
+      "objetivos": [
+        "Aprender a identificar ideas principales en textos cortos.",
+        "Comprender vocabulario en contexto mediante ejemplos prácticos."
+      ],
+      "contenido": [
+        "Explicación breve de qué son las ideas principales y cómo diferenciarlas de las secundarias.",
+        "Recurso: Artículo Cómo Identificar Ideas Principales y Secundarias de un Texto.",
+        "Ejercicio rápido: Leer un párrafo y señalar la idea principal."
+      ]
+    },
+    {
+      "mundo": 1,
+      "nivel": 2,
+      "tiempo": "10 minutos",
+      "titulo": "Comprensión de Detalles Específicos",
+      "objetivos": ["Identificar detalles específicos en un texto."],
+      "contenido": [
+        "Presentación de preguntas tipo: \"¿Qué? ¿Quién? ¿Donde? ¿Cuándo? ¿Cómo? ¿Por qué?\" para extraer detalles específicos.",
+        "Recurso: Comprensión y Análisis de Lecturas.",
+        "Ejercicio práctico: Leer 3 lecturas y responder preguntas de comprensión detallada."
+      ]
+    },
+    {
+      "mundo": 1,
+      "nivel": 3,
+      "tiempo": "10 minutos",
+      "titulo": " Introducción a la Identificación de Ideas y Vocabulario en Contexto",
+      "objetivos": [
+        "Reconocer la estructura básica de un texto (introducción, desarrollo, conclusión).",
+        "Desarrollar fluidez en la redacción con ejercicios progresivos."
+      ],
+      "contenido": [
+        "Explicación breve sobre estructuras textuales comunes.",
+        "Recurso: Capítulo de Taller de Lectura: Una Guía Completa para Mejorar tus Habilidades.",
+        "Ejercicio práctico: Identificar la información proporcionada sobre la estructura de los textos."
+      ]
+    },
+    {
+      "mundo": 1,
+      "nivel": 4,
+      "tiempo": "10 minutos",
+      "titulo": "Evaluación Crítica y Comprensión en Contexto",
+      "objetivos": [
+        "Evaluar críticamente un texto.",
+        "Mejorar la comprensión lectora mediante el análisis contextual del vocabulario."
+      ],
+      "contenido": [
+        "Introducción a preguntas críticas: ¿Qué se argumenta? ¿Qué evidencias se presentan?",
+        "Recurso: Reflexión y Crítica Personal.",
+        "Ejercicio práctico: Evaluar brevemente un texto argumentativo."
+      ]
+    },
+    {
+      "mundo": 1,
+      "nivel": 5,
+      "tiempo": "10 minutos",
+      "titulo": "Integración de Habilidades y Revisión General",
+      "objetivos": [
+        "Integrar todas las habilidades aprendidas.",
+        "Prepararse para aplicar estas habilidades en tareas académicas."
+      ],
+      "contenido": [
+        "Repaso rápido de todas las habilidades cubiertas: identificación de ideas, detalles, vocabulario y creatividad.",
+        "Ejercicio práctico integrado: Leer un texto breve, identificar idea principal, detalles, vocabulario en contexto y realizar una evaluación crítica."
+      ]
+    },
+    {
+      "mundo": 1,
+      "nivel": 6,
+      "tiempo": "40 minutos",
+      "titulo": "Examen Mundo 1",
+      "objetivos": [
+        "Aplicar los conocimientos adquiridos durante las lecciones de los niveles anteriores."
+      ],
+      "contenido": [
+        "Ejercicio práctico: Leer y responder preguntas de redacción indirecta y comprensión lectora. "
+      ]
+    },
+    {
+      "mundo": 2,
+      "nivel": 7,
+      "tiempo": "8 minutos",
+      "titulo": "Reconocimiento de la estructura de diferentes textos - Capacidad de Síntesis",
+      "objetivos": [
+        "Identificar la estructura de textos con distintos referentes.",
+        "Desarrollar la habilidad de síntesis."
+      ],
+      "contenido": [
+        "Introducción a las partes principales de un texto.",
+        "Repaso con ejemplos prácticos de cada tipo de texto y cómo diferenciarlos."
+      ]
+    },
+    {
+      "mundo": 2,
+      "nivel": 8,
+      "tiempo": "13 minutos",
+      "titulo": "Uso adecuado de la gramática - Ortografía y Gramática",
+      "objetivos": [
+        "Reforzar reglas ortográficas esenciales.",
+        "Practicar el uso correcto de estructuras gramaticales básicas."
+      ],
+      "contenido": [
+        "Repaso de reglas ortográficas comúnmente confundidas.",
+        "Ejercicio de identificación y corrección de errores gramaticales.",
+        "Práctica rápida de conjugación verbal."
+      ]
+    },
+    {
+      "mundo": 2,
+      "nivel": 9,
+      "tiempo": "13 minutos",
+      "titulo": "Comprensión de vocabulario en contexto - Uso de Vocabulario Adecuado",
+      "objetivos": [
+        "Mejorar la comprensión de palabras en diferentes contextos.",
+        "Ampliar el vocabulario académico."
+      ],
+      "contenido": [
+        "Estrategias para deducir significados por contexto.",
+        "Práctica de sustitución de palabras por sinónimos más formales.",
+        "Práctica de selección de palabras por antónimos."
+      ]
+    },
+    {
+      "mundo": 2,
+      "nivel": 10,
+      "tiempo": "13 minutos",
+      "titulo": "Coherencia y cohesión en los textos",
+      "objetivos": [
+        "Comprender los principios de coherencia y cohesión textual."
+      ],
+      "contenido": [
+        "Explicación breve de coherencia y cohesión.",
+        "Ejercicio práctico: Leer y debatir la coherencia y cohesión de las lecturas."
+      ]
+    },
+    {
+      "mundo": 2,
+      "nivel": 11,
+      "tiempo": "13 minutos",
+      "titulo": "Integración de habilidades",
+      "objetivos": [
+        "Aplicar las habilidades aprendidas en las lecciones anteriores."
+      ],
+      "contenido": [
+        "Repaso rápido de los conceptos clave de las lecciones anteriores.",
+        "Autoevaluación rápida y cierre."
+      ]
+    },
+    {
+      "mundo": 1,
+      "nivel": 12,
+      "tiempo": "40 minutos",
+      "titulo": "Examen Mundo 2",
+      "objetivos": [
+        "Aplicar los conocimientos adquiridos durante las lecciones de los niveles anteriores."
+      ],
+      "contenido": [
+        "Ejercicio práctico: Leer y responder preguntas de redacción indirecta y comprensión lectora. "
+      ]
+    },
+    {
+      "mundo": 3,
+      "nivel": 13,
+      "tiempo": "10 minutos",
+      "titulo": "Incorporación Efectiva del Feedback en la Escritura",
+      "objetivos": [
+        "Aprender a utilizar el feedback recibido para mejorar la fluidez y calidad de la escritura."
+      ],
+      "contenido": [
+        "Importancia del feedback en el proceso de escritura.",
+        "Tipos de feedback: estructural, estilístico y de contenido.",
+        "Técnicas para analizar y priorizar el feedback recibido.",
+        "Estrategias para incorporar el feedback de manera efectiva.",
+        "Ejercicio práctico: Revisión de un texto basado en feedback simulado."
+      ]
+    },
+    {
+      "mundo": 3,
+      "nivel": 14,
+      "tiempo": "15 minutos",
+      "titulo": "Análisis Crítico de Argumentos en Textos Complejos",
+      "objetivos": [
+        "Desarrollar habilidades para evaluar críticamente argumentos en textos académicos o especializados."
+      ],
+      "contenido": [
+        "Identificación de la tesis principal y los argumentos secundarios.",
+        "Evaluación de la solidez de los argumentos presentados.",
+        "Ejercicio práctico: Análisis de un fragmento de texto argumentativo."
+      ]
+    },
+    {
+      "mundo": 3,
+      "nivel": 15,
+      "tiempo": "10 minutos",
+      "titulo": "Herramientas Digitales para Potenciar la Creatividad en la Escritura",
+      "objetivos": [
+        "Explorar herramientas digitales que fomenten la creatividad y mejoren el proceso de escritura."
+      ],
+      "contenido": [
+        "Introducción a herramientas de lluvia de ideas digital.",
+        "Aplicaciones de mapeo mental para organizar ideas.",
+        "Plataformas colaborativas para escritura en grupo.",
+        "Ejercicio: cuestionario sobre lo aprendido en la lección."
+      ]
+    },
+    {
+      "mundo": 3,
+      "nivel": 16,
+      "tiempo": "20 minutos",
+      "titulo": "Aplicación Avanzada de Reglas Gramaticales en la Escritura",
+      "objetivos": [
+        "Reforzar la aplicación de reglas gramaticales complejas en la escritura avanzada."
+      ],
+      "contenido": [
+        "Revisión de estructuras gramaticales avanzadas.",
+        "Uso correcto de modos verbales en contextos específicos.",
+        "Ejercicio práctico: Cuestionario de reglas gramaticales."
+      ]
+    },
+    {
+      "mundo": 3,
+      "nivel": 17,
+      "tiempo": "No tiene tiempo límite",
+      "titulo": "Técnicas de Revisión para Mejorar la Fluidez y Velocidad en la Lectura",
+      "objetivos": [
+        "Aprender técnicas de revisión y estrategias prácticas para mejorar la fluidez, velocidad y comprensión lectora en textos avanzados."
+      ],
+      "contenido": [
+        "Estrategias para identificar interrupciones en la fluidez y ritmo de lectura.",
+        "Técnicas para minimizar regresiones y puntos de fijación ocular.",
+        "Métodos para reducir verbalizaciones y leer bloques de palabras.",
+        "Uso de variedad sintáctica para optimizar la experiencia lectora.",
+        "Ejercicio práctico: Cronometrar velocidad inicial, aplicar técnicas y medir mejoras."
+      ]
+    },
+    {
+        "mundo": 3,
+        "nivel": 18,
+        "tiempo": "40 minutos",
+        "titulo": "Examen Mundo 3",
+        "objetivos": [
+          "Evaluar el aprendizaje acumulado durante las lecciones del Mundo 3."
+        ],
+        "contenido": [
+          "Ejercicio práctico: Resolver preguntas de análisis crítico, gramática avanzada y comprensión lectora compleja."
+        ]
+      },
+      {
+        "mundo": 1,
+        "nivel": 19,
+        "tiempo": "60 minutos",
+        "titulo": "Examen Final de Escritura y Lectura",
+        "objetivos": [
+          "Aplicar todas las habilidades adquiridas en un escenario práctico de escritura y lectura avanzada."
+        ],
+        "contenido": [
+          "Ejercicio práctico: Redacción de un texto argumentativo, análisis de coherencia y cohesión, y evaluación crítica de un texto complementario."
+        ]
+      },
+      {
+        "mundo": 1,
+        "nivel": 20,
+        "tiempo": "60 minutos",
+        "titulo": "Evaluación Integral Final",
+        "objetivos": [
+          "Demostrar dominio de todas las habilidades aprendidas en los mundos anteriores."
+        ],
+        "contenido": [
+          "Ejercicio práctico: Responder preguntas que integren gramática, vocabulario, análisis crítico y redacción estructurada."
+        ]
+      }
+      
+  ]
+}

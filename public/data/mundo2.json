@@ -1,0 +1,1041 @@
+{
+  "niveles": [
+    {
+      "nivel": "Nivel 7",
+      "tiempo": 480,
+      "lecturas": [
+        {
+          "titulo": "Pingüinos",
+          "contenido": "No todos conocemos un pingüino, pero casi todos los hemos visto en imágenes desde que éramos niños. Pese a ello, muchas personas desconocen las condiciones extremas en que estos animales habitan.\n\nEl pingüino es el único vertebrado que vive durante el invierno en la Antártica sin madriguera o nido. En 2005, dichos animales tuvieron la compañía de un grupo de biólogos interesados en conocer lo que les permite vivir y reproducirse a temperaturas menores a los 25°C bajo cero.\n\nDurante el otoño se dedican a pescar en el mar, para lo cual se sumergen a profundidades hasta de 500 metros. Su cuerpo tiene un diseño hidrodinámico que les permite nadar casi totalmente rígidos con un gasto mínimo de energía y, además, pueden permanecer bajo el agua hasta por 20 minutos.\n\nEsto es posible porque consumen aire adicional que almacenan en unas bolsas alojadas junto a los pulmones.\n\nTienen proporciones considerables de hemoglobina en sangre y mioglobina en sus músculos, sustancias encargadas de atrapar oxígeno del aire para llevarlo a los tejidos.\n\nDe grandes profundidades ascienden súbitamente a la superficie sin sufrir daño; la denominada descompresión que padecen los buzos cuando ascienden con rapidez y que les puede ocasionar la muerte debido a la formación de burbujas de nitrógeno en la sangre. Aún se desconoce el mecanismo por medio del cual estas singulares aves mantienen el equilibrio de los gases en sangre.\n\nDurante el invierno la hembra pone un huevo, que el macho empolla durante siete semanas, tiempo en el que él permanece parado, cubriéndolo, sin probar alimento; mientras que ella regresa al mar, con el objetivo de traer comida para el polluelo.\n\nLos conocimientos que los biólogos obtengan sobre los mecanismos que permiten a los pingüinos vivir en situaciones extremas permitirán entender mejor la fisiología de todos los seres vivos.",
+
+          "preguntas": [
+            {
+              "pregunta": "1.¿De qué habla el texto “Pingüinos”?",
+              "numPregunta": 1,
+              "respuestas": [
+                "El porqué los pingüinos pueden sobrevivir en un clima muy frío.",
+                "La importancia de que todas las personas conozcan un pingüino.",
+                "Los hábitos alimenticios y reproductivos de los pingüinos."
+              ],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "Vuelve a leer con atención este fragmento: \n\n[...] No todos conocemos un pingüino, pero casi todos los hemos visto en imágenes desde que éramos niños. Pese a ello, muchas personas desconocen las condiciones extremas en que estos animales habitan. \n\nEl pingüino es el único vertebrado que vive durante el invierno en la Antártica sin madriguera o nido. En 2005, dichos animales tuvieron la compañía de un grupo de biólogos interesados en conocer lo que les permite vivir y reproducirse a temperaturas menores a los 25°C bajo cero. [...] \n\n ¿Cuáles son los sustantivos, verbos y adjetivos de estos párrafos que se relacionan estrechamente con el tema del texto?",
+              "numPregunta": 2,
+              "respuestas": [
+                "pingüino, niños, animales, Antártica, madriguera, biólogos, vivir, 25°C bajo cero.",
+                "pingüino, condiciones extremas, Antártica, vivir, reproducirse, 25°C bajo cero.",
+                "muchas personas desconocen las condiciones extremas en que estos animales habitan."
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "Vuelve a leer los siguientes fragmentos: \n\n [...] Durante el otoño se dedican a pescar en el mar, para lo cual se sumergen a profundidades hasta de 500 metros. Su cuerpo tiene un diseño hidrodinámico que les permite nadar casi totalmente rígidos con un gasto mínimo de energía y, además, pueden permanecer bajo el agua hasta por 20 minutos. [...] \n\nDe grandes profundidades ascienden súbitamente a la superficie sin sufrir daño, la denominada descompresión, que padecen los buzos cuando ascienden con rapidez y que les puede ocasionar la muerte debido a la formación de burbujas de nitrógeno en la sangre. Aún se desconoce el mecanismo por medio del cual estas singulares aves mantienen el equilibrio de los gases en sangre. [...] \n\nLos conocimientos que los biólogos obtengan sobre los mecanismos que permiten a los pingüinos vivir en situaciones extremas permitirán entender mejor la fisiología de todos los seres vivos. [...] \n\n3.¿Cuál de estos tecnicismos es una palabra clave del texto?",
+              "numPregunta": 3,
+              "respuestas": ["fisiología", "hidrodinámico", "descompresión"],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "Vuelve a leer el siguiente fragmento: \n\n [...] Durante el otoño se dedican a pescar en el mar, para lo cual se sumergen a profundidades hasta de 500 metros. Su cuerpo tiene un diseño hidrodinámico que les permite nadar casi totalmente rígidos con un gasto mínimo de energía y, además, pueden permanecer bajo el agua hasta por 20 minutos [...] \n\n ¿Cuál es la oración principal de este párrafo?",
+              "numPregunta": 4,
+              "respuestas": [
+                "Durante el otoño se dedican a pescar en el mar.",
+                "Les permite nadar casi totalmente rígidos con un gasto mínimo de energía.",
+                "Su cuerpo tiene un diseño hidrodinámico."
+              ],
+              "correcta": 2,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Nivel 8",
+      "tiempo": 780,
+      "lecturas": [
+        {
+          "titulo": "Ejercicio",
+          "contenido": "Responde correctamente a las preguntas, algunas de las palabras están escritas de manera incorrecta.",
+          "preguntas": [
+            {
+              "pregunta": "¿La palabra rey lleva tilde? Oración: 'El rey convocó a una reunión urgente.'",
+              "numPregunta": 1,
+              "respuestas": ["Sí", "No", "Solo en algunos casos"],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "La palabra canción es:",
+              "numPregunta": 2,
+              "respuestas": ["Aguda", "Grave", "Esdrújula"],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "La palabra feliz es:",
+              "numPregunta": 3,
+              "respuestas": ["Aguda", "Grave", "Esdrújula"],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "La palabra rápido es:",
+              "numPregunta": 4,
+              "respuestas": ["Aguda", "Grave", "Esdrújula"],
+              "correcta": 2,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿La palabra luz lleva tilde?",
+              "numPregunta": 5,
+              "respuestas": ["Sí", "No", "Solo en algunos casos"],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿La palabra jamás lleva tilde?",
+              "numPregunta": 6,
+              "respuestas": ["Sí", "No", "Solo en algunos casos"],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Por qué la palabra tacos no lleva tilde?",
+              "numPregunta": 7,
+              "respuestas": [
+                "Porque es una palabra grave terminada en 's'.",
+                "Porque es una palabra aguda.",
+                "Porque es una palabra esdrújula."
+              ],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Por qué la palabra habitual no lleva tilde?",
+              "numPregunta": 8,
+              "respuestas": [
+                "Porque es una palabra grave que termina en consonante distinta de 'n' o 's'.",
+                "Porque es una palabra aguda que termina en 'l'.",
+                "Porque es una palabra esdrújula."
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Por qué la palabra hombre no lleva tilde?",
+              "numPregunta": 9,
+              "respuestas": [
+                "Porque es una palabra grave terminada en consonante distinta de 'n' o 's'.",
+                "Porque es una palabra grave terminada en vocal.",
+                "Porque es una palabra aguda."
+              ],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Por qué la palabra orden no lleva tilde?",
+              "numPregunta": 10,
+              "respuestas": [
+                "Porque es una palabra grave terminada en 'n'.",
+                "Porque es una palabra aguda terminada en consonante distinta de 'n' o 's'.",
+                "Porque es una palabra aguda."
+              ],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Nivel 9",
+      "tiempo": 780,
+      "lecturas": [
+        {
+          "titulo": "Ejercicio",
+          "contenido": "Responde de manera correcta las preguntas. ",
+          "preguntas": [
+            {
+              "pregunta": "El sinónimo de 'deleznable' es:",
+              "numPregunta": 1,
+              "respuestas": ["Despreciable", "Extraordinario", "Imperceptible"],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Cuál es el antónimo de 'magnánimo'?",
+              "numPregunta": 2,
+              "respuestas": ["Altruista", "Ruin", "Benevolente"],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "El sinónimo de 'ostensible' es:",
+              "numPregunta": 3,
+              "respuestas": ["Discreto", "Transparente", "Encubierto"],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "En la siguiente oración, identifica el antónimo del término en mayúsculas: 'Su actitud fue TAN FRÍVOLO como irresponsable.'",
+              "numPregunta": 4,
+              "respuestas": ["Refinado", "Prudente", "Rencoroso"],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Cuál es el sinónimo de 'escrupuloso' en el siguiente contexto?: 'El profesor es muy escrupuloso al corregir los exámenes.'",
+              "numPregunta": 5,
+              "respuestas": ["Descuidado", "Riguroso", "Perseverante"],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "El antónimo de 'taciturno' es:",
+              "numPregunta": 6,
+              "respuestas": ["Gregario", "Solitario", "Reservado"],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "El sinónimo de 'deplorable' es:",
+              "numPregunta": 7,
+              "respuestas": ["Admirable", "Elogiable", "Lamentable"],
+              "correcta": 2,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "En la siguiente oración, selecciona la palabra que sea contraria al sentido de 'remediar': 'Esperamos que esta decisión ayude a remediar la situación, en lugar de ____ el problema.'",
+              "numPregunta": 8,
+              "respuestas": ["Agravar", "Suavizar", "Frenar"],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Cuál es el sinónimo más adecuado de 'ambigüedad' en el siguiente contexto?: 'La ambigüedad del texto dificulta su interpretación.'",
+              "numPregunta": 9,
+              "respuestas": ["Claridad", "Indefinición", "Exactitud"],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "En la siguiente oración, ¿qué palabra sustituiría mejor a 'explicitar'?: 'El informe debe explicitar todos los supuestos antes de presentar conclusiones.'",
+              "numPregunta": 10,
+              "respuestas": ["Delimitar", "Ocultar", "Manifestar"],
+              "correcta": 2,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "El antónimo de 'beligerante' es:",
+              "numPregunta": 11,
+              "respuestas": ["Pacífico", "Hostil", "Inflexible"],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Cuál es el sinónimo más apropiado de 'perentorio' en esta frase?: 'El jefe hizo un llamado perentorio a cumplir con el plazo de entrega.'",
+              "numPregunta": 12,
+              "respuestas": ["Exigente", "Superficial", "Ocioso"],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "El antónimo de 'inocuo' en la siguiente oración es: 'Aunque el producto parecía inocuo, se descubrió que era ____ para los consumidores.'",
+              "numPregunta": 13,
+              "respuestas": ["Superficial", "Dañino", "Impostado"],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Qué opción es sinónima de 'plausible' en el contexto de: 'La propuesta es plausible dadas las circunstancias actuales.'?",
+              "numPregunta": 14,
+              "respuestas": ["Descabellada", "Conveniente", "Imposible"],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "Completa la oración con la palabra contraria al sentido de 'negar': 'En cuanto se obtengan pruebas fehacientes, se debe ____ la responsabilidad de los implicados.'",
+              "numPregunta": 15,
+              "respuestas": ["Ratificar", "Omitir", "Rehusar"],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Nivel 10",
+      "tiempo": 780,
+      "lecturas": [
+        {
+          "titulo": "El perro ganador",
+          "contenido": "Había una vez un perro llamado Manchas que era el mejor del mundo aullando. Por ello, daba clases de aullidos a otros perros que no sabían cómo aullar. En sus clases había perritos que por más que intentaban no podían aullar igual de bien que su maestro. Un día Manchas, se dio cuenta de que uno de sus alumnos comenzó a aullar muy bien. \n\nEn otra ocasión, cuando Manchas paseaba por la calle, vio el cartel de un concurso de aullidos, por lo que sonrió y pensó en su alumno y sin dudarlo lo inscribió en el concurso. \n\nDos meses después Manchas se convirtió en el orgulloso profesor del ganador del concurso de Aullidos del pueblo.",
+          "preguntas": [
+            {
+              "pregunta": "¿Consideras que el texto “El perro ganador” tiene coherencia?",
+              "numPregunta": 1,
+              "respuestas": [
+                "Sí, porque las acciones y logros de Manchas se describen de manera ordenada y lógica.",
+                "No, porque no se entiende la relación entre el concurso y las clases de aullidos.",
+                "No estoy seguro(a), pues no se dan suficientes detalles sobre cómo gana el alumno el concurso."
+              ],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Cuál de los siguientes conjuntos de aspectos te ayuda mejor a evaluar la coherencia del texto?",
+              "numPregunta": 2,
+              "respuestas": [
+                "Secuencia clara de eventos (introducción, desarrollo, final), evolución del alumno y desenlace coherente.",
+                "Personajes secundarios con papeles confusos, información inconexa y final ambiguo.",
+                "Uso de lenguaje poético, descripciones de paisajes y ausencia de un objetivo para el protagonista."
+              ],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            }
+          ]
+        },
+        {
+          "titulo": "Ciencia",
+          "contenido": "La ciencia es uno de los elementos que caracterizan al siglo XX. Producto de los tiempos modernos, ha crecido de manera acelerada en años recientes y cada día influye más en la vida cotidiana. Sin embargo, para la mayoría de las personas, esta influencia no siempre es evidente: la rapidez con que avanzan las investigaciones y los descubrimientos puede dificultar la comprensión del alcance real de estos desarrollos. \n\n Asimismo, muchos de los logros de la investigación científica siguen siendo desconocidos fuera de los círculos especializados, lo que genera una brecha entre quienes producen el conocimiento y quienes se benefician de él. Pese a ello, es innegable que la ciencia desempeña un papel clave para enfrentar desafíos actuales como el cambio climático o el desarrollo de nuevas tecnologías. De ahí la importancia de fomentar la difusión de sus avances para que la sociedad pueda participar en la construcción de un futuro sostenible.",
+          "preguntas": [
+            {
+              "pregunta": "¿Consideras que el texto tiene cohesión?",
+              "numPregunta": 1,
+              "respuestas": [
+                "Sí, porque todas las ideas se conectan de manera lógica.",
+                "No, porque las oraciones no guardan relación entre sí y parecen desorganizadas.",
+                "No puedo saberlo, ya que no habla de un tema específico."
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Cuál de los siguientes grupos de aspectos evidencia que el texto carece de cohesión?",
+              "numPregunta": 2,
+              "respuestas": [
+                "Secuencia temporal clara, uso correcto de conectores y conclusión coherente.",
+                "Falta de conectores, ideas aisladas y transiciones confusas entre oraciones.",
+                "Precisión en la terminología, ejemplos consistentes y estructura lógica."
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Nivel 11",
+      "tiempo": 780,
+      "lecturas": [
+        {
+          "titulo": "Ejercicio",
+          "contenido": "Responde las siguientes preguntas.",
+          "preguntas": [
+            {
+              "pregunta": "¿Qué característica es esencial para un texto narrativo?",
+              "numPregunta": 1,
+              "respuestas": [
+                "Uso de tecnicismos y conectores.",
+                "Desarrollo de una historia con tiempo, espacio y personajes.",
+                "Presentación de datos científicos."
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Cuál es el propósito principal de un texto expositivo?",
+              "numPregunta": 2,
+              "respuestas": [
+                "Persuadir al lector sobre un punto de vista.",
+                "Desarrollar una narrativa creativa.",
+                "Explicar o describir información de manera objetiva."
+              ],
+              "correcta": 2,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "En los textos argumentativos, ¿qué elemento fundamenta la discusión?",
+              "numPregunta": 3,
+              "respuestas": [
+                "La secuencia temporal.",
+                "La tesis y los argumentos.",
+                "Las características de los personajes."
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Qué tipo de palabra siempre lleva tilde?",
+              "numPregunta": 4,
+              "respuestas": [
+                "Graves.",
+                "Esdrújulas.",
+                "Agudas terminadas en consonante."
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Qué caracteriza a las palabras sobresdrújulas?",
+              "numPregunta": 5,
+              "respuestas": [
+                "Llevan la sílaba tónica en la antepenúltima sílaba.",
+                "Están formadas por un pronombre enclítico.",
+                "No llevan tilde si terminan en vocal."
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Cuál es el antónimo recíproco de 'entrar'?",
+              "numPregunta": 6,
+              "respuestas": ["Salir.", "Estrechar.", "Cerrar."],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Qué tipo de sinónimo tiene el mismo significado en cualquier contexto?",
+              "numPregunta": 7,
+              "respuestas": ["Parcial.", "Total.", "Con diferencia de grado."],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Cuál es el propósito de la sinonimia en un texto?",
+              "numPregunta": 8,
+              "respuestas": [
+                "Aumentar la variedad y evitar repeticiones.",
+                "Crear contradicciones en las ideas.",
+                "Simplificar el contenido eliminando conceptos complejos."
+              ],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Qué asegura la coherencia de un texto?",
+              "numPregunta": 9,
+              "respuestas": [
+                "Uso de conectores como 'además' y 'sin embargo'.",
+                "Organización lógica y relación entre ideas.",
+                "Precisión en el uso de tecnicismos."
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Qué elemento es un indicador de cohesión textual?",
+              "numPregunta": 10,
+              "respuestas": [
+                "Uso de ideas independientes sin conexión.",
+                "Marcadores como 'este', 'aquel' y 'cuyo'.",
+                "Organización cronológica de eventos."
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Cuál de las siguientes afirmaciones es verdadera sobre los textos expositivos?",
+              "numPregunta": 11,
+              "respuestas": [
+                "Presentan datos de forma objetiva y estructurada.",
+                "Utilizan un lenguaje subjetivo y emocional.",
+                "Carecen de una introducción y conclusión claras."
+              ],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Qué característica tienen los antónimos graduales?",
+              "numPregunta": 12,
+              "respuestas": [
+                "Hay niveles intermedios entre los significados opuestos.",
+                "Se eliminan mutuamente.",
+                "Son intercambiables en cualquier contexto."
+              ],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Qué tipo de texto busca persuadir al lector?",
+              "numPregunta": 13,
+              "respuestas": ["Narrativo.", "Argumentativo.", "Expositivo."],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Qué elemento ayuda a identificar un texto coherente?",
+              "numPregunta": 14,
+              "respuestas": [
+                "Las ideas se relacionan de manera lógica y ordenada.",
+                "No hay repeticiones de conceptos clave.",
+                "La presencia de tecnicismos complejos."
+              ],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Qué recurso lingüístico fortalece la cohesión en un texto?",
+              "numPregunta": 15,
+              "respuestas": [
+                "El uso de sinónimos y antónimos.",
+                "La incorporación de relatos subjetivos.",
+                "La omisión de conectores y puntuación."
+              ],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Nivel 12",
+      "tiempo": 2400,
+      "lecturas": [
+        {
+          "titulo": "Mexicanos acceden más a Internet ",
+          "contenido": "Durante los últimos años el acceso a internet ha aumentado en todo el mundo. El impacto que esta herramienta tiene para el desarrollo del país, las empresas y la sociedad es cada vez mayor. Al respecto, el Instituto Nacional de Estadística y Geografía (INEGI), acaba de publicar los resultados de la última Encuesta Nacional sobre Disponibilidad y Uso de Tecnologías de la Información en los Hogares (ENDUTIH) realizada en 2016, la cual indica que actualmente 65.5 millones de mexicanos mayores de 6 años utilizan internet. [...] \n\nLa última información de la ENDUTIH revela que para 2016, casi la mitad de los hogares mexicanos cuentan con acceso a internet (47 %), el equivalente a 15.7 millones de hogares. \n\nLa tendencia histórica indica que la penetración de internet en los hogares ha aumentado considerablemente, muestra de ello es que de 2015 a 2016, se incrementó en 7.8 puntos el porcentaje de viviendas con este servicio. En diez años el número de hogares con acceso a la red se ha cuadruplicado: de 10.1 % en 2006 a 47 % en 2016. [...] \n\nEl análisis sociodemográfico de los usuarios de internet registrado por la ENDUTIH indica que en los grupos etarios que están entre los 6 y 59 años, las mujeres son quienes más utilizan internet respecto de los hombres. Sólo en el grupo de 60 años y más los hombres lideran en el uso de internet. Entre los adultos de edad mediana (35 a 59 años) la brecha entre hombres y mujeres es la más alta de todas, 6.4 puntos de mujeres respecto a los varones. <b> 0 \n\nLa encuesta de INEGI señala, además, que el acceso a internet desde telefonía móvil ha sido un factor importante para el uso de esta herramienta. La ENDUTIH registró que 73.6 % de la población de seis años y más utiliza un celular. De ese total actualmente 74.8 % de los usuarios posee un teléfono inteligente, o smartphone; cifra que aumentó 9.7 puntos con respecto al año 2015. Paralelamente el uso de celular común disminuyó casi dos dígitos (9.6 %) entre 2015 y 2016. [...] <b> 1",
+          "preguntas": [
+            {
+              "pregunta": "De acuerdo con la información de la encuesta, el aumento en la cantidad de hogares con internet es una tendencia mundial porque…",
+              "numPregunta": 1,
+              "respuestas": [
+                "cada vez hay más celulares inteligentes que lo necesitan",
+                "existen más actividades sociales y económicas que lo demandan",
+                "conforme va aumentando la edad de la población, lo necesita más"
+              ],
+              "correcta": 1,
+              "retroalimentacion": "No hay información suficiente para establecer que es la existencia de celulares inteligentes la que provoca el aumento de hogares con internet.",
+              "retroalimentacionIndex": 0
+            },
+            {
+              "pregunta": "En México, en 2016 había _______ mujeres que usaban internet en el rango de _______, en comparación con los hombres.",
+              "numPregunta": 2,
+              "respuestas": [
+                "6.4 % más, 35 a 59 años",
+                "7.8 % menos, 60 años y más",
+                "47 % más, 18 a 34 años"
+              ],
+              "correcta": 0,
+              "retroalimentacion": "En este punto hay una mayoría de mujeres, pero la diferencia es apenas de 2.4 puntos.",
+              "retroalimentacionIndex": 2
+            },
+            {
+              "pregunta": "De acuerdo con el texto, la disminución en el uso del celular común entre 2015 y 2016 se debe a que...",
+              "numPregunta": 3,
+              "respuestas": [
+                "hay más población usuaria de las tecnologías",
+                "la cobertura de internet en México aumentó",
+                "se está migrando a teléfonos inteligentes"
+              ],
+              "correcta": 2,
+              "retroalimentacion": "Con la comparación de los porcentajes de uso de ambos tipos de celular sobresale que el aumento de uso de los teléfonos inteligentes provocó la disminución en el teléfono sencillo.",
+              "retroalimentacionIndex": 2
+            }
+          ]
+        },
+        {
+          "titulo": "Grillos",
+          "contenido": "Son insectos que pertenecen a la familia de los ortópteros, son omnívoros. Las extremidades posteriores están muy desarrolladas, lo que les permite dar saltos. Muchos son nocturnos y el canto que emiten es muy ruidoso. \n\nSe destacan entre otras características por desplazarse saltando, gracias al último par de apéndices marchadores que están muy desarrollados en este grupo. Presentan una cabeza robusta de tipo ortognata y poseen piezas bucales masticadoras. \n\nMorfología\n\n Color carmelita a negro\n\n La largura del ala frontal varía, cubriendo a veces la mitad del abdomen y otras veces el abdomen entero\n\n La largura de la antena va de la cabeza hasta el fondo del abdomen\n\n Mantienen las alas estiradas sobre el cuerpo\n\n Alas posteriores dobladas y escondidas debajo de las alas correosas delanteras\n\n Abdomen alargado en todos los miembros dividido en 11 segmentos\n\nLa hembra madura tiene ovopositor largo (en la superficie ventral) al final del abdomen (quizá parezca como dos piezas); ambos sexos tienen cercos (apéndices segmentados, que parecen como una cola, en la superficie dorsal). Las alas están completamente extendidas sobre el abdomen, aunque algunas especies no tienen alas. Los estadios inmaduros parecen adultos, excepto que no tienen las alas completamente desarrolladas. A las ninfas mayores se les puede notar el desarrollo de los rudimentos alares. El ovopositor de la hembra se comienza a notar antes de que sea adulta y aumenta en largura cada vez que muda. \n\nViven principalmente en basura de hojas, debajo o cerca de troncos o en jardines en las áreas húmedas. En algunas ciudades son abundantes en casas, graneros y jardines. Se alimentan principalmente de material orgánico, tanto como de material de plantas desintegradas, hongos y plántulas. Muchos son nocturnos. Sus depredadores naturales son las arañas, ciertas avispas, escarabajos, pájaros a ras de tierra, los roedores y lagartos pequeños. \n\nSon animales solitarios que no toleran demasiado bien la presencia de otros congéneres en su territorio, especialmente si son machos; el grado de territorialidad varía entre las especies. Para atraer a una compañera, los machos producen un sonido que hacen frotando las alas delanteras una contra la otra. Este chirrido es escuchado por las hembras con los oídos que se encuentran en las patas delanteras. Los chirridos son diferentes en cada especie para que cada individuo pueda encontrar su propia especie. Las hembras ponen sus huevos en la tierra con sus ovopositores. \n\nEl impacto positivo que tienen estos insectos es que desintegran material de plantas, renovando los minerales en la tierra. También son una fuente importante de comida para otros animales. El negativo es que pueden dañar plántulas, en cantidades grandes son destructivos y los cantos de los machos pueden ser muy molestos por ruidosos. \n\nLos mejores lugares para buscar grillos son entre la basura de hojas, debajo o cerca de troncos o en jardines en las áreas húmedas; en zonas rurales abundan en los graneros y jardines. Aunque, si necesita muchos de ellos, quizá sea recomendable comprarlos en tiendas de animales y averiguar cuándo llega la mercancía para que estén frescos y saludables.",
+          "preguntas": [
+            {
+              "pregunta": "De acuerdo con el texto, los machos _______ y las hembras tienen _______.",
+              "numPregunta": 4,
+              "respuestas": [
+                "son animales solitarios - un ovopositor a partir de la edad adulta",
+                "emiten chirridos producidos con sus patas - un sentido de atracción por estos",
+                "poseen extremidades posteriores muy desarrolladas - oídos en las patas"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "En el texto se dice que \"el ovopositor de la hembra se comienza a notar antes de que sea adulta y aumenta en largura cada vez que muda\""
+            },
+            {
+              "pregunta": "¿Cuál es el propósito del texto?",
+              "numPregunta": 5,
+              "respuestas": [
+                "Brindar datos básicos acerca del desarrollo de los grillos",
+                "Proponer la mejor forma de capturar a los grillos",
+                "Dar información técnica acerca de las características de los grillos"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "Es un texto informativo que toma aspectos técnicos y los adecua a un formato accesible para difundir información acerca de los grillos."
+            },
+            {
+              "pregunta": "Los machos _______ para atraer a las hembras, que se distinguen por _______.",
+              "numPregunta": 6,
+              "respuestas": [
+                "son de color más claro - poseer antenas más largas",
+                "tienen ovopositores largos - emitir un chirrido menos ruidoso",
+                "emiten un chirrido - tener un ovopositor largo"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "De acuerdo con el texto los ovopositores los portan las hembras y el chirrido lo emiten los machos. "
+            },
+            {
+              "pregunta": "Uno de los beneficios que aportan los grillos a los jardines es...",
+              "numPregunta": 7,
+              "respuestas": [
+                "combatir animales, como arañas, avispas y escarabajos",
+                "contribuir a la descomposición de materia orgánica en la tierra",
+                "terminar con plántulas, hongos y material orgánico"
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "Esta inferencia es errónea porque en el texto se marca como un aspecto negativo el que los grillos acaben con las plántulas."
+            },
+            {
+              "pregunta": "Tomando en cuenta la información del texto, ¿por qué es posible considerar a los grillos como plagas?",
+              "numPregunta": 8,
+              "respuestas": [
+                "Debido a que habitan lugares domésticos, como graneros y jardines",
+                "Por su forma de alimentación y su capacidad para reproducirse",
+                "Porque son extremadamente ruidosos y habitan en lugares sucios"
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": " Aquí se representan los datos del texto \"son ruidosos y pueden habitar basureros\", sin embargo, estas características no son las que servirían como argumento para decir que son plagas."
+            },
+            {
+              "pregunta": "¿En cuál caso resulta útil el texto?",
+              "numPregunta": 9,
+              "respuestas": [
+                "Un biólogo indaga acerca del cambio morfológico de los grillos en su desarrollo",
+                "Un jardinero busca información para controlar una plaga de grillos",
+                "Un estudiante recaba información para su exposición de los insectos"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "a información mencionada no es especializada, sólo proporciona aspectos generales."
+            }
+          ]
+        },
+        {
+          "titulo": "La cura",
+          "contenido": "Cuando encontraron la cura del coronavirus, los médicos no se explicaban por qué había gente que se recuperaba al instante y un porcentaje mínimo moría veinticuatro horas después de que le habían puesto la vacuna. Este porcentaje era tan bajo, que al principio nadie se dio cuenta. Fue hasta que un científico del Politécnico relacionó dos casos (el de un tío y un primo suyos) y descubrió que las personas zurdas que nacieron en el mes de diciembre, sin importar si eran hipertensas o diabéticas, no resistían la vacuna. De esta forma los que no cumplían con esa condición respiraron (literalmente) aliviados. \n\nAunque no por mucho tiempo porque para enero empezaron a morir personas que habían visitado la Ciudad de México y no les había gustado. Esto lo descubrió el mismo científico del Politécnico que relacionó dos casos (en esta ocasión fue su novia –ahora exnovia– que era veracruzana y había dicho que la Ciudad apestaba a orines y un amigo sueco al que habían asaltado en el aeropuerto y que juraba no regresar nunca al país). Nuevamente un montón de gente respiró aliviada. Unos porque sí les gustaba la Ciudad y otros porque ni la conocían y ni planes tenían de visitarla. \n\nDespués de varias pruebas, el científico descubrió el antídoto gracias a que extrajo la esencia de la baba del nopal. Así que en todo el mundo, cada que empezaba un mes, se buscaba descubrir un patrón y publicarlo para que las personas supieran si debían tomar el antídoto o no. \n\nEn febrero los que peligraron fueron los pelirrojos solteros mayores de quince años, pero menores de treinta; en marzo, los hijos únicos que no habían conocido a su padre y que añoraban hacerlo; en abril, los futbolistas que fallaron un penalti en un partido oficial entre el minuto veinticinco y treintaicinco del primer tiempo; en mayo, las mujeres rubias que se habían casado por segunda vez, pero que amaban a alguien más; en junio, las personas que se habían sacado el premio mayor de la lotería y lo habían malgastado, y en julio, los lectores de este texto que, por fortuna, no serán muchos.",
+          "preguntas": [
+            {
+              "pregunta": "El autor define a los que deben tomar el antídoto cada mes porque...",
+              "numPregunta": 10,
+              "respuestas": [
+                "Lograron salvar a quienes se vacunaron",
+                "Murieron personas con características comunes",
+                "Describen a la población que se vacunó"
+              ],
+              "correcta": 1,
+              "retroalimentacion": "No basta con la descripción de los vacunados; se deben buscar las características que tienen en común quienes se vieron afectados por la vacuna. ",
+              "retroalimentacionIndex": 2
+            }
+          ]
+        },
+        {
+          "titulo": "Las redes sociales y la problemática público-privado",
+          "contenido": "El presente ensayo se propone abordar la temática de las redes sociales y la problemática público-privado, con énfasis en la población de adolescentes y considerando en el análisis una perspectiva ética que explore si es beneficioso implementar una censura o un control sobre su uso o si, de lo contrario, se les debe dar un cierto margen de autonomía.\n\nCon tal objeto, se utilizará un marco teórico referencial de los conceptos provistos por Habermas, Wolton, Moragas Spá y Luhmann.\n\nLa técnica de recolección de datos que se utilizará es una encuesta a adolescentes y jóvenes de entre 10 y 20 años, ya que se considera el rango de edad en el que se encuentra una mayor inconsciencia de la problemática planteada en este ensayo, además de que son éstos los que se encuentran una mayor proporción del día conectados a las redes sociales. La encuesta tendrá como fin investigar si los padres deberían adoptar una postura de control y censura o de autonomía sobre sus hijos adolescentes, frente al problema planteado.\n\nActualmente, si bien el tema de qué es público y qué es privado en las redes sociales es general, se ve más acentuado en los adolescentes; puede afirmarse, en consecuencia, que el acceso a las mismas es una cuestión de conciencia (problemas morales). Por esto el desarrollo de este trabajo se enfocará en darle la perspectiva ética al asunto.\n\nPara profundizar en estas cuestiones, se partirá de los siguientes interrogantes que funcionarán a modo de disparadores: el acoso en las redes sociales, como por ejemplo la agresión verbal ¿debería tener control?; ¿los jóvenes son conscientes de su exposición en las redes sociales?; ¿cuáles son las consecuencias que puede tener un joven hoy en día por un error en la información publicada en una red social?; las familias de estos jóvenes, ¿quedarían expuestas también? En este sentido, se sostiene la hipótesis de que la mayoría de los adolescentes de las grandes ciudades no es consciente de la multiplicidad de canales por los que circula la información que se sube a las redes sociales, ni tampoco de la importancia del manejo de la privacidad. La principal interrogante es, entonces: ¿los padres deberían interferir y controlar el uso que hacen de las redes sociales los adolescentes?\n\nActualmente en las redes sociales la mayoría de las personas escribe lo primero que se les viene a la mente. No piensan en cómo el receptor lo puede llegar a interpretar y las posibles maneras en que puede reaccionar, ni mucho menos si quien lo recibe va a entenderlo de la manera en que se quiso comunicar inicialmente.\n\nAl mismo tiempo, tampoco conciben el efecto que puede llegar a generar un simple comentario y la magnitud del impacto en el amplio universo de las redes sociales.\n\nEl ser humano históricamente ha construido redes sociales, pero la gran diferencia que surge hoy en día es que con la aparición de internet, la red social generada por cualquier persona queda abierta a que todo el mundo la vea. […] Hay que tener en cuenta también que en esta exposición uno hace visible su cultura y sus valores y que esto fija una postura que puede afectar a personas con cultura y valores distintos […].\n\nPara aplicarlo al tema de este ensayo, espacio público puede considerarse como cualquier red social utilizada por un adolescente, Facebook, Twitter, entre otras, en donde la opinión pública serían los comentarios que surjan de las distintas cosas que las personas, en este caso, los jóvenes, suban a la red […].\n\nTodo lo que se dice o hace públicamente queda expuesto a que se conforme libremente una opinión pública. De lo que los jóvenes no se dan cuenta al publicar cualquier tipo de información en las mismas, es que esto conlleva el riesgo de quedar expuestos a una diversidad de opiniones que pueden derivar en conflictos […].\n\nSi bien un padre no va a meterse y controlar directamente lo que cada uno de sus hijos hace dentro de una red social, lo puede hacer de manera indirecta. Pero entonces, ¿qué significaría el control indirecto? Acercarse a sus hijos, hablarles, darles consejos y hasta incentivarlos a leer las noticias para que se enteren de lo que sucede en sus alrededores. A veces, si bien es el mismo contenido de información transmitido, no es lo mismo que se lo transmita un padre a que lo haga alguien externo al contexto familiar.\n\nLa mayoría de los padres, por su parte, no comprende aún la importancia de los riesgos que generan las redes sociales, aunque actualmente es una de las principales problemáticas de los adolescentes. Controlar y vigilar no es la solución, pero sí es importante considerar que hay distintas maneras de acercarse a los jóvenes de modo tal que logren entender cuáles son los riesgos a los que se exponen.",
+          "preguntas": [
+            {
+              "pregunta": "¿Cuál pregunta debe formar parte de la encuesta que se aplicó a la población de estudio?",
+              "numPregunta": 11,
+              "respuestas": [
+                "¿Tus padres también tienen acceso a las redes sociales?",
+                "¿Tienes control sobre el tiempo que pasan tus hijos en internet?",
+                "¿Con qué frecuencia publicas contenido en las redes sociales?"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "Las posibles respuestas a esta pregunta sí abonan al objetivo de la investigación, que es conocer la frecuencia, la interacción y la exposición de los jóvenes en redes sociales."
+            },
+            {
+              "pregunta": "De acuerdo con el ensayo, una medida de control directo es que los padres...",
+              "numPregunta": 12,
+              "respuestas": [
+                "utilicen las herramientas de control parental que existen para cada una de las redes sociales",
+                "tengan con sus hijos una buena relación que les permita estar enterados de lo que ven en las redes sociales",
+                "estén informados acerca de los riesgos que existen para sus hijos con el uso de las aplicaciones en la red"
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "Esta es una medida de control indirecta, porque de esta manera los padres no toman las decisiones acerca de las publicaciones."
+            },
+            {
+              "pregunta": "¿Cuál es el objetivo de este estudio?",
+              "numPregunta": 13,
+              "respuestas": [
+                "Establecer una línea clara entre la información que debe ser pública y la que debe ser privada en las redes sociales",
+                "Demostrar a los adolescentes los riesgos que existen al publicar con descuido información privada",
+                "Identificar si los padres y las madres tendrían que adoptar una actitud de control en las redes sociales de sus hijos"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "El objetivo de la investigación desarrollada en el ensayo es apelar a una intervención moderada por parte de los padres para reducir el riesgo en el uso de las redes sociales."
+            },
+            {
+              "pregunta": "Según el texto, ¿cuál es la consecuencia principal de que las redes sociales sean utilizadas sin precaución?",
+              "numPregunta": 14,
+              "respuestas": [
+                "Tener sanciones por parte de la administración de las redes sociales",
+                "Expresar una opinión que afecte a la familia que no forma parte de la red social",
+                "Recibir diferentes opiniones, incluso agresivas y violentas"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "La administración de las redes sociales sí puede sancionar, pero de acuerdo con el texto ésta no es la principal consecuencia que pueden sufrir los usuarios de entre 10 y 20 años, sino que quedan expuestos a recibir opiniones agresivas y violentas"
+            },
+            {
+              "pregunta": "¿Cuál opción presenta la información que plantea el ensayo?",
+              "numPregunta": 15,
+              "respuestas": [
+                "La población de estudio son hombres de entre 10 y 20 años que usan constantemente las redes sociales",
+                "Las redes sociales representan un problema latente para la seguridad y el desarrollo de los adolescentes y jóvenes",
+                "Los padres de familia son los responsables de poner controles de seguridad para la interacción de los jóvenes"
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "No se afirma que sea su responsabilidad poner controles, la propuesta es una intervención indirecta."
+            },
+            {
+              "pregunta": "De acuerdo con los objetivos de la investigación, ¿qué criterios son relevantes en la aplicación de la encuesta?",
+              "numPregunta": 16,
+              "respuestas": [
+                "La edad de las personas consultadas y las características que comparte una generación",
+                "La responsabilidad de los padres de familia y las obligaciones familiares de los jóvenes y adolescentes",
+                "Las costumbres y los valores de una generación y las formas de socializar de los jóvenes"
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "Aunque se apela a las características comunes de una generación, no se mencionan sus valores, sino sus actitudes y costumbres. No se consideran todas las formas de socializar de los jóvenes, sino sólo la forma en la que interactúan en redes sociales."
+            }
+          ]
+        },
+        {
+          "titulo": "Un afeitado finísimo",
+          "contenido": "Ella le dijo que estaba mucho más guapo afeitado, así que él se afeitó, especialmente para ella. La tersa piel del rostro le brillaba con todo su esplendor cuando la fue a recoger aquella tarde y también el aroma de la loción para después del afeitado era de lo más agradable. Vieron una película, tomaron un café en un sitio cualquiera y, a continuación, él la acompañó a casa en coche. Se trataba, al fin y al cabo, de un segundo encuentro, de manera que él no intentó nada y ni tan siquiera le sugirió subir con ella a su piso. Antes de salir del coche ella le había dado un beso precipitado en la rojiza mejilla y él le había respondido con una tímida sonrisa sin devolverle el beso.\n\nSe trataba de una chica por la que merecía la pena esperar pacientemente.\n\nPasaría un día, pasaría otro día, pero al final todo terminaría por llegar. Una película, un café, una película más.\n\nUna puesta de sol, un par de veces a la bolera y, finalmente, sería suya.\n\nElla le dijo que resultaba mucho más agradable afeitado, porque sencillamente los pelos de la barba le picaban por el cuerpo. Y es que, ahora que estaban juntos, ¿dónde iba a poner él la cara que no fuera en su cuerpo? A él ni siquiera se le podía ocurrir pensar en otro sitio mejor.\n\nSe afeitaba todos los días, incluso dos veces al día. Eliminaba los incipientes pelos antes siquiera de que les hubiera dado tiempo a asomar, de manera que la estimulada piel parecía estar ardiendo en medio de una especie de cálida rojez. También los dientes se los cepillaba constantemente: tres, cuatro, y hasta cinco veces al día. Subía y bajaba el cepillo, escupía en el lavabo y, a continuación, se enjuagaba bien con agua para eliminar la espuma blanca del dentífrico. Después de todo eso se encontraba a sí mismo mucho más agradable, más estético, y una vez a la semana hasta se pasaba hilo dental por entre los dientes. A ella no le hubiera importado besarlo también si no hubiese hecho todo eso, porque lo amaba, pero no se podía esperar de ella que fuera a poner la lengua en un lugar que oliera mal o que estuviera sucio.\n\nElla le dijo que las cejas también le molestaban; resultaba difícil irse deslizando así, con los labios, por la pendiente de la frente para besarle los ojos. La cuchilla, al fin y al cabo, era la misma cuchilla, así es que si ya, de cualquier modo, se afeitaba, ¿Qué más le daba? Una vez al día, dos, a veces hasta tres. Y también empezó a usar el hilo dental con más asiduidad, hasta el punto de que se compró un rollo entero que, aunque no era más grande que una cajetilla de cigarrillos, tenía diecisiete metros de longitud. Porque lo habían enrollado muy apretado, como los sacos de dormir, que se pueden reducir hasta el tamaño de una baguette. Aprovechó y compró también loción para después del afeitado, un frasco de litro, porque el viejo ya se le había terminado.\n\nPasó el tiempo y ya llevaban dos meses viviendo juntos; él ocupándose exclusivamente de su higiene personal y ella de todo lo demás. Ni un solo vaso le pedía que fregara. Del pecho para abajo no tuvo necesidad de decírselo, porque él le captó enseguida la mirada. Y la verdad era que ya que se afeitaba antes de cada comida, e incluso con mayor frecuencia, ¿Qué más le daba depilarse entero? Incluso las pestañas, porque le picaban en la lengua a ella, que tanto lo amaba, y a la que él le gustaba lampiño, sin recovecos ni partes punzantes. Como todos los demás con los que él se había encontrado en el suelo del salón, todos tan agradables y cómodos. Al principio había creído que se trataba de unos silloncitos rosados en forma de puf, porque muchas veces la había visto allí sentada tan feliz, así que también él se sentaba en ellos. Resultaban tan agradables y suaves. Les había preguntado cómo lo conseguían, y ellos se lo habían contado todo. Las partes punzantes era por los huesos, pero había un tipo en Rosh Pina que los sacaba con toda facilidad, incluidos el cráneo y la columna vertebral. Ni siquiera dolía, a ella le resultaría mucho más agradable, y eso era, a fin de cuentas, lo único importante. Y es que la sonrisa de ella, cuando se le sentaba encima, lo valía todo.",
+          "preguntas": [
+            {
+              "pregunta": "¿Cuántas veces se afeitaba el protagonista cuando empezó a irritarse su piel?",
+              "numPregunta": 17,
+              "respuestas": [
+                "Una vez por día",
+                "Dos veces al día",
+                "Antes de cada comida"
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "El sustentante se puede confundir porque ella, al final de la segunda cita, le da un beso en su mejilla, la cual tiene una apariencia rojiza, pero eso no implica necesariamente que esté irritada."
+            },
+            {
+              "pregunta": "¿Por qué el protagonista extrema su régimen de higiene cuando vive con su pareja?",
+              "numPregunta": 18,
+              "respuestas": [
+                "Porque ella es poco tolerante con el vello corporal, ya que lastima sus labios",
+                "Porque prefiere dedicarse a su higiene personal, pues no tiene nada que hacer",
+                "Porque quiere agradarle a ella y eso desata su propia obsesión"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "Ella le dice que le gusta más afeitado y entonces él extrema su cuidado personal, dando rienda suelta a su propia obsesión, con lo cual también la complace a ella."
+            },
+            {
+              "pregunta": "Con base en el cuento, ¿cuál afirmación es correcta?",
+              "numPregunta": 19,
+              "respuestas": [
+                "Comenzó afeitándose la barba y terminó afeitándose todo el cuerpo",
+                "Empezó afeitándose el pecho y enseguida hizo lo mismo con la barba",
+                "Inició depilándose las cejas y pestañas, a pesar de que a ella le gustaban"
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "El cuento indica que a ella le molestaban las cejas de él y que sus pestañas le picaban en la lengua, por lo cual él se las quita."
+            },
+            {
+              "pregunta": "¿Cuál es uno de los mensajes del cuento?",
+              "numPregunta": 20,
+              "respuestas": [
+                "Se necesita ser complaciente para mantener una pareja",
+                "El cuidado personal se puede convertir en una obsesión",
+                "Ceder a las peticiones de los demás puede provocar un daño"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "Este no es el mensaje del cuento, pues el tema no es el cuidado personal sino la relación entre los personajes, y el daño que le provoca al protagonista ceder a las peticiones de su pareja."
+            }
+          ]
+        },
+        {
+          "titulo": "Redacción indirecta",
+          "contenido": "",
+          "preguntas": [
+            {
+              "pregunta": "Elige la opción que da sentido al enunciado. Finalmente terminé el libro de cuentos. Ayer, durante mi vuelo de regreso, _______ leí hasta el final.",
+              "numPregunta": 21,
+              "respuestas": ["los", "les", "Lo"],
+              "correcta": 2,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "El pronombre 'los' tiene como antecedente 'cuentos', que forma parte de un complemento adnominal que califica al sustantivo 'libro'. Lo correcto es emplear un pronombre que tenga como antecedente al sustantivo 'libro' y no al complemento 'de cuentos'."
+            },
+            {
+              "pregunta": "Elige la opción con las palabras que, de acuerdo con el contexto, tienen un significado similar a las resaltadas entre comillas. El amor \"transfigura\" el mundo, torna al ojo perfecto, pero el poeta habita el tiempo, es decir, plasma su degradación, su muerte. Y nuestro amigo querubín en su eternidad, nos dona el ciclo amoroso. Y el presente y el recuerdo conviven ahí donde la ternura nos \"abandona\", nos llena o nos hiere.",
+              "numPregunta": 22,
+              "respuestas": [
+                "altera - aísla",
+                "trastorna - reniega",
+                "transforma - desampara"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "'Transforma' es sinónimo de 'transfigura', un sinónimo de 'abandonar' es 'desamparar' y ambos están utilizados correctamente en este contexto."
+            },
+            {
+              "pregunta": "Completa la oración con la opción que le da sentido. Joaquín llegó tarde, _______, el profesor lo dejó presentar el examen.",
+              "numPregunta": 23,
+              "respuestas": ["incluso", "no obstante", "en consecuencia"],
+              "correcta": 1,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "'En consecuencia' es un marcador consecutivo y no da sentido al fragmento."
+            },
+            {
+              "pregunta": "Completa la oración con las grafías correctas. Aquí no ha___ suficientes libretas, pero quizá encuentres otras ah___.",
+              "numPregunta": 24,
+              "respuestas": ["y - y", "i - í", "y - í"],
+              "correcta": 0,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "'Ahí' se escribe con 'i' porque el español no admite el uso de la grafía 'y' para representar al fonema /i/ tónico. (OLE, 6.1.2.1.2b). Se utiliza 'y' al final de la palabra si el acento no recae sobre esta letra."
+            },
+            {
+              "pregunta": "Completa correctamente el enunciado. Es necesario e___asar el hidrocloruro de cle___uterol para que su manejo sea i___ecable.",
+              "numPregunta": 25,
+              "respuestas": ["nv - mb - mp", "mb - nb - np", "nb - mv - mp"],
+              "correcta": 0,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "Según las reglas ortográficas, se escribe 'n' antes de 'v', 'm' antes de 'b' y 'm' antes de 'p', por lo que 'enbasar' y 'clemvuterol' son incorrectas."
+            },
+            {
+              "pregunta": "Elige la oración que utiliza correctamente los signos de puntuación.",
+              "numPregunta": 26,
+              "respuestas": [
+                "Juan llegó, realizó el cuestionario. Y salió triunfante.",
+                "El profesor. Llegó tarde porque tuvo un problema.",
+                "La Sra. Méndez fue muy espléndida en el evento."
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "El punto se utiliza después de las abreviaturas como en el ejemplo."
+            },
+            {
+              "pregunta": "¿Cuál oración tiene la puntuación correcta?",
+              "numPregunta": 27,
+              "respuestas": [
+                "Recuerda, Juan, que mañana es el último día para la inscripción.",
+                "Quiero decirte Pedro, que todos en casa hemos estado muy bien.",
+                "Te aviso, María que voy a salir de viaje de negocios el próximo mes."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "Cuando no está en el inicio o en el final de la oración, el vocativo, que puede ser un pronombre o una expresión nominal que se emplea en función apelativa, debe aislarse del resto del enunciado colocándolo entre comas."
+            },
+            {
+              "pregunta": "¿En qué oración están acentuadas las palabras correctamente?",
+              "numPregunta": 28,
+              "respuestas": [
+                "Vimos el músical por el canal veintitrés y tomamos mucho café",
+                "Una habitación de color azúl claro ayuda a que la persona sea felíz",
+                "Abdul es un ciudadano paquistaní que ayer recogió su identificación"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "En este caso, todas las palabras agudas respetan las reglas de acentuación, pues se acentúan porque terminan en 'n' y 'vocal'."
+            },
+            {
+              "pregunta": "Elige el enunciado que está acentuado de forma correcta.",
+              "numPregunta": 29,
+              "respuestas": [
+                "Hice el exámen en la mitad del tiempo solicitado",
+                "Tengo dinero para comprar una computadora portátil",
+                "Vi una imágen de la diosa Venus en el museo"
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "'Portátil' es una palabra grave con tilde porque sigue la regla general de acentuación: 'Las palabras graves llevan acento gráfico en la sílaba tónica cuando terminan en consonante que no sea 'n' o 's''."
+            },
+            {
+              "pregunta": "Un joven solicitó empleo recientemente y no ha tenido noticias al respecto. Enviará un correo electrónico para preguntar sobre su solicitud. ¿Cuál fragmento es el adecuado para hacerlo?",
+              "numPregunta": 30,
+              "respuestas": [
+                "Queridísimo Sr. López, le escribo para preguntarle si me quedé con el trabajo, soy padre de una bebé recién nacida y me urge saber si fui elegido. Si no, para buscar otras opciones lo más pronto posible. Saludos afectuosos",
+                "Estimado Andrés, me comunico contigo para que me informes sobre si fui aceptado en la vacante que publicaron hace una semana. Ya hice los exámenes y no me han llamado, por eso te escribo. P.D. El trabajo me urge. Saludos",
+                "Apreciable Sr. López, me dirijo a usted con la finalidad de conocer el resultado de los exámenes que me aplicaron para ocupar el puesto de recepcionista. Sin más por el momento, quedo a la espera de sus comentarios. Saludos cordiales"
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "El registro de este fragmento es informal y no es el adecuado de acuerdo con la situación comunicativa."
+            },
+            {
+              "pregunta": "¿En qué oración las palabras tienen una relación correcta?",
+              "numPregunta": 31,
+              "respuestas": [
+                "La gente que vive en el norte y sur del país fueron muy afectadas por las intensas sequías de los últimos años",
+                "El archipiélago ecuatorial contiene el mayor número de especies vegetales y animales endémicas del planeta",
+                "Se determinó que la jauría de mestizos estuvieron alimentándose de la comida que se encontraba en el lugar"
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "De acuerdo con la RAE, los sustantivos colectivos son aquellos que, en singular, designan un conjunto de seres pertenecientes a una misma clase. Cuando uno de estos sustantivos funciona como sujeto, el verbo debe ir en singular, así como los pronombres o adjetivos a él referidos. En este caso, 'jauría', que es un conjunto de perros, es un sustantivo colectivo, por lo que el verbo en concordancia debe ir en singular, es decir, “estuvo” y no 'estuvieron'."
+            },
+            {
+              "pregunta": "Seleccione la opción que completa correctamente el sentido del enunciado. La nueva camioneta tiene 250 caballos de fuerza; _______, una potencia única en el mercado.",
+              "numPregunta": 32,
+              "respuestas": ["mejor dicho", "es decir", "más bien"],
+              "correcta": 1,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "Los marcadores textuales de reformulación tienen la función de introducir una nueva formulación en el discurso. En este caso, el marcador “es decir” está correctamente empleado porque introduce una idea que explica a la anterior."
+            },
+            {
+              "pregunta": "Identifique el enunciado que está escrito correctamente.",
+              "numPregunta": 33,
+              "respuestas": [
+                "Desde que comenzó a leer libros en francés, su lécsico en ese idioma mejoró enormemente",
+                "Las excentricidades del artista plástico siempre estuvieron ligadas a su genio y creatividad",
+                "El éxsodo comenzó después de que los dos terremotos destruyeran las ciudades principales"
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "Las palabras en las que aparece el fonema /k+s/ se escriben con la grafía 'x' cuando este sonido se encuentra en posición intervocálica (éxodo)."
+            },
+            {
+              "pregunta": "¿En qué oración se establece una relación correcta entre las palabras?",
+              "numPregunta": 34,
+              "respuestas": [
+                "Un saco de patatas se desparramaron por el suelo",
+                "Existían infinidad de cosillas urgidas de un arreglo",
+                "La mitad de las mesas se encontraba desocupada"
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "De acuerdo con lo que establece el Diccionario Panhispánico de Dudas de la RAE (en línea, § 4.8), en las construcciones con sujeto cuantificador, 'cuando el verbo lleva un atributo o un complemento predicativo, solo es normal la concordancia en plural'. De ahí, lo correcto habría sido 'La mitad de las mesas se encontraban desocupadas'."
+            },
+            {
+              "pregunta": "Elija la oración que está acentuada correctamente.",
+              "numPregunta": 35,
+              "respuestas": [
+                "Los expertos recurrieron a la casuística para analizar las molestias que produce el ruido",
+                "Faltan veintiun días para que comiencen las exposiciones sobre los mantos acuíferos",
+                "La colección está constituída por una veintena de piezas jesuíticas que fueron restauradas"
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "Se debe escribir 'veintiún' con tilde, y no 'veintiun', porque se trata de una palabra aguda terminada en 'n'; además, el acento gráfico se debe colocar sobre la segunda vocal cerrada (iú), porque ésta es la norma para los diptongos formados por dos vocales cerradas."
+            },
+            {
+              "pregunta": "¿En cuál oración las palabras tienen una relación correcta?",
+              "numPregunta": 36,
+              "respuestas": [
+                "Clara Campoamor es una de las defensoras de la igualdad más brillantes",
+                "La persona que escribió el artículo es una de los ambientalistas más notables",
+                "Violeta Parra es una de los cantautores más importantes del siglo XX"
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "Cuando se utiliza un cuantificador con flexión de género femenino en una construcción partitiva ('una'), lo correcto es que el elemento que designa al todo, introducido por la preposición 'de' (de las defensoras), presente flexión de género femenino. Esto se cumple en 'una de las defensoras'."
+            },
+            {
+              "pregunta": "Complete el enunciado con las grafías correctas. Es lí___ito y signo de sensate___ que los especialistas se cer___ioren del parente___co.",
+              "numPregunta": 37,
+              "respuestas": ["c - z - c - s", "s - z - s - z", "z - s - c – s"],
+              "correcta": 0,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "Debe escribirse 'lícito' con 'c' porque dicha grafía se usa en palabras esdrújulas que terminan en '-ice', '-ícito/a'. Debe escribirse 'sensatez' con 'z' porque dicha grafía se usa las palabras terminadas con los sufijos '-ez', '-eza'. Debe escribirse 'cercioren' con 'c' porque dicha grafía se usa en palabras que comienzan con 'cerc-' o 'circ-'. Debe escribirse 'parentesco' con 's' los sustantivos y adjetivos terminados en '-asco/a', '-esco/a', 'isco/a' y '-osco/a'."
+            },
+            {
+              "pregunta": "¿Cuál oración está redactada correctamente?",
+              "numPregunta": 38,
+              "respuestas": [
+                "Toda la familia acudió con alegría a la celebración del quinceavo cumpleaños de Mariana",
+                "El despacho de los arquitectos se encuentra en el diecinueveavo piso de la torre central",
+                "La doceava parte de las ganancias será destinada a la reforestación del bosque tropical"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "El sufijo -avo se emplea únicamente para formar partitivos, los cuales expresan división de un todo en partes y sirven para designar una o varias de las fracciones iguales en que se ha dividido la unidad. Pueden ser adjetivos (la tercera parte de los presentes) o sustantivos (un tercio de los presentes); por lo anterior, el uso del partitivo 'doceava' es correcto."
+            },
+            {
+              "pregunta": "El profesor de Literatura solicita a los estudiantes un prólogo para un libro que acaba de ser publicado. ¿Cuál texto es el adecuado?",
+              "numPregunta": 39,
+              "respuestas": [
+                "Del autor de Un romance en la ciudad llega Retina, una novela que conseguirá adentrarte en la complicada mente de alguien experto en escribir historias para ser devoradas. No te la puedes perder por nada del mundo. Acompaña a Edouard, el personaje principal, en esa historia en la que su madre quizás no sea quien todos pensaban. Disponible en librerías para Navidad",
+                "Retina, la nueva novela del escritor francés Mathieu Dupont, se concibe como una de las más representativas del autor. En esta obra, el galo no sólo muestra que su estilo está en continuo cambio, sino también sorprende con un género distinto, pasando de la novela rosa a una policiaca, que nos ha dejado intrigados sobre el personaje principal y el mundo que lo rodea",
+                "Dupont considera que Retina fue una de sus obras más difíciles de lograr. En un par de cartas enviadas a la editorial, indicó que tuvo que adentrarse en lo más profundo de las emociones y los miedos que abundaron en su infancia. En esta novela no sólo se abordará el misterio que envolvió la muerte de su padre, sino también lo difícil que para él fue mantener una relación con su madre"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "El texto aborda aspectos temáticos de la novela y de su proceso creativo como las cartas otorgadas a la editorial. El texto podría ser colocado justo en el apartado del prólogo de la misma novela."
+            },
+            {
+              "pregunta": "Elija la opción que tiene un significado opuesto a la palabra resaltada entre comillas. El profesor nos dijo que el diccionario que estamos usando es \"viejo\" y que varias de las definiciones en él son obsoletas, por lo que nos recomendó una lista de diccionarios para comprarlos esta semana.",
+              "numPregunta": 40,
+              "respuestas": ["inédito", "actual", "bisoño"],
+              "correcta": 1,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "Esta opción es un antónimo de 'viejo', sin embargo, según la RAE, la palabra 'inédito' significa 'escrito y no publicado', 'dicho de un escritor: Que aún no ha publicado nada' y 'desconocido, nuevo'. Por el contexto, este antónimo no es adecuado, pues si bien está relacionado con el aspecto editorial, como los diccionarios, el contexto indica que el material de consulta es uno que ya se puede adquirir, por lo tanto, que ya ha sido publicado."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

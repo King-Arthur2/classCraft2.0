@@ -1,0 +1,762 @@
+{
+  "niveles": [
+    {
+      "nivel": "Nivel 19",
+      "tiempo": 3600,
+      "lecturas": [
+        {
+          "titulo": "Macacos",
+          "contenido": "La primera vez que tuvimos en casa un mico fue cerca de Año Nuevo. Estábamos sin agua y sin sirvienta, se hacía cola para la carne, el calor había estallado; y fue cuando, muda de perplejidad, vi entrar en casa el regalo, ya comiendo un plátano, ya examinando todo con gran rapidez y una larga cola. Aunque parecía un monazo aún no crecido, sus potencialidades eran tremendas. Subía por la ropa colgada en la soga, desde donde daba gritos de marinero, y tiraba cáscaras de plátano a cualquier parte. Y yo exhausta. Cuando me olvidaba y entraba distraída en el patio de servicio, el gran sobresalto: aquel hombre alegre allí. Mi muchacho menor sabía, antes de saberlo yo, que me desharía del gorila: «¿Y si te prometo que un día el mono se va a enfermar y morir, lo dejas que se quede? ¿Y si supieras que de cualquier forma un día se va a caer de la ventana y morir allá abajo?». Mis sentimientos desviaban la mirada. La inconsciencia feliz e inmunda del monazo pequeño me hacía irresponsable de su destino, ya que él mismo no aceptaba culpas.\n\nUna amiga entendió de qué amargura estaba hecha mi aceptación, de qué crímenes se alimentaba mi aire soñador, y rudamente me salvó: muchachos del cerro aparecieron con un barullo feliz, se llevaron al hombre que reía, y, en el desvitalizado Año Nuevo, conseguí al menos una casa sin macaco.\n\nUn año después, acababa yo de tener una alegría, cuando allí, en Copacabana, vi el grupo de gente. Un hombre vendía monitos. Pensé en los chicos, en las alegrías que me daban gratis, sin nada que ver con las preocupaciones que también gratuitamente me daban, imaginé una cadena de alegría: «El que reciba esta, que se la pase a otro», y el otro al otro, como un ruido en un rastro de pólvora. Y allí mismo compré a la que se llamaría Lisette.\n\nCasi cabía en la mano. Tenía falda, aretes, collar y pulsera de bahiana. Y un aire de inmigrante que aún desembarca con el traje típico de su tierra. De inmigrante eran también los ojos redondos.\n\nEn cuanto a esta, era una mujer en miniatura. Tres días estuvo con nosotros. Era de una tal delicadeza de huesos. De una tal extrema dulzura. Más que los ojos, la mirada era redondeada. Cada movimiento, y los aretes se estremecían; la falda siempre arreglada, el collar rojo brillante. Dormía mucho, pero para comer era sobria y cansada. Sus raros cariños eran solo mordidas leves que no dejaban marca.\n\nAl tercer día estábamos en el patio de servicio admirando a Lisette y de qué modo era nuestra. «Un poco demasiado suave», pensé con nostalgia de mi gorila. Y de repente mi corazón fue respondiendo con mucha dureza: «Pero eso no es dulzura. Esto es muerte». La frialdad de la comunicación me dejó inmóvil. Después les dije a los chicos: «Lisette se está muriendo». Mirándola, advertí entonces hasta qué grado de amor ya habíamos llegado. Envolví a Lisette en una servilleta, fui con los chicos hasta la primera sala de auxilios, donde el médico no podía atender porque operaba de urgencia a un perro. Otro taxi —Lisette piensa que está paseando, mamá—, otro hospital. Allá le dieron oxígeno.\n\nY con el soplo de vida, súbitamente se reveló una Lisette que desconocíamos. De ojos mucho menos redondos, más secretos, más risueños y en la cara prognata y burda una cierta altivez irónica; un poco más de oxígeno, y le dieron ganas de decir que apenas soportaba ser mona; pero lo era, y mucho tendría que contar. No obstante, enseguida volvía a sucumbir, exhausta. Más oxígeno y esta vez una inyección de suero a cuyo piquete reaccionó con un golpecito colérico, de pulsera que tintinea. El enfermero sonrió: «Lisette, mi bien, ¡sosiégate!».\n\nEl diagnóstico: no iba a vivir, a menos que tuviera oxígeno a la mano y, aun así, era improbable. «No se debe comprar un mono en la calle», me censuró moviendo la cabeza, «a veces ya viene enfermo». No, se tenía que comprar una mona determinada, saber el origen, tener por lo menos cinco años de garantía del amor, saber lo que había hecho o no, como si fuera para casarse. Consulté un instante con los chicos. Y le dije al enfermero: «Le está gustando mucho Lisette. Pues si la deja pasar unos días cerca del oxígeno, en cuanto se cure, es suya». Pero él pensaba. «¡Lisette es bonita!», imploré. «Es linda», concordó él, pensativo. Después suspiró y dijo: «Si curo a Lisette, es suya». Nos fuimos con la servilleta vacía.\n\nAl día siguiente llamaron por teléfono, y yo avisé a los chicos de que Lisette había muerto. El menor me preguntó: «¿Te parece que se murió con los aretes puestos?». Yo dije que sí. Una semana después, el mayor me dijo: «¡Te pareces tanto a Lisette!». «Yo también te quiero», respondí.",
+          "preguntas": [
+            {
+              "pregunta": "¿Cuál fue la actitud del mono al llegar a casa por primera vez?",
+              "numPregunta": 1,
+              "respuestas": [
+                "Glotona y curiosa",
+                "Dulce y dormilona",
+                "Sobria y risueña"
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "En el texto se dice que el mono (el regalo) llegó: 'vi entrar en casa el regalo, ya comiendo un plátano, ya examinando todo con gran rapidez y una larga cola'."
+            },
+            {
+              "pregunta": "¿A qué oración es equivalente la frase marcada con el número 2?",
+              "numPregunta": 2,
+              "respuestas": [
+                "Eres una persona con muchas cualidades.",
+                "Tu personalidad es muy humana y frágil.",
+                "Te veo con amor y me produces ternura."
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "Por esa razón es que la madre responde 'yo también te quiero'. El hecho de que ella se parezca a Lisette, según su hijo, es que él la ve con amor y le produce ternura."
+            },
+            {
+              "pregunta": "De acuerdo con la oración marcada con el número 1, ¿qué hubiera hecho la protagonista si su amiga no hubiera intervenido?",
+              "numPregunta": 3,
+              "respuestas": [
+                "Regalar al mono con cualquiera para que fuera problema de alguien más.",
+                "Provocar la muerte del mono con tal de ya no tenerlo en la casa todos los días.",
+                "Vivir descontenta, amargada y rencorosa, odiando cada día más al mono."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "Eso no es lo que hubiera hecho la protagonista, ya que no sería un crimen regalar a un mono."
+            },
+            {
+              "pregunta": "De acuerdo con el cuento, ¿cuál afirmación es correcta?",
+              "numPregunta": 4,
+              "respuestas": [
+                "La familia le pone nombre al segundo mono y pasan más tiempo en su compañía.",
+                "Un mono tiene nombre y el otro no, y la familia pasa poco tiempo con el que más quisieron.",
+                "El primer mono se llama Hombre Alegre y pasa más tiempo con la familia que el segundo."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "Es correcto que le ponen nombre al segundo mono, la nombran Lisette, pero no pasan más tiempo en su compañía porque ella enferma."
+            },
+            {
+              "pregunta": "¿Cuál es el tema del texto?",
+              "numPregunta": 5,
+              "respuestas": [
+                "Hay características en los animales que posibilitan o impiden establecer lazos de afecto.",
+                "Se puede aprender a amar y a respetar a los animales mediante la convivencia con ellos.",
+                "Es imposible que los animales provoquen sentimientos en los humanos que los rodean."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "Es correcto que le ponen nombre al segundo mono, la nombran Lisette, pero no pasan más tiempo en su compañía porque ella enferma."
+            },
+            {
+              "pregunta": "¿Cuál es la razón principal de la narradora para deshacerse del primer mono?",
+              "numPregunta": 6,
+              "respuestas": [
+                "Le resulta desagradable porque no tiene afecto hacia la familia.",
+                "Está cansada de tener que limpiar ella sola su desorden todos los días.",
+                "Siente invadido su espacio cuando lo encuentra por todos lados."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "La noticia, en ningún momento, confronta información proveniente de distintas fuentes. Simplemente trata acerca de las investigaciones que científicos chilenos han realizado acerca de los efectos causados por el cambio climático en la Antártica. Además, la función de una noticia es informar, no confrontar datos o información, ya que esto correspondería más a un artículo de investigación o, incluso, a un ensayo académico."
+            }
+          ]
+        },
+        {
+          "titulo": "Cuatro olas de calor en la península Antártica",
+          "contenido": "Desde enero a primeros de octubre, la península antártica ha sufrido cuatro olas de calor. La primera de ellas, en febrero pasado, como ya conté entonces, pero es que después ha habido otras tres olas más: una en el verano austral y dos más durante el invierno que ahora está terminando. La última, entre el 9 y el 11 de julio. Los datos, recogidos en la isla Rey Jorge y analizados por los investigadores de la Universidad de Chile, revelan que está siendo el año más caluroso en esta zona del inmenso continente de hielo desde hace tres décadas y ello no augura nada bueno […].\n\nSon muchos los datos que aporta el trabajo, que se centra en el sur de la península antártica porque es allí, sobre todo en la isla Rey Jorge, donde hay una mayor concentración de bases científicas que han tomado los registros. Por cierto, no lejos de las bases españolas situadas en isla Livingston e isla Decepción. Y estos datos, que han confirmado con los recogidos por la NASA, nos cuentan que pese a que en agosto hubo un bajón en las temperaturas –también por debajo de la media–, no bastó para compensar los 34 días de calor (en términos antárticos, claro) que llegó a haber en la zona en meses anteriores. De hecho, este 2020 ni siquiera se ha llegado a helar la bahía Fildes, que da acceso a Rey Jorge.\n\nAsí, la apreciación de que en la Antártida no se notaba el cambio climático […] da paso a una preocupante tendencia: “Sabemos que en la segunda mitad del siglo XX hubo un intenso calentamiento en la Antártida, alcanzándose los récords en los años ochenta […]. Ahora vemos que se están cumpliendo los modelos climáticos que decían que la situación en el continente iba a empeorar”, argumenta Cordero.\n\nEn realidad, que esa tendencia estaba cambiando ya lo habían detectado científicos españoles en los glaciares, en el aumento de especies invasoras, en la disminución del krill […] y es visible en el debilitamiento de gigantes continentales como el glaciar Thwaites o el Pine Island, ambos en el mar de Amundsen […]. Para el científico chileno, “lo que se ve ahora en la Antártida es la consecuencia de lo que hemos hecho al clima en los últimos 20 años […]. Este año de temperaturas tan altas nos indica ahora una tendencia muy preocupante” [...].\n\nEn la isla Rey Jorge ha nevado incluso tres veces más que hace medio siglo. ¿Significa eso que habrá más hielo? La respuesta de estos investigadores es que no. “Ese incremento de precipitaciones tiene también un reflejo del cambio climático. Si sube la temperatura superficial del mar, nieva más, pero eso no supone que vaya a haber más hielo porque se pierde por las temperaturas más de lo que cae. En 40 años, el ritmo de pérdida se ha sextuplicado. También hemos visto que más al sur, el mar de Weddell ha estado en 2020 más frío que otros años; sin embargo, el mar de Amundsen estuvo más cálido”, explica Cordero […].",
+          "preguntas": [
+            {
+              "pregunta": "¿Qué función cumple el párrafo subrayado en el texto?",
+              "numPregunta": 7,
+              "respuestas": [
+                "Contiene el tema central que se aborda a lo largo de la noticia.",
+                "Confronta la información proporcionada por distintas fuentes.",
+                "Invita al lector a tomar medidas ante la situación en la Antártida."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "La noticia, en ningún momento, confronta información proveniente de distintas fuentes. Simplemente trata acerca de las investigaciones que científicos chilenos han realizado acerca de los efectos causados por el cambio climático en la Antártica. Además, la función de una noticia es informar, no confrontar datos o información, ya que esto correspondería más a un artículo de investigación o, incluso, a un ensayo académico."
+            },
+            {
+              "pregunta": "¿Cuál es el tema central de la noticia?",
+              "numPregunta": 8,
+              "respuestas": [
+                "La comparación de los efectos que el cambio climático está provocando en la Antártida frente a otras zonas gélidas del mundo.",
+                "Los resultados que han arrojado los estudios de investigadores chilenos respecto a los efectos del cambio climático en la Antártida.",
+                "La polémica que ha surgido debido a las investigaciones de científicos chilenos, las cuales se contraponen con los datos de la NASA."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "La noticia no presenta ninguna polémica entre las investigaciones realizadas por científicos chilenos y los datos de la NASA. Por el contrario, afirma que los datos que aporta el trabajo sobre el sur de la península antártica han sido confirmados 'con los recogidos por las NASA'."
+            },
+            {
+              "pregunta": "Los científicos _______ detectaron primero el cambio en la tendencia climática gracias a la observación de lugares como _______.",
+              "numPregunta": 9,
+              "respuestas": [
+                "chilenos - la isla Rey Jorge.",
+                "españoles - el mar de Amundsen.",
+                "argentinos - la bahía Fildes."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "La confusión viene en el primer párrafo en donde dice que los datos fueron recogidos en la isla Rey Jorge y analizados por la Universidad de Chile. Pero esos datos revelan que el año está siendo el más caluroso, no son los primeros en detectar el cambio de tendencia climática."
+            }
+          ]
+        },
+        {
+          "titulo": "Significaciones de lo juvenil a través de la música como experiencia de ocio en dos contextos fronterizos en México",
+          "contenido": "Resumen\nMediante relatos y narrativas de jóvenes desde dos contextos fronterizos mexicanos: Tijuana (Baja California) y San Cristóbal de Las Casas (Chiapas), buscamos describir y examinar el sentido y el significado de ser joven a partir de experiencias de ocio asociadas con la producción y el consumo de música. El artículo se basa en tres dimensiones reflexivas: la primera relacionada con la construcción de juventud como categoría de análisis situada sociohistóricamente; la segunda, con la articulación entre juventud y ocio; y finalmente, la tercera, con la música como una experiencia de ocio juvenil. De esta forma ponderamos las nociones de juventud enfocados en la comprensión de las realidades heterogéneas de jóvenes mexicanos.\n\nIntroducción\nMediante un diálogo reflexivo este estudio surge como una necesidad de complejizar y comprender las experiencias que conforman el ser joven en la actualidad en México. Para poder vislumbrar la aguda heterogeneidad de la juventud mexicana, consideramos muy fructífero elegir casos que geográficamente están situados en los polos contrarios de México: uno en la frontera norte y el otro en la frontera sur [...]\n\nLas rockeras y los estudiantes son jóvenes que producen sus significados a partir de condiciones particulares. En este caso vamos a priorizar las condiciones de género y de etnia. Es importante subrayar que tanto Tijuana como San Cristóbal de Las Casas son contextos fronterizos también por la constitución simbólica que atraviesa sus realidades, sobre todo en función de las líneas que dividen, diferencian y asemejan a las y los sujetos colectivos o culturas. En este sentido, las fronteras culturales de las ciudades también generan fronteras colectivas e individuales.\n\nLas personas jóvenes como actores sociales conforman experiencias de ocio particulares que los identifican no solo frente a un mundo adulto, sino también entre sus semejantes. En ese sentido, Carles Feixa (1999) asegura que las experiencias sociales juveniles son expresadas colectivamente, mediante la construcción de estilos de vida distintos, localizados fundamentalmente en el tiempo libre y en los espacios intersticiales de la vida institucional. Es aquí donde queremos enfatizar la importancia que adquiere el uso, la significación y la construcción de prácticas que las personas jóvenes configuran en sus experiencias de ocio. Sobre todo nos interesa resaltar aquellas prácticas relacionadas con la música, particularmente su producción (interpretación musical) y su consumo, considerando que ambas prácticas son fundamentales en la construcción identitaria juvenil (Frith 1996). A pesar de que la producción y el consumo son procesos y prácticas cualitativamente diferentes, son complementarias en el sentido de que ambas conforman el eje vertebral de la experiencia musical en los contextos juveniles (Tipa 2013, Urteaga 1998, Viera 2015, Zebadúa et al. 2014).\n\nComenzamos este trabajo ahondando en la significación y el sentido de ser joven desde una perspectiva sociocultural; de la misma manera, articulamos las prácticas y experiencias de ocio en dicha significación, para finalmente analizar las prácticas de consumo y producción musical entre jóvenes. Para este análisis priorizamos fuentes cualitativas, relatos de vida con las jóvenes rockeras tijuanenses y entrevistas en profundidad con los estudiantes de la Universidad Intercultural de Chiapas (UNICH), que en varios casos provienen de distintas etnias chiapanecas.\n\nLa invención de la juventud y sus consecuencias culturales\nLa palabra \"joven\", ampliamente utilizada en la cotidianidad, forma parte de nuestro sentido común en la categorización de la realidad. Cuando decimos \"joven\" o \"jóvenes\", aparentemente no hay lugar a dudas de a qué nos referimos y solemos estar de acuerdo con un imaginario común al respecto. Particularmente en México es común utilizarla para llamar la atención de alguna persona que no conocemos, pero con quien queremos alguna interacción: sea en un restaurante cuando le hablamos al mesero, o en una tienda cuando queremos preguntarle algo al vendedor, etc. Además, lo hacemos independiente de la edad que aparente la persona. Es importante recordar que las palabras nunca son solo palabras, sino que conllevan y comunican toda una construcción epistémica a través de las significaciones cargadas de la propia historia que les da sentido en la realidad social. También en este caso se vislumbran \"las luchas\" discursivas cotidianas por definir a alguien o por ser definido por los demás como joven o viejo, donde a la misma edad uno puede ser joven en un ámbito y viejo en otro.\n\nAquí nos encontramos ante la discusión y el problema de la definición de juventud. Si bien, en un primer momento identificamos a una persona joven por su apariencia física, por su edad, esto se vuelve más complejo cuando la edad ya no es un referente único. Para pensar en la significación que adquiere la juventud en la realidad sociocultural tendríamos que preguntarnos si dicho concepto puede ser pensado de forma universal. Es decir, si algo parecido a la juventud como la conocemos actualmente ha existido en distintas épocas, sociedades y regiones del mundo, o más bien, ¿cómo han sido tratadas socialmente las divisiones entre edades en distintas épocas y sociedades?\n\nCarles Feixa, por medio de la revisión y el análisis de varios trabajos etnográficos hechos a lo largo del siglo pasado en distintas sociedades y continentes, describe las distintas existencias y variaciones de la etapa de juventud, las cuales, por supuesto, son diferentes a la noción moderna y dependen de la sociedad, la región y la época histórica particular (Feixa 1999: 15-46). Desde la perspectiva antropológica, la juventud es abordada como una construcción cultural relativa en el tiempo y en el espacio. Cada sociedad organiza en forma distinta la transición de la infancia a la vida adulta: comparte su base biológica, pero su percepción social de dicha transición varía. Estas percepciones sociales o los contenidos que se atribuyen a la juventud dependen de los valores asociados a este grupo de edad y de los ritos que marcan sus límites.",
+          "preguntas": [
+            {
+              "pregunta": "Para los autores, el hecho de elegir ciudades que se localizan en polos opuestos de nuestro país les sirve para _______ entornos distintos.",
+              "numPregunta": 10,
+              "respuestas": [
+                "definir el concepto moderno de juventud en",
+                "describir el tipo de música que se produce en",
+                "analizar el mismo fenómeno a partir de"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "Los autores del artículo llevan a cabo su investigación tomando como referencia a jóvenes que viven en ciudades fronterizas del norte y sur de nuestro país, con la finalidad de abordar el mismo fenómeno, pero desde entornos distintos. Esto lo podemos corroborar cuando el artículo señala: 'De esta forma ponderamos las nociones de juventud enfocados en la comprensión de las realidades heterogéneas de jóvenes mexicanos', es decir, a partir del estudio de realidades diversas."
+            },
+            {
+              "pregunta": "De acuerdo con la lectura, ¿cuál es el orden en el que se presentan los apartados del texto?\n1. La música como experiencia de ocio\n2. Ser joven en la escena musical del país\n3. Experiencias de ocio y tiempo libre en la constitución de lo juvenil\n4. Juventudes étnicas: la etapa de juventud y los jóvenes entre y desde las etnias mexicanas",
+              "numPregunta": 11,
+              "respuestas": ["1, 4, 2, 3", "2, 3, 4, 1", "4, 3, 1, 2"],
+              "correcta": 2,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "Lo primero que se destaca en el resumen son las experiencias de ocio, pero en ese momento no se menciona a la música, por lo que es incorrecto iniciar con el apartado (1) 'la música como experiencia de ocio'."
+            },
+            {
+              "pregunta": "De acuerdo con la información del texto perteneciente al apartado 'La invención de la juventud y sus consecuencias culturales', ¿qué se concluye?",
+              "numPregunta": 12,
+              "respuestas": [
+                "La definición de juventud está determinada por la edad cronológica de las personas.",
+                "El concepto de juventud es una construcción cultural que cambia en el tiempo y el espacio.",
+                "La juventud es un concepto universal determinado por prácticas y ritos comunes."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "La conceptualización de la juventud cambia de acuerdo con la época, el país e inclusive la región, de acuerdo con el texto; por tanto, se trata de una construcción cultural."
+            },
+            {
+              "pregunta": "El presente estudio surge como una necesidad de…",
+              "numPregunta": 13,
+              "respuestas": [
+                "comparar las características de la juventud fronteriza.",
+                "comprender las experiencias que conforman el ser joven.",
+                "buscar un concepto de juventud común a todos los contextos."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "No surge a partir de querer buscar una definición del término juventud, más bien describe cómo se utiliza este término y qué implicaciones tiene los usos que se le dan, dependiendo del contexto."
+            },
+            {
+              "pregunta": "El artículo menciona que Carles Feixa, a partir del análisis de trabajos etnográficos hechos a lo largo del siglo pasado en distintas sociedades y continentes, describe las distintas existencias y variaciones de la etapa de la juventud, las cuales dependen de elementos como la época histórica particular, así como de _______ y _______.",
+              "numPregunta": 14,
+              "respuestas": [
+                "el género - la etnia",
+                "los valores - los ritos",
+                "la sociedad - la región"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "El género y la etnia son mencionados en el artículo para hacer referencia a las jóvenes rockeras tijuanenses y a los estudiantes de Chihuahua entrevistados, pero estos no constituyen elementos de los cuales dependan las distintas existencias y variaciones de la juventud."
+            },
+            {
+              "pregunta": "El artículo resulta útil para un...",
+              "numPregunta": 15,
+              "respuestas": [
+                "sociólogo que hace una investigación sobre la historia de las bandas de rock conformadas por mujeres.",
+                "antropólogo que prepara una conferencia sobre el concepto de juventud como construcción cultural.",
+                "psicólogo que analiza la manera en que la música ayuda a los jóvenes a fortalecer su identidad."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "El artículo menciona que tanto la producción como el consumo de música 'son fundamentales en la construcción identitaria juvenil', sin embargo, no profundiza acerca de la manera en que la música ayuda a los jóvenes a fortalecer su identidad, por lo que el texto en cuestión no sería de utilidad para el análisis que lleva a cabo el psicólogo."
+            }
+          ]
+        },
+        {
+          "titulo": "Breves vistas desde Pompeya La producción del presente en 140 caracteres",
+          "contenido": "III. Breves mensajes desde Pompeya\nSon varias las razones que explican mi reciente adicción al Twitter. Si he leído bien los ensayos teóricos acerca de este fenómeno de comunicación instantánea que se establece a través de mensajes escritos en no más de 140 caracteres, esas razones también son complejas. Todos los caminos parten esta vez de Pompeya, y no de Roma. Nuestra cuna no es ya más esa ciudad eterna donde las ruinas yacen, capa sobre capa, en un gesto de circular totalidad. Nuestra cuna es, aquí y ahora, esa otra ciudad petrificada en la gloria de un instante: Pompeya. Corte. Tajo. Interrupción.\n\nHubo, alguna vez, eso es cierto, un homo psychologicus. Se trataba de ese ser humano de las sociedades industriales que construyó gruesos muros para separar lo privado de lo público y proteger así una noción silenciosa y profunda, individual y estable, del yo. Porque tenía un secreto, el homo psychologicus inventó el psicoanálisis, por ejemplo. Tener un rico “mundo interior” y una “historia propia” fueron, en esa época, cosas de suyo importantes. Escribir largos libros laberínticos (libros, en este sentido, romanos) que llegaban, sin embargo, a un final bien establecido, no solo era especial para el escritor que firmaba el relato con su nombre, desligando así al autor del narrador y del personaje, sino también para el lector que, en silencio, en otra habitación del mundo privado, recibiría el mensaje que lo alertaría sobre los recovecos propios. Se narraba, pues, para ser o porque se era alguien extraordinario. Se leía por igual cantidad de razones. Uno de los máximos representantes de ese mundo —francés, por cierto, y de apellido Mallarmé— llegó a argumentar que la vida existía para ser contada en un libro. A juzgar por el peso del papel, los libros eran objetos bastante engorrosos en esa época.\n\nPero el homo psychologicus, como se sabe, ya fue. En su lugar se ha ido formando, no del lento quehacer de la ruina romana, sino del imperioso instante de Pompeya, el homo technologicus: un ser poshumano que habita los espacios físicos y virtuales de las sociedades informáticas para quien el yo no es ni secreto ni una hondura ni mucho menos una interioridad, sino, por el contrario, una forma de visibilidad. Conectado siempre a digitalidades diversas, el technologicus escribe dentro de habitaciones transparentes bordeadas de pantallas y, de hecho, acompañado con frecuencia de gente. Ahí, pues, escribe esa vida que solo existe para que aparezca inscrita en fragmentos de circulación constante en esa exterioridad –para usar un término vintage– conocida como soporte Web 2.0 [...].\n\nPorque soy una DM (Digital Migrante), he llegado al Twitter con algunos años de atraso. Eso no le resta, sin embargo, ni intensidad ni placer a mi nueva tuitadicción. De mis alebrestadas exploraciones por esta Pompeya mexicana del siglo XXI rescato la diseminación horizontal de la información (me he enterado de más minucias culturales y políticas a través de la lectura y los subrayados de mi comunidad tuitera —desde los links de Alberto Chimal o Ernesto Priego a los comentarios de Yuri Herrera o Irma Gallo— que en cualquier otro medio); el ejercicio crítico del periodismo ciudadano (la información producida y propagada acerca del terremoto de Chile me basta como ejemplo); y sobre todo, las formas de escritura que responden con creces a la pregunta/abracadabra de todo tuit: ¿qué le está pasando (al lenguaje)?\n\nPor malformaciones del oficio, busco escritura en todo lo que hago. Contra todo pronóstico eso también lo he encontrado en el tuit. Tengo la impresión, por ejemplo, de que a tuitescritores como @diamandina y @Frank_lozanodr (antes @franklozanodr) les importa escribir y aparecer en la pantalla, en ese orden. Más que informar sobre lo que les pasa (aunque lo hacen), estos dos escritores de Guadalajara (es lo más que pude colegir de sus sitios) escriben lo que le pasa al lenguaje. Sus textos nos permiten ser testigos de lo que sucede cuando Oulipo ha tomado el mando y la sociedad entera se atiene a la máxima de los 140 caracteres de extensión. Analizar con justicia lo que hacen me llevaría páginas enteras, pero anoto aquí la manera jocosa y deslumbrante en que ambos desensamblan el lenguaje popular, con frecuencia cambiando letras que convierten una palabra en varias más o reposicionando palabras dentro de una oración que se convierte, así entonces, en una oración ya desconocida.\n\nEn su “Me haces falta de sobra”, de @diamandina, o en “Que-herida”, que aparece en este instante en mi pantalla dentro de una cajita horizontal firmada por @Frank_lozanodr, no solo hay un profundo conocimiento de los giros cotidianos del lenguaje sino una lúdica subversión de la sintaxis y la ortografía que me indican que ahí hay escritura y, por lo tanto, pongo atención, implicándome. En un terreno que no alcanza a cubrir el aforismo pero al que no llega del todo el poemínimo, @diamandina escribe: “Desde 1998 te estaba esperando en 2010”, “El acto malabárico de poner en movimiento tantos celos al mismo tiempo”, “Reaccionaria: preferiría no preferir no hacerlo”, “Mis planes tienen una agilidad sorprendente para dar vuelta en bu”. De @Frank_lozanodr: “Recuerdas ese jardín. No lo tuvimos”. “Yo en realidad tengo una piedra en el corazón, y oídos sordos”. “Y rueda la piedra, gira en su pértiga sonámbula hasta su conversión en polvo”. Llevo días ya citándolos a la menor provocación y eso, válgame dios, voy a decir una reverenda barbaridad (cosa que se me da, a decir verdad), eso es algo que no hice ni siquiera con Tolstoi.",
+          "preguntas": [
+            {
+              "pregunta": "De acuerdo con el texto, ¿cuál afirmación es verdadera?",
+              "numPregunta": 16,
+              "respuestas": [
+                "El ser humano de las sociedades industriales separa lo privado de lo público, mientras que el homo technologicus asume que el yo es una forma de visibilidad.",
+                "Para el homo psychologicus la visibilidad está dada por el yo, pero para el homo technologicus el yo está separado de la esfera pública o visible.",
+                "El ser humano de las sociedades industriales es un ser público y el homo psychologicus mantiene separado su ser público de su ser privado."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "En el texto el 'ser humano de las sociedades industriales' y el 'homo psychologicus' son los mismos. Y aunque es correcta la afirmación final de que el homo psychologicus mantiene separado su ser público de su ser privado, no es correcto decir que el ser humano de las sociedades industriales se caracteriza por ser público."
+            },
+            {
+              "pregunta": "¿Qué relación tiene el título del ensayo con su contenido?",
+              "numPregunta": 17,
+              "respuestas": [
+                "Alude al resurgimiento de la cultura europea gracias a las redes sociales.",
+                "Hace referencia a la manera de condensar el lenguaje en redes sociales.",
+                "Habla sobre la poca comunicación que promueve el uso de redes sociales."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "El hecho de que la autora del ensayo mencione en el título del mismo los 140 caracteres remite, de manera directa, a Twitter, red social que limita sus publicaciones a dicha extensión. Tal referencia expone la manera en que el lenguaje ha tenido que condensarse para poder ajustarse a los nuevos parámetros de escritura que marcan las redes sociales."
+            },
+            {
+              "pregunta": "¿Qué mensaje se puede inferir a partir de la información del texto?",
+              "numPregunta": 18,
+              "respuestas": [
+                "Respecto a épocas anteriores, el uso de las redes modifica nuestra construcción social e individual del concepto de lo público y lo privado.",
+                "Son muchos los beneficios de una era moderna que permite tener acceso a toda clase de información de manera inmediata gracias a la tecnología.",
+                "Es innegable la relevancia de los escritores de Guadalajara, quienes dominan el panorama literario por medio de sus publicaciones en redes sociales."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "El texto habla de una época pasada en la que el ser humano buscaba poseer un rico 'mundo interior' y una 'historia propia', a diferencia de la época actual en la que existe 'un ser poshumano que habita los espacios físicos y virtuales de las sociedades informáticas para quien el yo no es ni secreto ni una hondura ni mucho menos una interioridad, sino, por el contrario, una forma de visibilidad'."
+            },
+            {
+              "pregunta": "¿Qué elementos rescata la autora respecto a los tuits como forma de escritura?",
+              "numPregunta": 19,
+              "respuestas": [
+                "La forma crítica del periodismo y el placer de leer sobre acontecimientos del aquí y el ahora.",
+                "La exploración del lenguaje y la democratización de la información, es decir, el periodismo ciudadano.",
+                "Las formas novedosas de escritura y conocimiento creadas por los tuitescritores que han surgido."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "No es sólo una forma crítica de periodismo, sino un periodismo ciudadano. Cuando habla del aquí y ahora no se refiere a su placer de leer en Twitter, sino al homo technologicus conectado siempre a digitalidades diversas."
+            },
+            {
+              "pregunta": "Para Cristina Rivera Garza, @diamandina y @Frank_lozanodr...",
+              "numPregunta": 20,
+              "respuestas": [
+                "son testigos de la transformación del lenguaje y describen lo que a ellos les sucede.",
+                "explotan al máximo los 140 caracteres y hacen periodismo ciudadano.",
+                "experimentan en sus textos con las formas del lenguaje y lo resignifican."
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "Estos tuitescritores no sólo escriben lo que les pasa a ellos sino que también experimentan con el lenguaje y lo resignifican."
+            },
+            {
+              "pregunta": "¿Cuál de las siguientes frases tiene un significado semejante al del tuit subrayado en el texto?",
+              "numPregunta": 21,
+              "respuestas": [
+                "Algún día volveremos a levantarnos en almas.",
+                "Si así lo quieres, puedo ser lo que quieras que sea.",
+                "En el frío infernal extraño el verano de tu indiferencia."
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "En el tuit resaltado se emplea una paradoja; en esta frase no existe un juego de palabras y no puede tomarse como una reflexión profunda."
+            }
+          ]
+        },
+        {
+          "titulo": "Concurso de crónica Ciudad de México 2020",
+          "contenido": "La Secretaría de Cultura de la Ciudad de México, a través de la Dirección General de Patrimonio Histórico, Artístico y Cultural y el Archivo Histórico de la Ciudad de México “Carlos de Sigüenza y Góngora”, [...] convoca al Concurso de Crónica de la Ciudad de México 2020, con el tema: “Las mujeres de la Ciudad”.\n\nObjetivo: Fomentar el ejercicio de la crónica como género literario que integra el pensamiento, la estética y la reflexión contemporánea, a partir del tema “Las mujeres de la Ciudad”, para impulsar el análisis de la historia de las mujeres, su protagonismo, sus testimonios, sus problemáticas y sus alternativas mediante la presentación de trabajos escritos por cronistas, escritores y escritoras independientes, investigadores e investigadoras, historiadores e historiadoras y personas en general interesadas en participar.\n\nBases:\n1. Requisitos\n1.1 Podrán participar personas mayores de 18 años, de nacionalidad mexicana o extranjera que residan de forma permanente en la Ciudad de México.\n1.2 La persona concursante deberá presentar una crónica original a partir del tema central de este concurso.\n\n2. Características de la crónica [...]\n2.6 El trabajo que se presente al concurso podrá integrar documentos del Archivo Histórico de la Ciudad de México como parte del material de consulta para su elaboración.\n\n3. Proceso de entrega y registro\n3.1 Cada trabajo deberá enviarse, junto con la hoja de registro digitalizados en PDF por correo electrónico a las siguientes direcciones: sriahcm@gmail.com, paugmm95@gmail.com con el asunto: Crónica Ciudad de México 2020, título del trabajo y seudónimo. Se confirmará la recepción por la misma vía.\n3.2 La hoja de registro se podrá solicitar al correo paugmm95@gmail.com [...].\n\n4. Del jurado\n4.1 El jurado estará integrado por cinco especialistas en la materia.\n4.2 El jurado tomará en cuenta para las revisiones y la asignación de ganadores, entre otras características elementales: la ortografía, redacción, sintaxis y vinculación con el tema principal.\n4.3 Una vez emitido el fallo, que será inapelable, el jurado comunicará el resultado a través de la página electrónica de la Secretaría de Cultura de la Ciudad de México (www.cultura.cdmx.gob.mx) y en las redes sociales del Archivo Histórico de la Ciudad de México Twitter (https://twitter.com/archivociudad?s=08); Facebook (https://www.facebook.com/archivociudad); Instagram (https://www.instagram.com/archivociudad/); YouTube (https://www.youtube.com/channel/UCChY1lUQEdWjenNMoL4wAZw); el día 10 de diciembre de 2020.\n\n5. De los premios [...]\n5.4. Los premios serán aplicados con cargo a la partida 4411 “Premios” de acuerdo con la suficiencia presupuestal asignada para el presente concurso al Archivo Histórico de la Ciudad de México y la forma de pago será a través de transferencia electrónica o cheque, el cual se entregará a cada ganador en el Archivo Histórico de la Ciudad de México, por lo que deberá contar con original y copia de identificación oficial (credencial para votar vigente, expedida por el Instituto Nacional Electoral o del entonces Instituto Federal Electoral), pasaporte vigente, cédula profesional vigente, licencia de conducir vigente o credencial del Instituto Nacional de las Personas Adultas Mayores vigente y comprobante de domicilio.\n5.5 Para recibir el pago del premio por transferencia bancaria deberán tener una cuenta bancaria activa de débito a su nombre y asegurarse que permita depósitos mayores al monto total del premio, transferencias electrónicas y que no tenga límite de depósitos al mes y la CLABE bancaria estandarizada (CLABE). La aplicación correcta del pago dependerá de que la cuenta y los datos bancarios cumplan con las especificaciones descritas y que la CLABE de 18 dígitos esté capturada correctamente [...].\n\n7. Comité organizador\n7.1 Dirección General de Patrimonio Histórico, Artístico y Cultural.\n7.2 Archivo Histórico de la Ciudad de México “Carlos de Sigüenza y Góngora”.\n\n8. Mayores informes\nCorreo: sriahcm@gmail.com [...].",
+          "preguntas": [
+            {
+              "pregunta": "¿Qué estrategia emplea el autor para desarrollar su argumento principal?",
+              "numPregunta": 22,
+              "respuestas": [
+                "Cita ejemplos históricos que refuerzan su postura.",
+                "Describe experiencias personales que avalan su argumento.",
+                "Menciona estudios recientes para respaldar su punto de vista."
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "El autor utiliza estudios recientes para respaldar su argumento principal, lo cual aporta credibilidad al texto y refuerza su postura."
+            },
+            {
+              "pregunta": "De acuerdo con el texto, ¿cuál de las siguientes afirmaciones es correcta?",
+              "numPregunta": 23,
+              "respuestas": [
+                "Las redes sociales han facilitado el acceso a la información en todas las regiones del mundo.",
+                "El concepto de privacidad ha cambiado con el surgimiento de las plataformas digitales.",
+                "La interacción en redes sociales es una práctica limitada a ciertos grupos demográficos."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "El texto aborda cómo el surgimiento de las plataformas digitales ha transformado la manera en que entendemos y manejamos el concepto de privacidad."
+            },
+            {
+              "pregunta": "¿Qué se puede concluir del enfoque del autor respecto al impacto de las redes sociales?",
+              "numPregunta": 24,
+              "respuestas": [
+                "Critica el uso excesivo de las redes sociales y su impacto negativo en la sociedad.",
+                "Reconoce tanto las oportunidades como los desafíos que presentan las redes sociales.",
+                "Se enfoca en destacar únicamente los beneficios de las redes sociales para la educación."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "El autor reconoce que las redes sociales ofrecen oportunidades significativas, pero también presentan desafíos, lo que proporciona un enfoque equilibrado en su análisis."
+            }
+          ]
+        },
+        {
+          "titulo": "La riqueza de la argumentación",
+          "contenido": "Introducción\nEl presente documento analiza un modelo de defensa argumentativa, y la capacidad de los investigadores para emplearlo en el corazón del trabajo científico y tecnológico, que se desarrolla alrededor del mundo en la sociedad del conocimiento. Esto con el fin de liberar al experto de una serie de tradiciones simbólicas y códigos de ética establecidos por el reduccionismo científico, que le permita solventar la necesidad de valorar y defender los nuevos conocimientos útiles para la sociedad.\n\nA la luz de los retos a los que se enfrentan los investigadores en la construcción del conocimiento (en un mundo con enormes flujos de información), y considerando que no es suficiente adquirir o construir dicho saber, sino que además es necesario poseer la capacidad de expresar y defender una idea científica a través del discurso, se formula la siguiente interrogante: ¿De qué manera el lenguaje y la argumentación practicada por Sócrates en su apología y la teoría de la acción comunicativa de Habermas se pueden moldear para obtener un modelo de defensa argumentativa acorde con la sociedad del conocimiento?\n\nSi se considera que Sócrates y Habermas evocan una dualidad única entre la tradición y la modernidad en lo que a recursos argumentativos y dialógicos (uso del lenguaje, comunicación de creencias y la interacción social) se refiere (Dijk, 2000), así como la incesante búsqueda de la verdad, es posible construir un modelo de defensa argumentativa. Sus razonamientos, conocimientos e influencia constituyen la base teórica que podría ayudar al investigador a producir un discurso científico; y mediante la interacción social de este generar redes de conocimiento con sus pares, al permitirle plantear y estructurar una idea (o una tesis) y defenderla ante la crítica, a través de fundamentos y razones tales como datos, pruebas, consideraciones y evidencias empíricas y teóricas.\n\nDerivado de lo anterior, este ensayo mostrará –a través de una articulación dialógica, exposición y crítica–, una nueva forma de generar una argumentación capaz de romper paradigmas, que ayude a los investigadores a conservar y enfatizar su espíritu creativo e innovador, generando nuevas ideas. A partir de una de las capacidades del ser humano, que es la construcción incesante del conocimiento, como se describe en la riqueza de la virtud contenida en Apología de Sócrates, de Platón, este modelo de argumentación permite resolver problemas con perspectivas, visiones y acciones distintas a las establecidas en la formación tradicional de investigadores.\n\nAdicionalmente, para lograr construir y emplear un método de argumentación que erradique gradualmente la tradición positivista en los investigadores, es importante reconocer que con el paso del tiempo las sociedades se transforman y con ellas su cultura, modificándose el lenguaje y las formas de expresar el conocimiento. Sin embargo, la apología de Sócrates da muestras de que el enjuiciamiento de las nuevas ideas sigue siendo un acto de preservación de poder de las viejas ideas, establecidas y fomentadas por la tradición científica dominante. Por consiguiente, se retoma del conocimiento socrático, la desarticulación de la crítica de los adversarios (bajo los mismos argumentos dirigidos en su contra), para plantear un contraargumento, evidenciando que la crítica carece de sustento cuando se basa en ideologías y creencias, y no en los resultados de investigaciones formales.\n\nOtra aportación fundamental para el presente ensayo es la de Habermas (2002). En Esferas de la racionalidad explica la integración del sustento de la racionalidad dialógica, comunicativa y argumentativa, la cual será útil a los investigadores para construir una amplia gama de teorías científicas y tecnológicas, que develarán descubrimientos y nuevas visiones de la realidad en la sociedad del conocimiento.",
+          "preguntas": [
+            {
+              "pregunta": "¿Qué proposición muestra la idea principal del texto?",
+              "numPregunta": 25,
+              "respuestas": [
+                "La argumentación debe poseer soporte teórico, ingenio y finalidad comunicativa alineados con un momento histórico preciso.",
+                "Poseer un modelo argumentativo ingenioso y dialógico requiere del uso de la tradición y alinearlo con un momento preciso.",
+                "Una buena argumentación ampara y expresa una postura metodológica por medio de un discurso anclado a una época."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "El texto sugiere abandonar la tradición positivista y toda tradición científica dominante, lo cual le permitirá al investigador 'solventar la necesidad de valorar y defender los nuevos conocimientos útiles para la sociedad'."
+            },
+            {
+              "pregunta": "Según el texto, ¿cuál es una necesidad secundaria en la construcción de un nuevo modelo argumentativo?",
+              "numPregunta": 26,
+              "respuestas": [
+                "Consideración de los presupuestos de Habermas.",
+                "Comprobación de la carencia de sustento argumentativo.",
+                "Observación diacrónica de los cambios en la humanidad."
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "La desarticulación de la crítica de los adversarios es parte del soporte teórico del texto, no es una consideración secundaria."
+            },
+            {
+              "pregunta": "¿Cuál es el propósito del texto?",
+              "numPregunta": 27,
+              "respuestas": [
+                "Desarrollar una capacitación que proporcione valor y utilidad a la argumentación para defender una idea.",
+                "Crear una tesis, sustentarla con argumentos y defenderla adecuadamente desde la posición ortodoxa existente.",
+                "Proponer herramientas argumentativas que sirvan para defender el discurso científico en la actualidad."
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "No busca crear una tesis, sino que los investigadores puedan crearla y que la defiendan con argumentos."
+            },
+            {
+              "pregunta": "Para emplear el método que propone la autora es importante reconocer que con el paso del tiempo las sociedades se transforman porque...",
+              "numPregunta": 28,
+              "respuestas": [
+                "las formas de comunicar el conocimiento se actualizan.",
+                "se detecta atraso en la argumentación de los investigadores.",
+                "así se preserva la tradición al generar el conocimiento."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "Lo que se detecta es que las culturas y el lenguaje se transforman. Pero el desarrollo argumentativo no tiene un atraso. Prueba de ello es que se propone retomar la Apología de Sócrates."
+            },
+            {
+              "pregunta": "¿Qué sentido tiene la inclusión de la Apología de Sócrates en la lectura?",
+              "numPregunta": 29,
+              "respuestas": [
+                "Es un indicador de la necesidad de mantener el estilo en la argumentación científica.",
+                "Sirve como referente de la crítica actual y su injerencia en el quehacer científico.",
+                "Presenta una crítica a la creación de conocimiento y su discusión en la comunidad especializada."
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "La inclusión de la apología en el texto es parte de la metodología que utiliza la autora para analizar el problema de la argumentación de la crítica frente a nuevas ideas. En este sentido, es indicador de la necesidad de cambiar la argumentación de la crítica, no de mantener ese estilo."
+            },
+            {
+              "pregunta": "El texto propone que los investigadores _______ para _______.",
+              "numPregunta": 30,
+              "respuestas": [
+                "usen un modelo de argumentación -- defender y valorar sus investigaciones.",
+                "desarrollen la habilidad de análisis -- incrementar su argumentación lógica y crítica.",
+                "planteen y sustenten ideas -- tener nuevas formas de conocimiento."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "No solo se trata de plantear ideas, sino de defenderlas a través de la argumentación. Por otra parte, más allá de suponer que los investigadores tendrán nuevas formas de conocimiento, el texto hace énfasis en la defensa argumentativa como una propuesta nueva para defender sus investigaciones."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Nivel 20",
+      "tiempo": 3600,
+      "lecturas": [
+        {
+          "titulo": "Redacción indirecta",
+          "contenido": "",
+          "preguntas": [
+            {
+              "pregunta": "Una revista de divulgación científica publicará un artículo acerca de un tipo de programa computacional. ¿Cuál de los fragmentos se adapta a la situación comunicativa solicitada?",
+              "numPregunta": 1,
+              "respuestas": [
+                "Nos la pasamos pegados al celular escribiendo mensajes de correo electrónico, de chat o en redes sociales. Y casi siempre estamos más atentos a lo que decimos que a cómo lo decimos.",
+                "Los coloquios del presente se plasman digitalmente en código escrito, lo cual queda constatado ya en la correspondencia electrónica.",
+                "La comunicación actual ocurre en gran parte de forma escrita, ya sea mediante el correo electrónico, los servicios de mensajería instantánea o las redes sociales."
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "La comunicación actual ocurre en gran parte de forma escrita, ya sea mediante el correo electrónico, los servicios de mensajería instantánea o las redes sociales. Esta realidad ha incentivado el desarrollo y la mejora de programas computacionales de revisión gramatical automatizada."
+            },
+            {
+              "pregunta": "Un instituto invitó a la comunidad de investigadores a realizar la reseña de la obra que consideraran la más influyente de la última década. ¿Qué fragmento cumple con el objetivo?",
+              "numPregunta": 2,
+              "respuestas": [
+                "Biología asombrosa es el segundo libro de Martín Garnica, investigador dedicado al estudio de plantas que pueden procesarse para producir combustibles.",
+                "Plantas carnívoras, plantas iridiscentes, plantas que producen un olor a cadáver para atraer moscas y otros insectos...",
+                "Martín Garnica es un biólogo destacado que se ha dedicado durante los últimos 30 años a estudiar diversas plantas."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "Esta opción corresponde a un artículo de divulgación en el que se describe el tema del libro, sin emitir la crítica que caracteriza a la reseña."
+            },
+            {
+              "pregunta": "¿En cuál oración se establece una relación correcta entre las palabras?",
+              "numPregunta": 3,
+              "respuestas": [
+                "La reciente decoración estuvo a cargo de la esposa y cuñada de Guillermo.",
+                "Las cocineras decidieron preparar la pasta y la ensalada simultáneamente.",
+                "La mujer había olvidado la bolsa y bufanda en la habitación de su hotel."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "Según el Diccionario panhispánico de dudas, cuando se coordinan dos o más sustantivos concretos que se refieren a entidades distintas, cada uno va introducido por su propio determinante."
+            },
+            {
+              "pregunta": "Elija el enunciado en el que se establece una relación correcta entre las palabras.",
+              "numPregunta": 4,
+              "respuestas": [
+                "La persona que sufrió el percance, un hombre joven, fue atendido en el hospital más cercano.",
+                "El personaje, una anciana cruel y malvada, es interpretado por la actriz galardonada.",
+                "La cría del tigre que está en cautiverio, un hermoso cachorro, será llevado a un santuario."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "De acuerdo con el Diccionario Panhispánico de Dudas (DPD), la concordancia de los sustantivos epicenos debe establecerse siempre en función del género gramatical del sustantivo."
+            },
+            {
+              "pregunta": "Elija la opción que complete correctamente el enunciado.\nElla se _______ de que su exnovio _______ un nuevo amor.",
+              "numPregunta": 5,
+              "respuestas": [
+                "alegra - haya encontrado.",
+                "alegrará - hubiera encontrado.",
+                "ha alegrado - hubiese encontrado."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "En esta opción se establece una adecuada correlación verbal, ya que la regla establece que si el verbo principal está en presente de indicativo, para expresar anterioridad, el verbo subordinado debe estar en pretérito perfecto compuesto de subjuntivo."
+            },
+            {
+              "pregunta": "Seleccione la opción que está libre de ambigüedad.",
+              "numPregunta": 6,
+              "respuestas": [
+                "Juana visitó a su alegre abuela Tina, a quien no veía desde que se mudó de la ciudad de Morelia.",
+                "Me pregunté si la designación de la doctora como directora del instituto iba a satisfacer las expectativas de la comunidad.",
+                "La fotocopiadora dejó de funcionar justamente el día en que debían ser aplicados los exámenes de ingreso."
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "La elisión del sujeto oracional en este fragmento es adecuada, y no genera problemas de ambigüedad ni de comprensión."
+            },
+            {
+              "pregunta": "Seleccione la opción que, de acuerdo con el contexto, tiene un significado similar al de la palabra resaltada en negritas.\nDesde la Acrópolis, fortaleza de la ciudad, los atenienses podían divisar a sus enemigos.",
+              "numPregunta": 7,
+              "respuestas": ["resistencia.", "baluarte.", "núcleo."],
+              "correcta": 1,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "Aunque 'resistencia' y 'fortaleza' pueden ser conceptos cercanos, en este caso 'fortaleza' hace referencia a la defensa natural de un lugar."
+            },
+            {
+              "pregunta": "Seleccione la opción que da sentido al fragmento.\nEl término arquetipo fue introducido en la psicología analítica por Jung, _______, lo acuñó y desarrolló como concepto en su obra Los arquetipos y el inconsciente colectivo en los años 30.",
+              "numPregunta": 8,
+              "respuestas": [
+                "es decir.",
+                "en este sentido.",
+                "por el contrario."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "La segunda parte del fragmento es una reformulación de lo que se dijo en la primera parte, de modo que el vínculo adecuado entre ellas es 'es decir'."
+            },
+            {
+              "pregunta": "Complete el enunciado con las palabras correctas.\nLa _______ de Violeta Parra fue _______ en el museo. ¡_______ a su legado!",
+              "numPregunta": 9,
+              "respuestas": [
+                "vihuela -- exibida – Enorabuena.",
+                "vihuela -- exhibida –Enhorabuena.",
+                "viuhela-- exhibida -- Enohrabuena."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "'Vihuela' y 'enhorabuena' no cumplen las reglas ortográficas relativas al uso de la 'h' intermedia. La opción correcta es 'vihuela', 'exhibida' y 'enhorabuena'."
+            },
+            {
+              "pregunta": "Complete el enunciado con las grafías correctas.\nEl ja___mín es un arbusto de follaje perenne y tallos leño___os en la madure___. Su flora___ión es escalonada y tiene una exquisita fragan___ia.",
+              "numPregunta": 10,
+              "respuestas": [
+                "s - s - z - c - s.",
+                "z - z - s - s - c.",
+                "z - s - z - c - c."
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "'Jazmín' se escribe con 'z'; 'leñosos' se escribe con 's'; 'madurez' se escribe con 'z'; 'floración' se escribe con 'c', y 'fragancia' se escribe con 'c'."
+            },
+            {
+              "pregunta": "Elija la oración con la puntuación correcta.",
+              "numPregunta": 11,
+              "respuestas": [
+                "Hoy me entregaron el dictamen de la tesis, el cual, fue muy favorable.",
+                "Hoy me entregaron el dictamen de la tesis el cual, fue muy favorable.",
+                "Hoy me entregaron el dictamen de la tesis, el cual fue muy favorable."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "La coma está colocada incorrectamente, ya que debe colocarse antes del relativo, pues solo está permitido el uso de comas después del relativo si se introduce un vocativo o alguna estructura parentética."
+            },
+            {
+              "pregunta": "Elija el enunciado que utiliza correctamente los signos de puntuación.",
+              "numPregunta": 12,
+              "respuestas": [
+                "Podemos leer cuentos, novelas, poesía, teatro,… en fin, toda una gama de obras literarias.",
+                "Cervantes escribió: 'En un lugar de la Mancha, de cuyo nombre no quiero acordarme'…",
+                "No le perdonaré nunca la manera en la que me trató. ¡Me dijo que yo era un hijo de…!"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "Los puntos suspensivos se utilizan para insinuar expresiones malsonantes y se colocan antes de los signos de admiración."
+            },
+            {
+              "pregunta": "Seleccione la opción que está acentuada correctamente.",
+              "numPregunta": 13,
+              "respuestas": [
+                "En el preámbulo del taller de redacción poética se explicó que el objetivo es proveer a sus participantes de herramientas idóneas que les permitan organizar y expresar sus ideas por escrito.",
+                "En el préambulo del taller de redacción poética se explicó que el objetivo es proveer a sus participantes de herramientas idoneas que les permitan organizar y expresar sus ideas por escrito.",
+                "En el preambulo del taller de redacción poetica se explicó que el objetivo es proveér a sus participantes de herramientas idóneas que les permitan organizar y expresar sus ideas por escrito."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "Falta el acento de 'preámbulo', ya que forma un hiato porque ambas tienen dos vocales abiertas distintas, por lo tanto se acentúa."
+            },
+            {
+              "pregunta": "¿Cuál opción está acentuada correctamente?",
+              "numPregunta": 14,
+              "respuestas": [
+                "No me debía reír porque me acababan de aplicar fluor en la muela.",
+                "Vigila que el bote no se desvíe para llegar a la otra margen del río.",
+                "¡Esta es la última vez que me reúno con el egoista de mi tío!"
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "Debe escribirse 'egoísta' con tilde sobre la vocal cerrada 'i' para indicar que la pronunciación de esta es tónica. 'Reúno' y 'tío' también deben llevar tilde."
+            },
+            {
+              "pregunta": "En el Museo Nacional de Paleontología se abrió una convocatoria para trabajar como guía. Para la contratación solicitan una carta de motivos. ¿Qué opción se adapta a la intención comunicativa?",
+              "numPregunta": 15,
+              "respuestas": [
+                "Mi nombre es Alberto Avilés y estoy interesado en el puesto de guía en el museo. Mi interés proviene, en primer lugar, de que soy estudiante de la licenciatura en Geología y me gustaría, en un futuro, hacer una especialidad en Paleontología.",
+                "Estimadísimo reclutador: mi nombre es Alberto Avilés. Me quiero postular al puesto de guía, ya que siempre me han gustado los museos. Actualmente me encuentro en una situación muy difícil.",
+                "¡Hola! Soy Alberto Avilés y les escribo porque me gustaría mucho, mucho trabajar como guía en el museo. Desde niño me han gustado mucho los dinosaurios y con las películas de Parque Jurásico mi interés se incrementó."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "El registro informal y coloquial ('hola' y 'me gustaría mucho, mucho') del fragmento es inadecuado para una carta de exposición de motivos."
+            },
+            {
+              "pregunta": "Un alumno presentará su proyecto de investigación para obtener una beca, por lo que entregará la propuesta al comité académico. ¿Qué fragmento cumple con el objetivo?",
+              "numPregunta": 16,
+              "respuestas": [
+                "En esta investigación se analizará la asociación que existe entre el consumo de fármacos y de herbolaria en la población mayor de 70 años que habita en zonas rurales del país.",
+                "En mi proyecto lo que quiero analizar es la manera en la que se combina el uso de fármacos y remedios naturales en distintas zonas rurales del país.",
+                "En este trabajo se va a generar un plan de intervención para atender a la población de adultos mayores de 70 años en zonas rurales."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "Esta opción utiliza un lenguaje claro y técnico, adecuado para la situación comunicativa de una propuesta de investigación."
+            },
+            {
+              "pregunta": "Elija el enunciado que está escrito correctamente.",
+              "numPregunta": 17,
+              "respuestas": [
+                "¿Quien hizo la puerta? ¡Qué terrible trabajo realizó!",
+                "¿Quien hizo la puerta? ¡Que terrible trabajo realizó!",
+                "¿Quién hizo la puerta? ¡Qué terrible trabajo realizó!"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "'Quién' es un pronombre interrogativo, por lo que debe llevar tilde."
+            },
+            {
+              "pregunta": "Elija el enunciado con la acentuación correcta.",
+              "numPregunta": 18,
+              "respuestas": [
+                "En mí humilde opinión, no sé si estás listo para dirigir el equipo.",
+                "En mi humilde opinión, no sé si estás listo para dirigir el equipo.",
+                "En mí humilde opinión, no se si estás listo para dirigir el equipo."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "El monosílabo 'mi' no debe llevar tilde porque no corresponde a un pronombre personal, sino a un adjetivo posesivo."
+            },
+            {
+              "pregunta": "Elija el enunciado con la puntuación correcta.",
+              "numPregunta": 19,
+              "respuestas": [
+                "La mujer entró caminando tranquilamente hacia el dormitorio. Sus palabras fueron: 'Estoy exhausta...'. Después tomó su bolsa, salió de la habitación y desapareció.",
+                "En la entrada a la iglesia decía: 'guardar silencio, por favor'. ¿Cómo era posible que con este anuncio, aquella pareja estuviera riendo a carcajadas, ahí dentro?.",
+                "El licenciado Alberto Domínguez presenció el terremoto de la Ciudad de México (en 1985) Afortunadamente se salvó y su casa no sufrió ningún daño."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "Después de un signo de interrogación o admiración no se pone punto, ya que el mismo signo cierra la oración."
+            },
+            {
+              "pregunta": "Seleccione la opción que está puntuada correctamente.",
+              "numPregunta": 20,
+              "respuestas": [
+                "En el español existen sílabas monolíteras, es decir, aquellas formadas por una sola letra; bilíteras o, en otras palabras, aquellas conformadas por dos letras, y trilíteras, o sea, las que están constituidas por tres letras.",
+                "En el zapoteco existen seis vocales, de las cuales cinco son iguales a las del español y la restante lleva diéresis, sin embargo; para cada una hay tres pronunciaciones que pueden ser quebradas, aspiradas y cortadas.",
+                "El portugués es una lengua perteneciente a la familia romance y se habla en capitales como São Paulo; Luanda; Santo Tomé; Praia, y Maputo, lo que la hace la séptima lengua más hablada en todo el mundo."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "Según el Diccionario Panhispánico de Dudas, se utiliza punto y coma para separar elementos de una enumeración cuando se trata de expresiones complejas que incluyen comas."
+            },
+            {
+              "pregunta": "Elija la opción que presenta una escritura correcta.",
+              "numPregunta": 21,
+              "respuestas": [
+                "La rana saltó al charco y segundos después croó.",
+                "El nuevo plantel se encuentra en un edificio frísimo.",
+                "Ayer horné un delicioso pastel para mis amigos."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "Se escriben con '-ii' los superlativos con terminación '-ísimo' que provienen de adjetivos que terminan con hiato, por lo que el superlativo de 'frío' debe ser 'friísimo'."
+            },
+            {
+              "pregunta": "Identifique el enunciado escrito correctamente.",
+              "numPregunta": 22,
+              "respuestas": [
+                "El rey recibió con beneplácito la abdicación del ovispo.",
+                "Absolvieron al acusado de la evasión de sus contribuciones.",
+                "El gobierno otorga subenciones a los investigadores."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "Se escribe con 'v' las palabras en las que las sílabas ad-, sub- y ob- preceden al fonema labial sonoro, por ejemplo 'adviento', 'subvención', 'obvio'."
+            },
+            {
+              "pregunta": "Complete el fragmento con la opción que le da sentido.\nEl seminario comenzó con la presentación de los integrantes y la lectura de su ficha curricular, _______ se leyó la orden del día con todos los aspectos por tratar en la reunión y _______ se dio paso a la discusión de cada uno de los temas.",
+              "numPregunta": 23,
+              "respuestas": [
+                "no obstante - por cierto.",
+                "enseguida - luego.",
+                "en resumen - más aún."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "'En resumen' posee una función de cierre, por lo tanto no puede ser utilizado en este sentido. Además, el marcador 'más aún' señala adición, pero en este caso es erróneo su uso."
+            },
+            {
+              "pregunta": "Elija la opción cuyo significado se opone a la palabra resaltada entre comillas, de acuerdo con el contexto.\nEn la conferencia sobre emprendimiento, el experto narró la anécdota de un hombre 'paupérrimo' cuyo proyecto le dio la motivación para convertirse en empresario.",
+              "numPregunta": 24,
+              "respuestas": ["dispendioso.", "opulento.", "suntuoso."],
+              "correcta": 1,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "'Paupérrimo' designa a alguien 'extremadamente pobre'; en cambio, 'opulento' se refiere a alguien que es 'muy rico'; por lo tanto, ambos términos se encuentran en una relación de antonimia."
+            },
+            {
+              "pregunta": "Complete el fragmento con las palabras que le dan sentido.\nYa te lo había dicho: _______ nunca _______ conoció fue Miguel, porque cuando él llegó a vivir a la casa, Ana ya se había ido.",
+              "numPregunta": 25,
+              "respuestas": ["que - le.", "quien - la.", "quien - las."],
+              "correcta": 1,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "La catáfora gramatical le otorga sentido al mensaje, pues en la primera opción está correctamente utilizado el pronombre relativo 'quien' y en la segunda opción, el pronombre átono 'la' concuerda con su consecuente en femenino singular."
+            },
+            {
+              "pregunta": "¿En cuál oración se establece una relación correcta entre las palabras?",
+              "numPregunta": 26,
+              "respuestas": [
+                "Soy de los que siempre ayudan en los incendios forestales.",
+                "Eres de las que organizas la reforestación año tras año.",
+                "Soy de las que amo y respeto profundamente a la naturaleza."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "La concordancia en tercera persona de plural es correcta en estas construcciones, ya que el sujeto es el relativo 'los que'."
+            },
+            {
+              "pregunta": "Seleccione la oración en la que se establece una relación correcta entre las palabras.",
+              "numPregunta": 27,
+              "respuestas": [
+                "Los peloteros puertorriqueños defienden la base primera y segunda.",
+                "La soprano no alcanzó las notas durante el acto primero ni tercero.",
+                "En la obra de teatro, el director señaló las filas primera y segunda."
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "Cuando dos o más ordinales coordinados modifican a un sustantivo que los antecede, este debe escribirse en plural: 'actos primero y tercero'."
+            },
+            {
+              "pregunta": "Elija el enunciado en el que se establece una relación correcta entre las palabras.",
+              "numPregunta": 28,
+              "respuestas": [
+                "Tomaré medidas de tipo correctivas.",
+                "El análisis es de carácter económico.",
+                "La recomendación fue de carácter ortográfica."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "El adjetivo que expresa la característica ha de ir en masculino singular, pues debe concordar con las palabras 'tipo' o 'carácter', por lo que 'económico' es correcto."
+            },
+            {
+              "pregunta": "Un periódico de circulación nacional debe elegir su columna editorial entre tres propuestas. ¿Cuál de las opciones corresponde al texto solicitado?",
+              "numPregunta": 29,
+              "respuestas": [
+                "El entonces presidente se dirigió con desgarbo al lugar donde daría sus últimas palabras como mandatario.",
+                "El ahora expresidente del vecino país fue obligado a dimitir, luego de una jornada de intensas protestas.",
+                "Fue a las 20:00 horas del pasado jueves cuando el ahora expresidente del vecino país apareció en cadena nacional."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "Esta opción presenta la postura del medio impreso respecto a un asunto de interés público de forma concisa, argumentada y clara con el propósito de influir en el punto de vista del lector."
+            },
+            {
+              "pregunta": "Una universidad hizo la convocatoria formal para un intercambio académico con una institución de Canadá. ¿Qué opción cumple con el objetivo?",
+              "numPregunta": 30,
+              "respuestas": [
+                "¡Hola! Si estás interesado en realizar un intercambio académico y cursar un semestre de tu carrera en una institución de Canadá, ¡apúntate ya!",
+                "Se convoca a todos los interesados en cursar un semestre de intercambio académico en alguna institución en Canadá a que acudan a la secretaría académica.",
+                "La dirección de la escuela te convoca a realizar un semestre de intercambio académico en Canadá."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "El registro lingüístico de esta opción es formal y presenta los requisitos y el propósito de la convocatoria de forma clara y precisa."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

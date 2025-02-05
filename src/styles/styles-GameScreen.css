@@ -200,10 +200,10 @@
   margin-bottom: 10px;
 }
 
-.modal p {
+/*.modal p {
   margin-bottom: 30px;
   font-size: 1.5rem;
-}
+}*/
 
 .close-modal-button {
   padding: 10px 20px;
@@ -266,4 +266,33 @@
   background-color: #88c576; /* Verde claro */
 }
 
-  
+.feedback-message {
+  position: relative;
+  background-color: #88c576;
+  margin-top: 20px;
+  font-size: 1rem;
+  color: #274c47; /* Verde oscuro */
+  font-weight: bold;
+  animation: fade-out 15s forwards;
+}
+
+@keyframes fade-out {
+  0% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+/* Estilos que se mantienen */
+
+.slick-dots li button:before {
+  color: #fff; /* Cambia el color de los dots */
+  font-size: 12px; /* Ajusta el tamaño */
+}
+
+.slick-dots li.slick-active button:before {
+  color: #f4f1de; /* Cambia el color del dot activo */
+}
+

@@ -1,0 +1,912 @@
+{
+  "niveles": [
+    {
+      "nivel": "Nivel 1",
+      "tiempo": 480,
+      "textoInformativoTitulo": "Las ideas principales y cómo diferenciarlas de las secundarias.",
+      "textoInformativo": "Cuando las ideas y los conceptos se enlazan para transmitir mensajes largos y complejos, puede surgir una sobrecarga de información que dificulta la comprensión y la retención de lo esencial. En estos casos, identificar las ideas principales es clave para facilitar la comprensión. \n\nLa mayoría de los textos escritos en prosa están compuestos por párrafos, y cada uno de ellos contiene una idea principal que resume su contenido y está relacionada con el tema general del texto. En otras palabras, cada párrafo tiene una idea principal que actúa como el \"esqueleto\" del texto. Estas ideas principales forman la estructura central del texto, los pilares que sostienen su contenido, mientras que las ideas secundarias complementan y decoran esa estructura. \n\nPara identificar la idea principal de un párrafo, es útil analizar sus oraciones. Los párrafos suelen incluir una oración principal que contiene la información más importante o fundamental, acompañada de oraciones secundarias que amplían, explican o aportan detalles adicionales. \n\nLas oraciones secundarias suelen estar conectadas con la principal mediante signos de puntuación como la coma, el punto y coma o el punto y seguido, así como por conjunciones y preposiciones. Una vez que identificas las ideas principales, puedes utilizar herramientas como mapas mentales, cuadros sinópticos, resúmenes y síntesis. Estas técnicas de estudio no solo te ayudarán a comprender mejor cualquier texto, sino que también facilitarán la organización y memorización de la información. \n\nDefinición y Características \n\nLas ideas principales y secundarias se diferencian por su jerarquía e importancia dentro del texto: \n\nEstrategias de Identificación \n\nPara identificar eficazmente las ideas principales y secundarias, se pueden emplear las siguientes técnicas: \n\n1. Análisis párrafo por párrafo. \n2. Formulación de preguntas clave: \n- Para ideas principales: \"¿De qué trata el texto?\" \n- Para ideas secundarias: \"¿Qué información complementa el tema central?\"",
+      "lecturas": [
+        {
+          "titulo": "Pingüinos",
+          "contenido": "No todos conocemos un pingüino, pero casi todos los hemos visto en imágenes desde que éramos niños. Pese a ello, muchas personas desconocen las condiciones extremas en que estos animales habitan.\n\nEl pingüino es el único vertebrado que vive durante el invierno en la Antártica sin madriguera o nido. En 2005, dichos animales tuvieron la compañía de un grupo de biólogos interesados en conocer lo que les permite vivir y reproducirse a temperaturas menores a los 25°C bajo cero.\n\nDurante el otoño se dedican a pescar en el mar, para lo cual se sumergen a profundidades hasta de 500 metros. Su cuerpo tiene un diseño hidrodinámico que les permite nadar casi totalmente rígidos con un gasto mínimo de energía y, además, pueden permanecer bajo el agua hasta por 20 minutos.\n\nEsto es posible porque consumen aire adicional que almacenan en unas bolsas alojadas junto a los pulmones.\n\nTienen proporciones considerables de hemoglobina en sangre y mioglobina en sus músculos, sustancias encargadas de atrapar oxígeno del aire para llevarlo a los tejidos.\n\nDe grandes profundidades ascienden súbitamente a la superficie sin sufrir daño; la denominada descompresión que padecen los buzos cuando ascienden con rapidez y que les puede ocasionar la muerte debido a la formación de burbujas de nitrógeno en la sangre. Aún se desconoce el mecanismo por medio del cual estas singulares aves mantienen el equilibrio de los gases en sangre.\n\nDurante el invierno la hembra pone un huevo, que el macho empolla durante siete semanas, tiempo en el que él permanece parado, cubriéndolo, sin probar alimento; mientras que ella regresa al mar, con el objetivo de traer comida para el polluelo.\n\nLos conocimientos que los biólogos obtengan sobre los mecanismos que permiten a los pingüinos vivir en situaciones extremas permitirán entender mejor la fisiología de todos los seres vivos.",
+
+          "preguntas": [
+            {
+              "pregunta": "1.¿De qué habla el texto “Pingüinos”?",
+              "numPregunta": 1,
+              "respuestas": [
+                "El porqué los pingüinos pueden sobrevivir en un clima muy frío.",
+                "La importancia de que todas las personas conozcan un pingüino.",
+                "Los hábitos alimenticios y reproductivos de los pingüinos."
+              ],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "Vuelve a leer con atención este fragmento: \n\n[...] No todos conocemos un pingüino, pero casi todos los hemos visto en imágenes desde que éramos niños. Pese a ello, muchas personas desconocen las condiciones extremas en que estos animales habitan. \n\nEl pingüino es el único vertebrado que vive durante el invierno en la Antártica sin madriguera o nido. En 2005, dichos animales tuvieron la compañía de un grupo de biólogos interesados en conocer lo que les permite vivir y reproducirse a temperaturas menores a los 25°C bajo cero. [...] \n\n ¿Cuáles son los sustantivos, verbos y adjetivos de estos párrafos que se relacionan estrechamente con el tema del texto?",
+              "numPregunta": 2,
+              "respuestas": [
+                "pingüino, niños, animales, Antártica, madriguera, biólogos, vivir, 25°C bajo cero.",
+                "pingüino, condiciones extremas, Antártica, vivir, reproducirse, 25°C bajo cero.",
+                "muchas personas desconocen las condiciones extremas en que estos animales habitan."
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "Vuelve a leer los siguientes fragmentos: \n\n [...] Durante el otoño se dedican a pescar en el mar, para lo cual se sumergen a profundidades hasta de 500 metros. Su cuerpo tiene un diseño hidrodinámico que les permite nadar casi totalmente rígidos con un gasto mínimo de energía y, además, pueden permanecer bajo el agua hasta por 20 minutos. [...] \n\nDe grandes profundidades ascienden súbitamente a la superficie sin sufrir daño, la denominada descompresión, que padecen los buzos cuando ascienden con rapidez y que les puede ocasionar la muerte debido a la formación de burbujas de nitrógeno en la sangre. Aún se desconoce el mecanismo por medio del cual estas singulares aves mantienen el equilibrio de los gases en sangre. [...] \n\nLos conocimientos que los biólogos obtengan sobre los mecanismos que permiten a los pingüinos vivir en situaciones extremas permitirán entender mejor la fisiología de todos los seres vivos. [...] \n\n3.¿Cuál de estos tecnicismos es una palabra clave del texto?",
+              "numPregunta": 3,
+              "respuestas": ["fisiología", "hidrodinámico", "descompresión"],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "Vuelve a leer el siguiente fragmento: \n\n [...] Durante el otoño se dedican a pescar en el mar, para lo cual se sumergen a profundidades hasta de 500 metros. Su cuerpo tiene un diseño hidrodinámico que les permite nadar casi totalmente rígidos con un gasto mínimo de energía y, además, pueden permanecer bajo el agua hasta por 20 minutos [...] \n\n ¿Cuál es la oración principal de este párrafo?",
+              "numPregunta": 4,
+              "respuestas": [
+                "Durante el otoño se dedican a pescar en el mar.",
+                "Les permite nadar casi totalmente rígidos con un gasto mínimo de energía.",
+                "Su cuerpo tiene un diseño hidrodinámico."
+              ],
+              "correcta": 2,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Nivel 2",
+      "tiempo": 600,
+      "lecturas": [
+        {
+          "titulo": "A continuación, se presentarán 3 textos diferentes; léelos con atención y responde las siguientes preguntas.",
+          "contenido": "BURÓS/BUROES (TEXTO 1) \n\n Son ya varias las ocasiones en las que he oído, en boca de algún locutor de la televisión, el plural buroes. Me parece que la mayoría de los hispanohablantes prefiere la forma burós. Vale la pena, entonces, repasar brevemente la normatividad de este caso dentro de las reglas de formación de plural de los sustantivos españoles. \n\n Parece ser que en las primeras ediciones de la gramática académica se recomendaba la forma en –os. Todavía en una edición mexicana del siglo XIX (Gramática de la lengua castellana por la Real Academia, Imp. y Lit. del Colegio de Artes y Oficio, México 1872) puede leerse que: “los (sustantivos) que acaben en alguna de las vocales á, í, ú, acentuadas, forman de ordinario el número plural añadiendo la sílaba es al singular (…), pero si dicha vocal es la é  o la ó acentuada, se forma siempre el plural, lo mismo que cuando no está acentuada, con sólo añadir una s (…) de landó, landós, de rondó, rondós” (p. 13).\n\n Probablemente a fines del siglo XIX o principios del XX cambió el criterio de la Real Academia. Así, en la edición de 1931 (Real Academia Española, Gramática de la lengua española, Espasa-Calpe, Madrid, reimpresa varias veces), la regla que comento aparece modificada: “los (sustantivos) que terminan en vocal acentuada reciben en el plural la sílaba es, como bajá, carmesí, rondó, tisú- bajaes, carmesíes, tisúes” (p. 18). Aunque añade inmediatamente después que “no faltan ejemplos de haberse usado en plural (…) vocablos de esa misma índole con el simple aditamento de la s”. \n\n Esta modificación de la regla no pareció con el aval de todos los gramáticos. Baste un ejemplo. En su excelente tratado, Rafael A. de la Peña (Gramática teórica y práctica de la lengua castellana, Herero Hnos., México, 1898), después de transcribir la regla anterior, hace el siguiente señalamiento: “parece sin embargo más conforme con el uso actual añadir, nada más s a las voces agudas de más de una sílaba terminadas en ó o en ú, de suerte que los plurales de landó y tisú serán en este caso landós y tisús” (p. 70). \n\nEn resumen, parece recomendable formar con una sola –s el plural del vocablo de origen francés buró que, en México al menos, equivale a mesa de noche y, por tanto, debemos decir burós y no buroes. \n\nEl futuro de las Humanidades (TEXTO 2) \n\nLa necesidad de colaboración entre humanistas y científicos es cada vez más evidente.  \n\nHace medio siglo C. P. Snow, físico y novelista británico pronunció una conferencia sobre Las dos culturas y la revolución científica, que produjo un gran revuelo. Distinguía en ella entre dos culturas, la de los científicos y la de los intelectuales, que venían a coincidir con dos ámbitos del saber: \n\nCiencias y Humanidades. A juicio del conferenciante, los intelectuales gozaban de un mayor aprecio por parte del público y, sin embargo, eran unos luditas irresponsables, incapaces de apreciar la revolución industrial por no preocuparles la causa de los pobres. \n\nHoy las cosas han cambiado radicalmente, Jerome Kagan, emérito de la Universidad de Harvard, vuelve al tema en The Three Cultures y amén de añadir la cultura de las Ciencias Sociales, diagnostica el declive de las Humanidades. Naturalmente, cabría discutir todo esto, porque es discutible, pero hay al menos dos afirmaciones que urge abordar: ¿es verdad que las Humanidades están en decadencia? ¿es verdad que quienes las tienen por oficio son incapaces de interesarse por la causa de los menos aventajados y de apreciar el progreso científico? La respuesta no puede ser en ambos casos sino “sí y no”.\n\n En lo que hace a las razones del sí, serían al menos tres.\n\n Por una parte, el harakiri practicado por sedicentes humanistas, empeñados en asegurar que cualquier ciudadano corriente puede ser historiador, filólogo, filósofo o crítico literario sin tener que pasar por un aprendizaje ad hoc, cuando lo cierto es que estos saberes cuentan con vocabularios específicos, con métodos propios de la investigación, con un bagaje de tradiciones históricamente surgidas que es preciso conocer para dar mejores soluciones a los problemas actuales. \n\nQuechcotona (TEXTO 3) \n\nQuechcotona, en náhuatl significa al mismo tiempo “cortar la cabeza a alguien” y “recoger una espiga con la mano”. La percepción del sacrificio en su origen es precisamente que cada recoger es también un asesinar, que cada arrancamiento, toda separación de algo de aquello que le está conectado (y no es otra cosa paso a paso, el todo), es una matanza. \n\nPero la vida, si quiere perpetuarse, exige que se recoja algo. El sacrificio envuelve el primer arrancamiento, la primera separación, la originaria decisio (de caedo, el verbo de matar a la víctima sacrificatoria con derramamiento de sangre), en una delicada, sutilísima e inmensa red que conecta el Todo con la cavidad de la herida en el momento en que se abre. \n\nSe puede recoger incluso sólo una espiga, pero el sumo incremento de potencia se tiene cuando recoger también es matar. En lugar de un tallo, arrancar el corazón todavía palpitante, con la “mariposa de obsidiana”, del tronco de la víctima derribada. \n\nArrancada esa otra red, que une el corazón con la totalidad del cuerpo, nos inundamos de unos seis-siete litros de sangre. Es la exuberancia de la vida, que sólo en esa sangre se promete perenne.",
+          "preguntas": [
+            {
+              "pregunta": "¿En cuál de los tres textos existe uniformidad en el tamaño de los párrafos?",
+              "numPregunta": 1,
+              "respuestas": ["Texto 1", "Texto 2", "Texto 3"],
+              "correcta": 0,
+              "retroalimentacion": "Si observas el Texto 1, los párrafos son del mismo tamaño.",
+              "retroalimentacionIndex": 0
+            },
+            {
+              "pregunta": "¿En qué introducción, el autor emplea una anécdota para atrapar al lector?",
+              "numPregunta": 2,
+              "respuestas": ["Texto 1", "Texto 2", "Texto 3"],
+              "correcta": 0,
+              "retroalimentacion": "En el Texto 1 en donde el escritor se refiere a una experiencia personal cuando dice “Son ya varias las ocasiones en las que he oído, en boca de algún locutor de la televisión, el plural buroes”. ",
+              "retroalimentacionIndex": 0
+            },
+            {
+              "pregunta": "¿En qué texto se plantean preguntas para introducir los temas que se abordarán?",
+              "numPregunta": 3,
+              "respuestas": ["Texto 1", "Texto 2", "Texto 3"],
+              "correcta": 1,
+              "retroalimentacion": "Considera que es en el Texto 2 de “El futuro de las humanidades” el autor dice: ¿es verdad que las Humanidades están en decadencia? ¿es verdad que quienes las tienen por oficio son incapaces de interesarse por la causa de los menos aventajados y de apreciar el progreso científico? La respuesta no puede ser en ambos casos “sí y no”  ",
+              "retroalimentacionIndex": 1
+            },
+            {
+              "pregunta": "¿Qué texto inicia con una definición?",
+              "numPregunta": 4,
+              "respuestas": ["Texto 1", "Texto 2", "Texto 3"],
+              "correcta": 2,
+              "retroalimentacion": "En el Texto 3 en el que se introduce al lector a la definición de Quechcotona, en náhuatl significa al mismo tiempo “cortar la cabeza a alguien” y “recoger una espiga con la mano”",
+              "retroalimentacionIndex": 2
+            },
+            {
+              "pregunta": "¿En qué texto se desarrolla cronológicamente las ideas?",
+              "numPregunta": 5,
+              "respuestas": ["Texto 1", "Texto 2", "Texto 3"],
+              "correcta": 0,
+              "retroalimentacion": "Observa que es en el Texto 1 en donde el autor aborda por siglos las reglas gramaticales para formar el plural de “buros”. Observa que menciona las fechas: siglo XIX, siglo XX y después 1898.",
+              "retroalimentacionIndex": 0
+            },
+            {
+              "pregunta": "6.¿En qué texto desarrolla el autor dos ideas: la vida y la víctima sacrificatoria?",
+              "numPregunta": 6,
+              "respuestas": ["Texto 1", "Texto 2", "Texto 3"],
+              "correcta": 2,
+              "retroalimentacion": "En el Texto 3, en el primer párrafo y en el segundo párrafo se desarrolla cuando comenta acerca de la vida: “La percepción del sacrificio en su origen es precisamente que cada recoger es también un asesinar, que cada arrancamiento, toda separación de algo de aquello que le está conectado (y no es otra cosa paso a paso, el todo), es una matanza. Pero la vida, si quiere perpetuarse, exige que se recoja algo. El sacrificio envuelve el primer arrancamiento, la primera separación, la originaria decisio (de caedo, el verbo de matar a la víctima sacrificatoria con derramamiento de sangre), en una delicada, sutilísima e inmensa red que conecta el Todo con la cavidad de la herida en el momento en que se abre”.",
+              "retroalimentacionIndex": 2
+            },
+            {
+              "pregunta": "¿En qué texto el autor plantea una respuesta a la pregunta inicial?",
+              "numPregunta": 7,
+              "respuestas": ["Texto 1", "Texto 2", "Texto 3"],
+              "correcta": 0,
+              "retroalimentacion": "En el Texto 1 de burós/buroes termina con un resumen que responde a la pregunta inicial: En resumen, parece recomendable formar con una sola –s el plural del vocablo de origen francés buró que, en México al menos, equivale a mesa de noche y, por tanto, debemos decir burós y no buroes. ",
+              "retroalimentacionIndex": 0
+            },
+            {
+              "pregunta": "¿En qué texto el autor diagnostica el declive de las humanidades?",
+              "numPregunta": 8,
+              "respuestas": ["Texto 1", "Texto 2", "Texto 3"],
+              "correcta": 1,
+              "retroalimentacion": "Es en el Texto 2, el Futuro de las humanidades, en el párrafo 2 antes de hacer las preguntas para hacer pensar al lector diagnostica el futuro de las humanidades. ",
+              "retroalimentacionIndex": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Nivel 3",
+      "tiempo": 600,
+      "lecturas": [
+        {
+          "titulo": "Estructura básica de un texto ",
+          "contenido": "La estructura de los textos bien articulados generalmente se divide en tres partes fundamentales: introducción, desarrollo y conclusión. Esta organización permite una presentación clara y coherente de las ideas, facilitando la comprensión del lector y asegurando que el mensaje se transmita de manera efectiva.\n\n La entrada o introducción aborda, en las primeras frases, líneas o párrafos, el tema, la idea central o la tesis que va a desarrollar el autor a lo largo del texto: \n\n El lado oscuro de las dulces bebidas embotelladas \n\n En la 50 Conferencia de Epidemiología y Prevención de Enfermedades Cardiovasculares, celebrada del 2 al 5 de marzo en la Ciudad de San Francisco, California, un grupo de investigadores dirigidos por Litsa Lambrakos, de la Universidad de California, dio a conocer que el número de estadounidenses que consume diariamente refrescos, bebidas deportivas y jugos de frutas embotellados ha aumentado en la última década, ocasionado que se incrementen dramáticamente los casos de diabetes y enfermedades cardiacas. \n\n 1. La introducción tiene unidad significativa: “un grupo investigadores de la universidad de California dio a conocer que el número de estadounidenses que consume refrescos, bebidas y jugos ha aumentado ocasionando diabetes y enfermedades cardiacas”. \n 2. El párrafo introductorio del texto “El lado oscuro de las dulces bebidas embotelladas” presenta una síntesis. \n\n Existen varias formas para introducir un texto: \n\n  La Síntesis resume el tema o la tesis del escrito. Ofrece la ventaja de informar lo esencial, hacerlo previsible y reiterativo. \n\n Ejemplo: \n\n A pesar de los indicadores actuales y de las previsiones pesimistas en muchos ambientes alemanes, el “Economist” ha predicho que una parte importante de la Alemania oriental de antes podría transformarse en la región más moderna y desarrollada del país antes del final del siglo (Serafini, 1996). \n\n  La Anécdota incluye una anécdota o experiencia individual para atraer la atención del lector. \n\n Ejemplo: \n\n“Hace pocos días se presentó en mi pequeña aldea un muchacho que huía de la heroína, de la policía y de los mafiosos. ¿Qué podía hacer? Le ayudé a esconderse.” Bastan estas pocas palabras para emitir un juicio severísimo sobre la nueva ley contra la droga aprobada el año pasado. Quien las ha pronunciado no es el líder carismático de algún organismo de rehabilitación o uno de esos gurús. No. Quien habla, en voz queda, es un humilde sacerdote calabrés, don Giacomo Panizza (Serafini, 1996). \n\n  Las Breves afirmaciones están constituidas por frases breves, sintéticas y efectivas, típicas del estilo periodístico. \n\n Ejemplo: \n\nFinal sorpresa de novela de misterio. Y con probable continuación que tal vez obligue a mucha gente, dentro y fuera de la Unión soviética, a diluir el júbilo por el regreso a Moscú de Mijail Gorbachov y su reinstalación en el poder que le ha devuelto una multitud valerosa que ha luchado por él (Serafini, 1996). \n\n  La Interrogante plantea un problema y aborda, de forma directa, su asunto principal desde el inicio. \n\n Ejemplo:\n\n ¿Son los académicos aburridos, antipáticos y presuntuosos? ¿Es verdaderamente insultante para una persona culta ser llamado “profesor universitario”? Desde las páginas de nuestro periódico, el crítico Guido Almansi ha lanzado una gravísima acusación a los docentes y a todos los que, con razón o sin ella, pueden ser definidos como académicos (Serafini, 1996). \n\n El desarrollo o contenido explica de manera detallada el tema, las ideas o incisos, estructurados mediante marcadores textuales o conectores que le dan cohesión y coherencia al texto. \n\nEsto se ve reflejado claramente en el texto “El lado oscuro de las dulces bebidas embotelladas”. \n\n Utilizando el Modelo CHD (por Coronary Heart Disease), un modelo de simulación en computadora que incorpora información de varios estudios epidemiológicos importantes, los investigadores calcularon que el aumento en el consumo de las diferentes bebidas azucaradas en la década 1990-2000 contribuyó al desarrollo de 130 000 nuevos casos de diabetes y 14 000 de enfermedades coronarias entre los estadounidenses. Y en la última década estas bebidas son responsables de 6 000 muertes y 21 000 años de vida perdidos. Los refrescos y los jugos procesados (los que no son 100% jugo) contienen un número equivalente de calorías, que varían entre 120 y 200 por bebida, y por lo tanto desempeñan un papel importante en el aumento de diabetes y de obesidad, enfermedades que en México ya son consideradas como problemas de salud públicas. \n\n El acompañar los alimentos con aguas frescas es uno de los hábitos alimenticios más arraigados en los mexicanos, pero es probable que esta costumbre haya propiciado que seamos de los principales consumidores de refrescos en el mundo, ya que en muchos hogares se han sustituido las aguas frescas por refrescos, de acuerdo con Rebeca Camacho, nutrióloga de la Dirección de Medicina del Deporte de la UNAM. “Cuando bebemos un agua de fruta estamos consumiendo agua, fruta y azúcar (de una a dos cucharaditas de azúcar por vaso)”, detalló la experta, “mientras que cuando bebemos un refresco nuestro consumo de azúcar se eleva a 5 cucharaditas, además de que el refresco no aporta ni vitaminas ni la fibra de la fruta”. \n\n 1. Los párrafos de la parte central del texto tienen unidad significativa porque se respalda el planteamiento de la introducción con datos significativos que demuestran que la injerencia de grandes cantidades de azúcar genera problemas de salud. \n 2. El autor introduce marcadores o conectores que le dan continuidad al texto: “por lo tanto (…)”, “de acuerdo con (…)”. \n\n La conclusión o cierre elabora, en las últimas frases o líneas, un comentario global o recapitulación del tema. Su función es dejar un buen recuerdo, resumir el sentido del escrito y dar a la lectura un sentido de plenitud. \n\n Como la razón no está dando resultados, los expertos en salud que asistieron al evento sugirieron subir los precios de estas bebidas. La American Heart Association (como buena parte de las mamás y abuelas) sugiere que se siga una dieta rica en frutas, verduras, productos lácteos, cereales integrales ricos en fibra, carnes magras, aves de corral y pescado. ¿Habremos oído esto antes? \n\n 1. La conclusión tiene unidad significativa porque plantea cuáles soluciones se consideran para solucionar el problema mencionado. \n 2. La conclusión de nuestro ejemplo “El lado oscuro de las dulces bebidas embotelladas” presenta breves afirmaciones y un interrogante. \n\n Ejercicio: responde correctamente las preguntas usando lo que aprendiste de la lección",
+          "preguntas": [
+            {
+              "pregunta": "1.¿Cuál de las siguientes opciones describe mejor la función de la introducción en un texto?",
+              "numPregunta": 1,
+              "respuestas": [
+                "Detallar todos los argumentos y pruebas principales.",
+                "Presentar el tema y captar la atención del lector.",
+                "Mostrar la conclusión y los resultados finales."
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Qué se busca lograr principalmente en la sección de desarrollo?",
+              "numPregunta": 2,
+              "respuestas": [
+                "Explicar con claridad las ideas principales y argumentos.",
+                "Retomar ideas ya discutidas en otros textos.",
+                "Concluir y resumir todos los puntos claves."
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Cuál de los siguientes elementos suele encontrarse en la conclusión?",
+              "numPregunta": 3,
+              "respuestas": [
+                "Citas textuales extensas del tema.",
+                "Una repetición literal de la introducción.",
+                "Un resumen de las ideas más importantes y un cierre final."
+              ],
+              "correcta": 2,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Para qué sirve la estructura de introducción, desarrollo y conclusión?",
+              "numPregunta": 4,
+              "respuestas": [
+                "Para evitar la revisión y edición de un texto.",
+                "Para organizar las ideas y guiar al lector de forma coherente.",
+                "Para impresionar al lector con un estilo complejo y confuso."
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Nivel 4",
+      "tiempo": 600,
+      "lecturas": [
+        {
+          "titulo": "“Sobre el Amor, el Sufrimiento y El Nuevo Milenio” Por Raúl Zurita",
+          "contenido": "El dolor es el altoparlante para hacernos más humanos, más tolerantes, más conscientes del milagro y del amor de la existencia. El problema humano por antonomasia es el sufrimiento. La felicidad podemos entenderla, en cierto sentido parece que nos fuese debida. Pero el dolor es a menudo incomprensible. \n\nSin embargo, el sufrimiento es exactamente lo que nos da la magnitud de la existencia, nuestro consentimiento a ella, nuestra afirmación permanente. Si uno se queda en el silencio puede escuchar el sonido de su propia respiración; si se queda más en silencio aún puede oír incluso los latidos de su corazón. Pero si oye bien ese latido verá que repite un “sí”. Es un sí-sí-sí-sí. \n\nEn cada segundo de la vida optamos por vivir. Esto es dramático y real porque hay seres en el mundo que dicen no y se expulsan la vida. Eligen no vivir. El estado de sufrimiento nos hace escuchar ese “sí”. \n\nEl dolor es el megáfono que hace que oigamos esa afirmación en toda su potencia, y esto es así porque cuando uno sufre, la posibilidad de decir “no” se hace presente con todo su vértigo liberador y potencia. El hombre feliz no escucha su “sí” porque la vida le está encima, absoluta. El que sufre debe luchar por su vida, elegirla en cada instante de su sufrimiento. \n\nEse “sí” permanente que damos es también el “sí” del universo que nos responde, el “sí” de todas las cosas que nos hablan y nos miran. El amor surge de la confrontación de ese “sí” con la posibilidad de la nada, del “no”. \n\nPor eso aquello que algunos han dado en denominar Dios se siente más cerca de los lugares donde han ocurrido desastres, en los campos de refugiados por ejemplo, o en las tierras asoladas por la sequía que en los sitios donde en apariencia reina la alegría. Dios se escucha más fuerte en una hambruna del África que en un restaurante de Nueva York. \n\nEl dolor es el altoparlante para hacernos más humanos, más tolerantes, más conscientes del milagro y del amor de la existencia. Todas las cosas se aman. Es por eso que la hoja de un árbol está cerca de la otra y los pastos se mecen al unísono bajo el viento. \n\nMuchas veces nos sentimos fascinados al mirar el espectáculo de las rompientes estallando, o de la cordillera nevada, o de un atardecer frente al mar. Es un sentimiento en sí inexplicable que, a pesar de la prisa de la modernidad, de la televisión y de las computadoras, sigue deslumbrando. \n\nHe creído que nos maravilla porque aquello que miramos nos devuelve la mirada y nos saluda, pero no es sólo el paisaje o el espectáculo de la naturaleza; en cierto sentido, esa montaña está formada también por los miles de ojos que antes que nosotros ya la han mirado. \n\nSon esos ojos, los ojos de todos los que nos han precedido, los que nos miran en cada cosa que miramos. Al mirar volvemos a encontrarnos con esos seres, volvemos a verlos y a ser vistos por ellos. \n\nCada uno de nosotros es más que un yo, es un torrente de difuntos que termina en nuestra vida tal como nosotros terminamos en los que nos descienden. Eso es lo que se entiende por una tradición y una cultura: que todos aquellos seres que nos han precedido vuelven a tomar la palabra cuando nosotros hablamos, vuelven a mirar cuando miramos, vuelven a sentir cuando sentimos. Cada uno de nosotros es la resurrección de los muertos y ese milagro se va cumpliendo en cada segundo de nuestras vidas. \n\nEn la creencia cristiana, la resurrección es algo que acaecerá al final de los tiempos. Por eso cada instante de la vida es también el final de los tiempos. Si yo digo “no”, es el final de todo. \n\nPor eso, en cada instante los muertos resucitan y vuelven a hablar en nosotros. Todo lo que vemos es la presencia de la muerte glorificada por nuestro asentimiento. Cada vez que decimos “sí”, cada minuto, cada segundo que decimos “sí”, es una fiesta de todo el cosmos. \n\nLos rompientes resuenan entonces con toda su fuerza y el desierto se abre en la magnitud infinita de sus colores, de sus tonos, de sus profundidades. Será así también en el nuevo milenio.",
+          "preguntas": [
+            {
+              "pregunta": "¿Cuál es la fuente? ¿Es veraz? ¿Está actualizada?",
+              "numPregunta": 1,
+              "respuestas": [
+                "El texto es de autoría desconocida y no podemos confirmar su actualización.",
+                "Es un texto periodístico con datos precisos y confiables.",
+                "Es un estudio científico con referencias claras."
+              ],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Cuál es el propósito y objetivo del autor?",
+              "numPregunta": 2,
+              "respuestas": [
+                "Presentar una crítica política y social muy precisa.",
+                "Invitar a reflexionar sobre el sufrimiento y la afirmación de la vida.",
+                "Ofrecer datos históricos sobre religiones monoteístas."
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Cómo presenta el autor la información? (hechos, inferencias u opiniones)",
+              "numPregunta": 3,
+              "respuestas": [
+                "Con datos numéricos e investigaciones científicas.",
+                "A través de reflexiones filosóficas y personales.",
+                "Por medio de entrevistas y testimonios directos."
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Qué tono utiliza el autor?",
+              "numPregunta": 4,
+              "respuestas": [
+                "Humorístico e irónico.",
+                "Reflexivo y emocional, cercano a lo poético.",
+                "Polémico y confrontacional."
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Qué lenguaje utiliza el autor?",
+              "numPregunta": 5,
+              "respuestas": [
+                "Lenguaje poético, espiritual y filosófico.",
+                "Lenguaje formal y técnico, con muchos términos científicos.",
+                "Lenguaje periodístico y objetivo, sin valoraciones personales."
+              ],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Cuál es la hipótesis o tesis que el autor propone?",
+              "numPregunta": 6,
+              "respuestas": [
+                "Que debemos evitar el dolor para ser felices.",
+                "Que el sufrimiento nos hace afirmar la vida con un “sí” constante.",
+                "Que la felicidad es lo único que importa y el dolor es irrelevante."
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Es coherente y sólida la argumentación del autor?",
+              "numPregunta": 7,
+              "respuestas": [
+                "Es coherente y mantiene un hilo filosófico claro.",
+                "Es desordenada y contradictoria.",
+                "No presenta ningún tipo de argumentación."
+              ],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Cambió mi opinión el texto? ¿Me hizo reflexionar?",
+              "numPregunta": 8,
+              "respuestas": [
+                "El texto no despierta mayor interés.",
+                "Fomenta únicamente una visión negativa de la existencia.",
+                "Invita a la reflexión sobre la vida y el sufrimiento."
+              ],
+              "correcta": 2,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Nivel 5",
+      "tiempo": 600,
+      "lecturas": [
+        {
+          "titulo": " Identificación de Ideas Principales y Vocabulario en Contexto",
+          "contenido": "Identificación de Ideas Principales y Vocabulario en Contexto \n\n Conceptos Clave: \n - Idea Principal: Resume el mensaje central del texto. Se encuentra al inicio, en medio o al final del párrafo. \n - Ideas Secundarias: Detalles que complementan la principal. \n - Vocabulario en Contexto: Deducir el significado de palabras según las pistas del texto. \n\n Estrategias: \n 1. Preguntarse \"¿De qué trata el texto?\" \n 2. Usar organizadores gráficos (mapas mentales, resúmenes). \n 3. Inferir vocabulario a partir del contexto. \n\n Ejemplo: \n\n Texto: Pingüinos \n \"El pingüino es el único vertebrado que vive durante el invierno en la Antártica sin madriguera o nido. En 2005, estos animales convivieron con biólogos interesados en entender cómo sobreviven a temperaturas de -25°C. Su cuerpo hidrodinámico les permite nadar con eficiencia y conservar energía, mientras que su sangre y músculos contienen sustancias que optimizan el uso del oxígeno.\" \n\n Desglose del ejemplo: \n\n 1. Idea Principal: \n - Pregunta clave: ¿De qué trata el texto? \n - Respuesta: Los pingüinos tienen adaptaciones únicas que les permiten sobrevivir en condiciones extremas. \n - Ubicación: En la primera oración del párrafo. \n\n 2. Ideas Secundarias: \n - Detalles específicos que amplían la idea principal: \n - Viven en la Antártica sin madriguera ni nido. \n - Poseen cuerpos hidrodinámicos para eficiencia energética. \n - Su sangre y músculos tienen sustancias para aprovechar el oxígeno. \n\n 3. Vocabulario en Contexto: \n - Palabra clave: \"Hidrodinámico.\" \n - Inferencia: Se refiere a algo diseñado para moverse eficientemente en el agua. \n - Clave contextual: La frase \"les permite nadar con eficiencia y conservar energía.\" \n\n Comprensión de Detalles Específicos \n\n Conceptos Clave: \n - Responder preguntas clave: ¿Qué? ¿Quién? ¿Dónde? ¿Cuándo? ¿Cómo? ¿Por qué? \n - Identificar información relevante según el propósito de lectura. \n\n Estrategias: \n 1. Leer atentamente, subrayar detalles clave. \n 2. Verificar que los detalles coincidan con el objetivo de lectura. \n\n Ejemplo: \n\n Texto: Las humanidades y las ciencias \n \"La necesidad de colaboración entre humanistas y científicos es cada vez más evidente. Jerome Kagan diagnostica el declive de las Humanidades debido a tres razones principales: la falta de especialización, la desconexión con el progreso científico y la carencia de interés por problemas sociales.\" \n\n Desglose del ejemplo: \n\n 1. Pregunta: ¿Cuál es el diagnóstico sobre las humanidades? \n - Respuesta: Están en declive debido a la falta de especialización, desconexión con la ciencia y falta de interés social. \n\n 2. Detalles específicos: \n - Diagnóstico realizado por Jerome Kagan. \n - Las razones del declive: \n * Falta de especialización. \n * Desconexión con el progreso científico. \n * Carencia de interés en problemas sociales. \n\n Reconocimiento de Estructura Textual y Fluidez \n\n Conceptos Clave: \n - Introducción: Presenta el tema, usando síntesis, anécdotas o interrogantes. \n - Desarrollo: Detalla ideas principales con ejemplos y conectores. \n - Conclusión: Recapitula y cierra con reflexiones. \n\n Estrategias: \n 1. Identificar marcadores textuales (\"además,\" \"por lo tanto\"). \n 2. Usar ejercicios de redacción progresiva para mejorar fluidez. \n\n Ejemplo: \n\n Texto: El lado oscuro de las dulces bebidas embotelladas \n\n Estructura del texto: \n\n 1. Introducción: \n - Tema: El aumento del consumo de bebidas azucaradas en la última década. \n - Método usado: Síntesis. \n - Ejemplo: \"Un grupo de investigadores calcula que este aumento contribuyó a 130,000 nuevos casos de diabetes.\" \n\n 2. Desarrollo: \n - Detalles: \n - Modelo CHD estima el impacto en enfermedades crónicas. \n - Datos específicos: \n * 130,000 nuevos casos de diabetes. \n * 14,000 enfermedades coronarias. \n * 6,000 muertes relacionadas. \n\n 3. Conclusión: \n - Reflexión final: Proponen incrementar los precios de estas bebidas para reducir su consumo. \n\n Evaluación Crítica y Análisis Contextual \n\n Conceptos Clave: \n - Evaluar confiabilidad: autor, editorial, fecha y propósito. \n - Clasificar la información: hechos, inferencias, opiniones. \n\n Estrategias: \n 1. Analizar la fuente y el lenguaje del texto. \n 2. Reflexionar sobre las evidencias y argumentos presentados. \n\n Ejemplo: \n\n Texto: Sobre el Amor, el Sufrimiento y El Nuevo Milenio \n\n \"El dolor es el altoparlante para hacernos más humanos, más tolerantes, más conscientes del milagro y del amor de la existencia.\" \n\n Desglose del ejemplo: \n\n 1. Propósito del Autor: \n - Reflexión filosófica sobre cómo el sufrimiento da significado a la existencia. \n - Pregunta clave: ¿Cómo presenta el autor el tema? \n - Respuesta: Con un enfoque reflexivo y poético. \n\n 2. Tipos de Información: \n - Hechos: \"El hombre feliz no escucha su 'sí' porque la vida le está encima, absoluta.\" \n - Inferencias: \"El dolor nos obliga a optar por la vida.\" \n - Opiniones: \"El sufrimiento es lo que nos hace humanos.\" \n\n 3. Confiabilidad del Texto: \n - Autor: Raúl Zurita, conocido por sus escritos filosóficos y reflexivos. \n - Editorial: No mencionada en el texto. \n\n 4. Tono y Lenguaje: \n - Tono: Reflexivo y emocional. \n - Lenguaje: Poético, con frases como \"Cada segundo que decimos 'sí', es una fiesta de todo el cosmos.\" \n\n Ejercicio: responde correctamente las siguientes preguntas.",
+
+          "preguntas": [
+            {
+              "pregunta": "¿Qué característica distingue a las ideas principales de las secundarias?",
+              "numPregunta": 1,
+              "respuestas": [
+                "Son menos numerosas y esenciales para el mensaje del texto.",
+                "Expresan información complementaria y no esencial.",
+                "Se encuentran siempre al inicio del párrafo."
+              ],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Cuál es una estrategia para identificar ideas principales en un texto?",
+              "numPregunta": 2,
+              "respuestas": [
+                "Memorizar cada oración del texto.",
+                "Analizar las oraciones clave de cada párrafo.",
+                "Contar el número de palabras en la oración más larga."
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Qué pregunta ayuda a identificar detalles específicos en un texto?",
+              "numPregunta": 3,
+              "respuestas": [
+                "¿Cuál es el propósito del autor?",
+                "¿Qué información complementa la idea principal?",
+                "¿Dónde se encuentra publicada la fuente?"
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Cómo puede deducirse el significado de una palabra desconocida?",
+              "numPregunta": 4,
+              "respuestas": [
+                "Analizando las oraciones que rodean la palabra.",
+                "Usando un diccionario exclusivamente.",
+                "Ignorándola si no es relevante para la idea principal."
+              ],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Qué estructura textual asegura claridad y coherencia en un texto?",
+              "numPregunta": 5,
+              "respuestas": [
+                "Resumen, Conclusión y Cierre.",
+                "Preguntas, Respuestas y Reflexiones.",
+                "Introducción, Desarrollo y Conclusión."
+              ],
+              "correcta": 2,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Cuál es la función de los marcadores textuales en un texto?",
+              "numPregunta": 6,
+              "respuestas": [
+                "Hacer el texto más breve y fácil de leer.",
+                "Conectar ideas y mantener cohesión.",
+                "Proveer un análisis crítico."
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Qué tipo de información se clasifica como un hecho en un texto?",
+              "numPregunta": 7,
+              "respuestas": [
+                "Afirmaciones que pueden verificarse a través de datos o experiencia.",
+                "Opiniones que reflejan el punto de vista del autor.",
+                "Inferencias basadas en suposiciones lógicas."
+              ],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Qué debe evaluarse para determinar la confiabilidad de una fuente?",
+              "numPregunta": 8,
+              "respuestas": [
+                "La experiencia del autor, editorial y fecha de publicación.",
+                "El número de páginas y referencias en el texto.",
+                "Si el texto está ilustrado con imágenes llamativas"
+              ],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Qué estrategia ayuda a analizar críticamente un texto?",
+              "numPregunta": 9,
+              "respuestas": [
+                "Leer rápidamente sin detenerse en los detalles.",
+                "Leer rápidamente sin detenerse en los detalles.",
+                "Reflexionar sobre la intención del autor y las evidencias presentadas."
+              ],
+              "correcta": 2,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            },
+            {
+              "pregunta": "¿Qué función tiene la conclusión en un texto bien estructurado?",
+              "numPregunta": 10,
+              "respuestas": [
+                "Introducir nuevas ideas.",
+                "Recapitular el tema y cerrar el mensaje.",
+                "Repetir el contenido del desarrollo."
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 3
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Nivel 6",
+      "tiempo": 2400,
+      "lecturas": [
+        {
+          "titulo": "Un futuro músico ",
+          "contenido": "ACTO ÚNICO \n\n PERSONAJES: \n VENDEDOR \n LUCAS, UN CHICO \n\n (La escena transcurre en una tienda de música: hay instrumentos expuestos y afiches de músicos famosos.) \n\n VENDEDOR: (Al ver que Lucas mira los instrumentos.) Buenas tardes, nene, ¿qué buscas? \n LUCAS: Quiero dedicarme a la música. Y mi papá me dio dinero para comprarme un instrumento, pero no sé cuál elegir. \n VENDEDOR: (Enérgico.) Viniste al sitio indicado: “¡SONAMOS!” es la mejor tienda de instrumentos musicales de la ciudad. ¿Qué te parece este piano? \n LUCAS: Lindo, pero quisiera uno que en vez de teclas blancas, las tenga azules, y que las negritas, fueran rojas. \n VENDEDOR: Pero todos los pianos tienen teclas blancas y negras. \n LUCAS: Eso porque nadie les ha enseñado a maquillarse aún. \n VENDEDOR: Ese modelo de ahí tiene los pedales… \n LUCAS: ¿Aquí vende instrumentos o triciclos? \n VENDEDOR: Los pianistas pisan los pedales para… \n LUCAS: Entonces es ideal para un corredor de Fórmula 1. No me convence. \n VENDEDOR: ¿Y el órgano? Tengo todo tipo de órganos… \n LUCAS: Si no los tuviera estaría muerto. \n VENDEDOR: Órganos eléctricos. \n LUCAS: No sabía que había corazones o pulmones que se enchufaran [...]. \n VENDEDOR: ¿No te gustaría tocar la armónica? \n LUCAS: ¡Ni loco! Si llego a tocar a Mónica, mi compañera de banco, me muele a patadas. \n VENDEDOR: Podría ser alguno de cuerda. \n LUCAS: Si quisiera algo a lo que hay que darle cuerda, me compraría un reloj despertador. \n VENDEDOR: Me refiero a instrumentos que tienen las cuerdas tensadas y… \n LUCAS: ¡Menos! Lo único que me falta: terminar tendiendo la ropa al sol en esas cuerdas [...]. \n VENDEDOR: ¿Y la batería? \n LUCAS: ¡Eso! Una con platillos que suenen como fuentes, tambores que se oigan como cacerolas y un bombo que retumbe como cuando se golpea una olla. \n VENDEDOR: Entonces te conviene comprar una batería de cocina. \n LUCAS: Y que pueda golpear durante horas. \n VENDEDOR: Deberá ser una batería larga duración y recargable. Serías un gran batero… \n LUCAS: ¿A dónde va el tero? \n VENDEDOR: Batero es un modo de decir baterista. \n LUCAS: No, yo no quiero ser carterista. \n VENDEDOR: Es el que interpreta la batería. Te puedo ofrecer una que tiene unas hermosas baquetas… \n LUCAS: ¡Otra que se va! ¿A dónde va Queta? \n VENDEDOR: Las baquetas se usan para golpear la batería. \n LUCAS: Yo no quiero golpearla. A ver si la rompo, con lo cara que debe salir. \n VENDEDOR: También se le dicen escobillas. \n LUCAS: Pero deseo ser músico, no barrendero [...]. \n VENDEDOR: (Al público.) Este cree que para tocar en clave de Sol hay que usar anteojos oscuros. \n LUCAS: Si lo pienso, me gustaría comenzar tocando una bocina de bicicleta o de un camión. \n VENDEDOR: (Al público.) Con lo poco que sabe de música, le convendría una bocina de avión. \n LUCAS: ¿Qué dijo? \n VENDEDOR: Creo que estás demasiado crudito. Por ahora te recomiendo que comiences practicando con esto (Le pasa un timbre de puerta.) \n LUCAS: ¡Buenísimo! Con esto, si me aburro de practicar puedo dedicarme a otra cosa. \n VENDEDOR: ¿A qué? \n LUCAS: ¡Al ring raje! (Presiona el timbre y corre mientras se produce el TELÓN O APAGÓN.)",
+          "preguntas": [
+            {
+              "pregunta": "El autor da un tono _______ a Lucas, pues _______.",
+              "numPregunta": 1,
+              "respuestas": [
+                "frustrado - no encuentra lo que desea",
+                "sarcástico - se burla de lo que dice el vendedor",
+                "gracioso - confunde todo lo que escucha"
+              ],
+              "correcta": 2,
+              "retroalimentacion": "Aunque sí parece que se burla de lo que dice el vendedor por las confusiones no hay expresiones que denoten sarcasmo pues no hay una intención de crítica o burla por parte de Lucas.",
+              "retroalimentacionIndex": 1
+            },
+            {
+              "pregunta": "¿Cuál opción es similar a los diálogos de la obra?",
+              "numPregunta": 2,
+              "respuestas": [
+                "VENDEDOR: También podría gustarte el trombón\nLUCAS: Si las trombas me dan terror, no quiero ni imaginarme en un trombón.",
+                "VENDEDOR: ¿Te gustaría un tambor?\nLUCAS: No lo sé, el sonido es muy fuerte y no es de mi agrado.",
+                "LUCAS: Estoy buscando un violín, ¿tendrás alguno?\nVENDEDOR: ¡Por supuesto! Pásele por aquí. Ven a ver este patín, es el más rápido."
+              ],
+              "correcta": 0,
+              "retroalimentacion": "En esta opción sí ocurre el juego de palabras a partir de escuchar mal y confundir las palabras para luego llevar esa confusión a otro tema.",
+              "retroalimentacionIndex": 0
+            },
+            {
+              "pregunta": "¿Por qué Lucas menciona a Mónica?",
+              "numPregunta": 3,
+              "respuestas": [
+                "Se acuerda de que ella le pega cuando la toca.",
+                "La confunde con el nombre de un instrumento.",
+                "Quiere que sea su compañera de banco."
+              ],
+              "correcta": 1,
+              "retroalimentacion": "Correcta. Como parte de las analogías fonéticas y fonológicas, el personaje entiende Mónica en lugar de armónica.",
+              "retroalimentacionIndex": 1
+            },
+            {
+              "pregunta": "¿Quién proporcionó el dinero para el instrumento?",
+              "numPregunta": 4,
+              "respuestas": ["Lucas", "El papá", "El vendedor"],
+              "correcta": 1,
+              "retroalimentacion": "Correcta. Lucas justifica su llegada a la tienda porque su papá le dio dinero para comprar el instrumento.",
+              "retroalimentacionIndex": 1
+            },
+            {
+              "pregunta": "¿Qué instrumento le entusiasma a Lucas?",
+              "numPregunta": 5,
+              "respuestas": ["El piano", "La batería", "La armónica"],
+              "correcta": 1,
+              "retroalimentacion": "Correcta. Tiene una expresión de gusto cuando le mencionan la batería y demuestra entusiasmo al mencionar sus características.",
+              "retroalimentacionIndex": 1
+            },
+            {
+              "pregunta": "El autor le da ese nombre a la tienda porque quiere...",
+              "numPregunta": 6,
+              "respuestas": [
+                "referirse a la función de los instrumentos musicales que oferta el vendedor",
+                "expresar el juego que hacen el comprador y el vendedor con su significado",
+                "mostrar el sentido del humor que tiene el vendedor al confundir a los compradores"
+              ],
+              "correcta": 1,
+              "retroalimentacion": "Incorrecta. No se nota intención en el vendedor para confundir a los compradores, es el comprador, Lucas, quien crea toda la confusión.",
+              "retroalimentacionIndex": 2
+            }
+          ]
+        },
+        {
+          "titulo": "La cura",
+          "contenido": "Cuando encontraron la cura del coronavirus, los médicos no se explicaban por qué había gente que se recuperaba al instante y un porcentaje mínimo moría veinticuatro horas después de que le habían puesto la vacuna. Este porcentaje era tan bajo, que al principio nadie se dio cuenta. Fue hasta que un científico del Politécnico relacionó dos casos (el de un tío y un primo suyos) y descubrió que las personas zurdas que nacieron en el mes de diciembre, sin importar si eran hipertensas o diabéticas, no resistían la vacuna. De esta forma los que no cumplían con esa condición respiraron (literalmente) aliviados. \n\nAunque no por mucho tiempo porque para enero empezaron a morir personas que habían visitado la Ciudad de México y no les había gustado. Esto lo descubrió el mismo científico del Politécnico que relacionó dos casos (en esta ocasión fue su novia –ahora exnovia– que era veracruzana y había dicho que la Ciudad apestaba a orines y un amigo sueco al que habían asaltado en el aeropuerto y que juraba no regresar nunca al país). Nuevamente un montón de gente respiró aliviada. Unos porque sí les gustaba la Ciudad y otros porque ni la conocían y ni planes tenían de visitarla. \n\nDespués de varias pruebas, el científico descubrió el antídoto gracias a que extrajo la esencia de la baba del nopal. Así que en todo el mundo, cada que empezaba un mes, se buscaba descubrir un patrón y publicarlo para que las personas supieran si debían tomar el antídoto o no. \n\nEn febrero los que peligraron fueron los pelirrojos solteros mayores de quince años, pero menores de treinta; en marzo, los hijos únicos que no habían conocido a su padre y que añoraban hacerlo; en abril, los futbolistas que fallaron un penalti en un partido oficial entre el minuto veinticinco y treintaicinco del primer tiempo; en mayo, las mujeres rubias que se habían casado por segunda vez, pero que amaban a alguien más; en junio, las personas que se habían sacado el premio mayor de la lotería y lo habían malgastado, y en julio, los lectores de este texto que, por fortuna, no serán muchos.",
+          "preguntas": [
+            {
+              "pregunta": "Según el relato, ¿quiénes buscaban tomar el antídoto?",
+              "numPregunta": 7,
+              "respuestas": [
+                "Las personas que odiaban visitar la Ciudad de México",
+                "Quienes se descubrían dentro de un patrón de mortalidad",
+                "Aquellos que se vacunaban y empezaban a enfermar"
+              ],
+              "correcta": 1,
+              "retroalimentacion": "Incorrecta. En el texto se menciona que son aquellos que cumplían con el patrón que correspondía a ese mes de vacuna y el antídoto es justamente para no enfermar.",
+              "retroalimentacionIndex": 2
+            },
+            {
+              "pregunta": "¿Cuál de las afirmaciones describe el tema del cuento?",
+              "numPregunta": 8,
+              "respuestas": [
+                "Los beneficios de vacunarse para evitar decesos",
+                "La importancia de la investigación del científico",
+                "El temor de las personas a morir por coronavirus"
+              ],
+              "correcta": 2,
+              "retroalimentacion": "El patrón de riesgo era muy cambiante, el cuento narra que “todo el mundo, cada que empezaba un mes, se buscaba descubrir un patrón y publicarlo para que las personas supieran si debían tomar el antídoto o no”, lo cual refleja la preocupación de los diferentes individuos con las características descritas, sobre tomar el antídoto para no morir.",
+              "retroalimentacionIndex": 2
+            },
+            {
+              "pregunta": "El tipo de narrador que hay en el relato es el que...",
+              "numPregunta": 9,
+              "respuestas": [
+                "observa los acontecimientos",
+                "participa en los acontecimientos",
+                "sigue el pensamiento de un personaje"
+              ],
+              "correcta": 0,
+              "retroalimentacion": "Correcta. Este tipo de narrador cuenta en primera y en tercera persona las acciones de otros personajes, además siempre se incluye dentro de la narración, pero solo como un observador. Se trata de un punto de vista de esta figura, que se limitará a contar las acciones que se realizan, sin emitir juicios de valor alguno.",
+              "retroalimentacionIndex": 0
+            },
+            {
+              "pregunta": "De acuerdo con el relato, ¿cómo se identifica a las personas que corren riesgo de morir?",
+              "numPregunta": 10,
+              "respuestas": [
+                "Hacen pruebas con baba de nopal",
+                "Obtienen patrones de las personas afectadas",
+                "Observan los efectos en quienes toman el antídoto"
+              ],
+              "correcta": 1,
+              "retroalimentacion": "A partir de la observación de las personas que resultan afectadas se buscan patrones entre sus características y así se determina quiénes se verán afectados cada mes.",
+              "retroalimentacionIndex": 1
+            },
+            {
+              "pregunta": "El personaje que nació en diciembre es el...",
+              "numPregunta": 11,
+              "respuestas": [
+                "científico del Politécnico",
+                "amigo sueco",
+                "primo del científico"
+              ],
+              "correcta": 3,
+              "retroalimentacion": "Correcta. Es una de las dos personas en las que encuentra el primer patrón: es zurdo y nació en diciembre.",
+              "retroalimentacionIndex": 0
+            }
+          ]
+        },
+        {
+          "titulo": "Analiza la imagen y responde las preguntas asociadas.",
+          "contenido": " <b> 0\n",
+          "preguntas": [
+            {
+              "pregunta": "¿Qué significa la frase destruye tu hambre?",
+              "numPregunta": 12,
+              "respuestas": [
+                "Quedar satisfecho",
+                "Terminar con los alimentos",
+                "Tener apetito"
+              ],
+              "correcta": 0,
+              "retroalimentacion": "Esta es una interpretación opuesta, ya que la frase se refiere a terminar con el hambre o apetito, es decir, una acción posterior a tener hambre.",
+              "retroalimentacionIndex": 2
+            },
+            {
+              "pregunta": "¿Cuál es el producto que ofrece el anuncio?",
+              "numPregunta": 13,
+              "respuestas": ["Refrescola", "Combo familiar", "Nuggets"],
+              "correcta": 1,
+              "retroalimentacion": "El producto que ofrece el anuncio es el combo familiar que integra diversos elementos.",
+              "retroalimentacionIndex": 1
+            },
+            {
+              "pregunta": "¿Qué elemento se puede incluir para hacer más persuasivo el anuncio?",
+              "numPregunta": 14,
+              "respuestas": [
+                "Horario de 9:00 a 18:00 horas",
+                "Por apertura, 2 x 1 todo el mes",
+                "Fundado desde 1980"
+              ],
+              "correcta": 1,
+              "retroalimentacion": "Esta información puede generar confianza en el consumidor, pero no persuadirlo de manera directa para adquirir el producto. El mensaje central del anuncio es promover el combo familiar y la fecha de fundación no se relaciona directamente con la intención del anuncio: adquirir el producto.",
+              "retroalimentacionIndex": 2
+            }
+          ]
+        },
+        {
+          "titulo": "Cine: La guerra del Planeta de los Simios",
+          "contenido": "César está a punto de conducir a la comunidad de simios que lidera a una tierra prometida, donde no faltan los suministros de agua y comida.\nPero llega al bosque en el que se refugia un grupo de humanos conducido por un siniestro individuo que se niega a escuchar las ofertas de paz de César, así que ataca con saña, con la presencia de algún mono traidor en sus filas. Tras las trágicas consecuencias, los primates tendrán que llegar a su destino sin su máximo dirigente, ya que éste emprenderá un viaje para arreglar un asunto personal con el enemigo, acompañado por un reducido grupo de ayudantes.\n\nDigno colofón a la trilogía en la que le preceden El origen del planeta de los simios (2011) y El amanecer del planeta de los simios (2014), que además termina de explicar por qué Charlton Heston se encontró el panorama desolador de El planeta de los simios (1968), adaptación de la novela distópica de Pierre Boulle. No faltan las referencias un poco frikis, que agradarán a quienes conozcan bien el original, como la presencia de algunos de sus personajes, años atrás. [...] \n\nRepite como director y coguionista Matt Reeves, que ya se ocupó de la segunda, tomando el relevo de Rupert Wyatt. No tiene miedo a alternar espectaculares secuencias de batalla, con largos momentos dialogados. Por esta razón, quizás tenga más altibajos de ritmo que sus predecesoras, pues tras una primera entrega humana con algún simio, y una continuación en la que ambas especies tenían el cincuenta por ciento de importancia, ahora acaparan el protagonismo absoluto los monos. Estos personajes están bien descritos, se entiende por qué varían sus emociones. El especialista en captura de imagen Andy Serkis parece superarse a sí mismo, [...] véase Mal Simio (Steve Zahn), Rocket (Terry Notary) y Maurice (Karin Konoval). Ayuda que los efectos especiales hayan ido avanzando estos años, y eso que ya la primera entrega impresionaba; atención a las impactantes secuencias de masas. Acompaña a los simios un convincente reparto de humanos, donde en realidad casi todos los diálogos los tiene Woody Harrelson, coronel renegado que trae a la memoria al coronel Kurtz de Apocalypse Now. La guerra de El planeta de los simios contrapone dos tipos de líderes, el veterano al que la edad le ha dado una amplia perspectiva de las cosas, cuyas reflexivas decisiones conducen a salir adelante dejando vivir a los demás, frente al fanático ofuscado, que se impone desatando el miedo, cuyo odio sólo puede llevar a la tragedia. <b> 1 \n",
+          "preguntas": [
+            {
+              "pregunta": "¿Quién es el director de la película El origen del planeta de los simios?",
+              "numPregunta": 15,
+              "respuestas": ["Pierre Boulle", "Matt Reeves", "Rupert Wyatt"],
+              "correcta": 2,
+              "retroalimentacion": "Es el director de la película que se reseña y de la anterior.",
+              "retroalimentacionIndex": 1
+            },
+            {
+              "pregunta": "¿Cuál es el año de aparición de la primera película de la trilogía?",
+              "numPregunta": 16,
+              "respuestas": ["1968", "2011", "2017"],
+              "correcta": 2,
+              "retroalimentacion": "Es el año de la primera película de los libros, pero no forma parte de esta trilogía.",
+              "retroalimentacionIndex": 0
+            },
+
+            {
+              "pregunta": "¿De qué manera el avance tecnológico contribuye a caracterizar al protagonista?",
+              "numPregunta": 17,
+              "respuestas": [
+                "Detalla las expresiones de su rostro",
+                "Construye diálogos más emotivos",
+                "Agrega acciones bondadosas"
+              ],
+              "correcta": 1,
+              "retroalimentacion": "Incorrecta. La emotividad en los diálogos no depende de los avances tecnológicos para construir al personaje, eso depende del guion.",
+              "retroalimentacionIndex": 2
+            },
+            {
+              "pregunta": "El mensaje central de la reseña es que...",
+              "numPregunta": 18,
+              "respuestas": [
+                "la trilogía completa, a pesar del cambio de director, es una excelente adaptación de la novela El planeta de los simios",
+                "las primeras dos películas tienen una estupenda realización, pero sobresale la tercera porque tiene mejores personajes",
+                "la película es un gran final para la trilogía porque es rica en matices y los efectos, la imagen y el reparto mejoran en esta entrega"
+              ],
+              "correcta": 3,
+              "retroalimentacion": "Incorrecta. En el mensaje central se destacan todos los elementos de la realización de la película y en esta opción sólo se destacan los personajes.",
+              "retroalimentacionIndex": 1
+            },
+
+            {
+              "pregunta": "El autor cita otra película llamada Apocalypse Now porque...",
+              "numPregunta": 19,
+              "respuestas": [
+                "en ella aparece otro coronel renegado",
+                "en esa película también aparecen simios",
+                "menciona a un actor que aparece en ambas películas"
+              ],
+              "correcta": 1,
+              "retroalimentacion": "La cita de la película no es por el actor que se menciona, sino del personaje que comparten.",
+              "retroalimentacionIndex": 2
+            },
+            {
+              "pregunta": "De acuerdo con el texto, ¿Quién es el director de la película reseñada?",
+              "numPregunta": 20,
+              "respuestas": ["Andy Serkis", "Matt Reeves", "Pierre Boulle"],
+              "correcta": 2,
+              "retroalimentacion": "Es el escritor de la novela.",
+              "retroalimentacionIndex": 3
+            }
+          ]
+        },
+        {
+          "titulo": "Redacción indirecta",
+          "contenido": "",
+          "preguntas": [
+            {
+              "pregunta": "El em___ajador tu___o que aceptar las condiciones del con___enio.",
+              "numPregunta": 21,
+              "respuestas": ["b - v - v", "v - b - v", "b - b - v"],
+              "correcta": 0,
+              "retroalimentacion": "Embajador” lleva “b” porque “b” va después de “m” y las formas provenientes del verbo “tener” llevan “v”.",
+              "retroalimentacionIndex": 1
+            },
+            {
+              "pregunta": "Completa el enunciado con la frase que le da sentido.\nFrancisco Toledo fue un gran pintor y escultor, _______ fue activista.",
+              "numPregunta": 22,
+              "respuestas": ["a saber", "por tanto", "además"],
+              "correcta": 2,
+              "retroalimentacion": "“Además” es un marcador textual de adición, que completa la idea a cabalidad.",
+              "retroalimentacionIndex": 2
+            },
+            {
+              "pregunta": "Elige la opción que, de acuerdo con el contexto, tiene un significado contrario al de las palabras resaltadas con comillas.\nDespués de caminar muchas horas llegamos a la \"cúspide\" de la montaña, el equipo de exploradores ya estaba \"exasperado\".",
+              "numPregunta": 23,
+              "respuestas": [
+                "cima - desesperado",
+                "cumbre - cansado",
+                "base - calmado"
+              ],
+              "correcta": 2,
+              "retroalimentacion": "Ambos vocablos tienen sentido opuesto y son acordes al contexto de la oración.",
+              "retroalimentacionIndex": 2
+            },
+            {
+              "pregunta": "Selecciona la opción que da sentido al texto.\nComo _______ había previsto, llegamos muy tarde a la película. Yo _______ dije a mis amigos que era mala idea ir a cenar antes.",
+              "numPregunta": 24,
+              "respuestas": ["les - le", "lo - le", "lo - les"],
+              "correcta": 2,
+              "retroalimentacion": "En el primer caso el pronombre “les” está mal utilizado porque se refiere a un complemento indirecto. En el segundo criterio, “le” debe ir en plural de acuerdo al complemento indirecto.",
+              "retroalimentacionIndex": 0
+            },
+            {
+              "pregunta": "¿En cuál oración se establece una relación correcta entre las palabras?",
+              "numPregunta": 25,
+              "respuestas": [
+                "Arturo y tú irás a la Cineteca mañana",
+                "Asistieron al evento Manuel, tú y yo",
+                "José y tú fueron a la apertura del museo"
+              ],
+              "correcta": 1,
+              "retroalimentacion": "La concordancia adecuada es en primera persona del plural, ya que “Manuel, tú y yo” se pueden sustituir por un “nosotros”.",
+              "retroalimentacionIndex": 2
+            },
+            {
+              "pregunta": "¿En cuál oración se establece una relación correcta entre las palabras?",
+              "numPregunta": 26,
+              "respuestas": [
+                "La chamarra y el pantalón los compraron en una tienda deportiva",
+                "El zapato y la blusa blanca se dañaron y las tuvieron que reparar",
+                "El vestido y la media son negras, es decir, lucen elegantes"
+              ],
+              "correcta": 0,
+              "retroalimentacion": "La concordancia adecuada es en primera persona del plural, ya que “Manuel, tú y yo” se pueden sustituir por un “nosotros”.",
+              "retroalimentacionIndex": 2
+            },
+            {
+              "pregunta": "Completa el enunciado con la opción que le da sentido.\nEl Dr. Gernstein se especializa en el estudio de los rituales, las costumbres y la sociedad _______ durante el imperio de Julio César.",
+              "numPregunta": 27,
+              "respuestas": ["romanos", "romana", "Romanas"],
+              "correcta": 0,
+              "retroalimentacion": "El adjetivo “romana” debe ir en plural y masculino, ya que califica a tres sustantivos de distintos géneros (“rituales”, “costumbres” y “sociedad).",
+              "retroalimentacionIndex": 1
+            },
+            {
+              "pregunta": "¿Qué eslogan refleja la situación comunicativa de la campaña para promover el consumo de amaranto?",
+              "numPregunta": 28,
+              "respuestas": [
+                "Consumir amaranto previene enfermedades",
+                "Come amaranto y evita un desencanto",
+                "El amaranto es excelente para la salud"
+              ],
+              "correcta": 1,
+              "retroalimentacion": "Esta opción no corresponde a un eslogan; es más bien una frase declarativa que se limita a informar sobre un objeto, puesto que no emplea recursos persuasivos como el uso del imperativo verbal (el verbo “consumir” es un infinitivo) o la rima para dirigirse al destinatario de su mensaje y de este modo convencerlo sobre las ventajas del objeto al que hace referencia.",
+              "retroalimentacionIndex": 1
+            },
+            {
+              "pregunta": "Un diario local prepara la crónica deportiva del partido de futbol del domingo pasado.\n¿Cuál opción es la correcta para este propósito?",
+              "numPregunta": 29,
+              "respuestas": [
+                "A las cinco de la tarde del pasado domingo 8 de septiembre dio inicio la batalla campal entre Lobos y Tigres. Hernández abrió el marcador con un cañonazo a favor de Lobos, lo que situaba a su equipo como virtual campeón. Sin embargo, la victoria se decidió en los minutos 80 y 85, cuando la suerte quiso que Zárate y Jiménez consiguieran con dos fieros tiros el triunfo de Tigres.",
+                "Eran las 17 horas del cálido domingo pasado cuando el equipo de los cánidos y el equipo de los felinos coexistieron en el césped con el propósito de jugar futbol. Primero Hernández Rosas introdujo la pelota blanquinegra en la portería contraria, con lo cual situó a los cánidos a la vanguardia. Más tarde, los tozudos Zárate Pérez y Jiménez Morales patearon el balón y acertaron un gol.",
+                "El domingo a las cinco empezó el partido de los Lobos y los Tigres en su estadio. El primero que anotó fue el diez… Hernández. Todo el mundo creía que los de Lobos iban a ganar. Pero luego ya en el segundo tiempo se pusieron parejos porque Zárate y Pérez arriesgaron el pellejo cada uno para conseguir dos tantos más, que sí lograron meter cada uno a la mera hora."
+              ],
+              "correcta": 0,
+              "retroalimentacion": "Esta opción no utiliza un lenguaje accesible y sencillo, ni incorpora términos del ámbito bélico o expresiones coloquiales; en cambio, utiliza términos formales y expresiones que dan pie a la imprecisión, por lo que dicha opción resulta inadecuada para la situación comunicativa en la que se inserta la crónica requerida.",
+              "retroalimentacionIndex": 1
+            },
+
+            {
+              "pregunta": "Completa la oración con las grafías correctas.\nLos términos antig___os muchas veces presentan ambig___edad.",
+              "numPregunta": 30,
+              "respuestas": ["u - ü", "ü - u", "ü - ü"],
+              "correcta": 0,
+              "retroalimentacion": "Se escribe 'antiguos' porque el fonema /u/ se representa con la grafía 'u' en las secuencias /guo/ y /gua/. Se escribe 'ambigüedad' porque el fonema /u/ en las secuencias /gue/ y /gui/ se representa con la grafía 'ü' escrita con diéresis.",
+              "retroalimentacionIndex": 0
+            },
+            {
+              "pregunta": "Elige la oración que presenta un uso correcto de los signos de exclamación.",
+              "numPregunta": 31,
+              "respuestas": [
+                "¡Juan, me alegra tanto que hayas venido!",
+                "¡Un joven de 30 años es el presidente!",
+                "Aprobaste el examen de ingreso a la universidad!"
+              ],
+              "correcta": 1,
+              "retroalimentacion": "De acuerdo con la Ortografía de la Lengua Española, es obligatorio poner siempre el signo de apertura, no sólo el de cierre.",
+              "retroalimentacionIndex": 1
+            },
+            {
+              "pregunta": "Elige la oración en la que se emplean correctamente los signos de interrogación.",
+              "numPregunta": 32,
+              "respuestas": [
+                "¿Julián, podrías decirme cuándo tenemos que entregar el trabajo de fin de curso?",
+                "¿Podrías decirme cuándo tenemos que entregar el trabajo de fin de curso, Julián?",
+                "¿Podrías decirme cuándo tenemos que entregar el trabajo de fin de curso?, Julián"
+              ],
+              "correcta": 1,
+              "retroalimentacion": "Cuando un vocativo se encuentra al final de una oración interrogativa, este se considera incluido en la pregunta y debe colocarse antes del signo de interrogación de cierre. En este caso, el vocativo está colocado erróneamente después del signo de interrogación de cierre.",
+              "retroalimentacionIndex": 2
+            },
+            {
+              "pregunta": "Elige el enunciado con la acentuación correcta.",
+              "numPregunta": 33,
+              "respuestas": [
+                "El heróe de la obra está basado en un personaje real",
+                "El veterinario actuó velózmente para rescatar al perro",
+                "De los géneros cinematográficos, el suspenso es mi favorito"
+              ],
+              "correcta": 2,
+              "retroalimentacion": "“Géneros” y 'cinematográficos' están correctamente acentuadas, ya que son esdrújulas y todas ellas llevan tilde en la sílaba tónica.",
+              "retroalimentacionIndex": 2
+            },
+            {
+              "pregunta": "Elige el enunciado con la acentuación correcta.",
+              "numPregunta": 34,
+              "respuestas": [
+                "Técnicamente, todas las personas pueden aportar con sus donaciones entregándoselas a los promotores de la iniciativa",
+                "Todos los migrantes serán atendidos decorosamente; si se presenta algún conflicto, informaselo a las autoridades",
+                "Si olvido entregar la convocatoria, recuerdamelo. Todos los aspirantes deben poder presentar los requisitos fácilmente"
+              ],
+              "correcta": 0,
+              "retroalimentacion": "La palabra 'entregándoselas' está correctamente acentuada, ya que es sobreesdrújula y todas ellas llevan tilde en la sílaba tónica.",
+              "retroalimentacionIndex": 0
+            },
+            {
+              "pregunta": "Completa correctamente la carta formal. \n\n Ciudad de México, a 3 de marzo de 2019 \n\n Dr. Nicolás García \n\n Jefe de Enseñanza del Hospital Esperanza \n\n PRESENTE \n\n _______: \n\n Por este medio, Mario Valle, residente de Pediatría, me dirijo respetuosamente a usted con el fin de solicitar su autorización para ausentarme el viernes 14 de marzo del presente año, debido a que he sido citado en la escuela de mi hijo para atender asuntos relacionados con su aprovechamiento escolar. \n\n Agradeciendo su amable atención, _______. \n\n Atentamente_______",
+              "numPregunta": 35,
+              "respuestas": [
+                "Querido Dr. García - le extiendo mis salutaciones - Mario Valle",
+                "Admirado Dr. García - le deseo excelente semana - Su amigo, el doctor Mario",
+                "Estimado Dr. García - le envío un saludo cordial - Dr. Mario Valle"
+              ],
+              "correcta": 2,
+              "retroalimentacion": "“Estimado” es una fórmula de tratamiento utilizada convencionalmente para dirigirse al destinatario de una carta formal. La expresión “le envío un cordial saludo” es un cierre sobrio y apropiado para situación comunicativa de una carta formal. “Dr. Mario Valle” corresponde al remitente de la carta; se incluyen nombre y cargo por tratarse de una situación comunicativa formal.",
+              "retroalimentacionIndex": 2
+            },
+
+            {
+              "pregunta": "El tema elegido para la Semana de las Ciencias en la escuela es Marte.\n¿Cuál de los textos utiliza un vocabulario acorde con la situación?",
+              "numPregunta": 36,
+              "respuestas": [
+                "La atmósfera de Marte es delgada y está compuesta principalmente por dióxido de carbono, con una presión típica media en la superficie de unas 0.01 atmósferas terrestres. A estas presiones, el compuesto químico orgánico H2O no puede existir en estado líquido sobre la superficie; sin embargo, el Mariner 9 y las posteriores misiones Viking observaron algunas características que indicaron la presencia de agua en estado líquido en tiempos pasados.",
+                "Marte es un planeta excitante e intrigante; a sus exploradores les esperan un montón de aventuras y hallazgos. Debemos capacitarnos para ello antes de irnos, facilitando las herramientas que usarán los exploradores, anticipando tanto como sea posible las situaciones que encontrarán y preparándolos para lo inesperado. Así que las tripulaciones deben ser capaces de lograr sus objetivos de las misiones.",
+                "El sueño de explorar y habitar Marte siempre ha estado en la mente del hombre, quien desde tiempos remotos espera la oportunidad de conocer y descubrir nuevas posibilidades de vida. Muchas historias increíbles se cuentan sobre el planeta rojo; por ejemplo, Ray Bradbury, en sus magníficas Crónicas marcianas (1950), relata historias de los intentos de la humanidad por colonizar ese planeta."
+              ],
+              "correcta": 0,
+              "retroalimentacion": "El registro de esta respuesta no corresponde con el tono formal de los textos científicos, no hay evidencia de registro técnico y se incluye un juicio sobre un libro, el cual se describe brevemente.",
+              "retroalimentacionIndex": 2
+            },
+            {
+              "pregunta": "El profesor de Redacción ha solicitado a los alumnos que redacten un texto monográfico sobre un tema.\n¿Qué fragmento cumple con lo solicitado?",
+              "numPregunta": 37,
+              "respuestas": [
+                "La comida llamada orgánica es aquella que ha sido producida sin pesticidas, herbicidas o fertilizantes artificiales; por ello se considera más sana para el organismo. El tema por tratar a continuación es el elevado precio de este tipo de productos.",
+                "Los alimentos orgánicos son los más sanos para nuestros organismos, ya que fueron cultivados sin fertilizantes artificiales ni pesticidas. Lo que creo relevante es que los procesos que utilizan para producirlos son realmente caros.",
+                "Me interesa que usted esté enterado de que los alimentos orgánicos son los más sanos para su organismo, ya que fueron cultivados sin fertilizantes artificiales, herbicidas o pesticidas. Pero, ¿su forma de producción influye en el alto costo que usted paga?"
+              ],
+              "correcta": 0,
+              "retroalimentacion": "Este fragmento utiliza la función referencial del lenguaje, ya que emplea, como marcas lingüísticas, la 3ª persona, oraciones afirmativas, modo indicativo y significados llanos. Dichos rasgos son adecuados para una monografía.",
+              "retroalimentacionIndex": 0
+            },
+            {
+              "pregunta": "Elige la opción que complete correctamente el enunciado.\nVi ayer a mis compañeras, _______ invité a la conferencia.",
+              "numPregunta": 38,
+              "respuestas": ["les", "las", "le"],
+              "correcta": 1,
+              "retroalimentacion": "El uso de 'las' concuerda con el complemento directo 'a mis compañeras', mientras que 'les' o 'le' serían incorrectos en este contexto.",
+              "retroalimentacionIndex": 1
+            },
+            {
+              "pregunta": "¿En cuál oración se establece una relación correcta entre las palabras?",
+              "numPregunta": 39,
+              "respuestas": [
+                "La aula magna se encuentra al finalizar el pasillo.",
+                "La harina se utilizará durante el experimento.",
+                "La agua oxigenada contiene ácido sulfúrico."
+              ],
+              "correcta": 1,
+              "retroalimentacion": "Las reglas de la concordancia expresan que cuando el determinante antecede a las palabras que comienzan por 'a' átona, éste mantiene la forma 'la'.",
+              "retroalimentacionIndex": 1
+            },
+            {
+              "pregunta": "¿En qué oración se establece una relación correcta entre las palabras?",
+              "numPregunta": 40,
+              "respuestas": [
+                "El casero y su inquilino llegó a un acuerdo.",
+                "Está prohibida la compra y venta de alimentos chatarra.",
+                "La política y la filosofía me interesa."
+              ],
+              "correcta": 1,
+              "retroalimentacion": "En este caso el verbo debe ir en singular por presentar un sujeto pospuesto, los elementos coordinados quedan unificados mediante la supresión del artículo del segundo elemento lo que produce un sentido unitario que está en correspondencia con el verbo en singular.",
+              "retroalimentacionIndex": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

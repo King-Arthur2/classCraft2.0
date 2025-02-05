@@ -1,0 +1,219 @@
+{
+  "niveles": [
+    {
+      "nivel": "Tutorial",
+      "tiempo": 600,
+      "lecturas": [
+        {
+          "titulo": "La riqueza de la argumentación",
+          "contenido": "El presente documento analiza un modelo de defensa argumentativa, y la capacidad de los investigadores para emplearlo en el corazón del trabajo científico y tecnológico, que se desarrolla alrededor del mundo en la sociedad del conocimiento. Esto con el fin de liberar al experto de una serie de tradiciones simbólicas y códigos de ética establecidos por el reduccionismo científico, que le permita solventar la necesidad de valorar y defender los nuevos conocimientos útiles para la sociedad.\n\nA la luz de los retos a los que se enfrentan los investigadores en la construcción del conocimiento (en un mundo con enormes flujos de información), y considerando que no es suficiente adquirir o construir dicho saber, sino que además es necesario poseer la capacidad de expresar y defender una idea científica a través del discurso, se formula la siguiente interrogante: ¿De qué manera el lenguaje y la argumentación practicada por Sócrates en su apología y la teoría de la acción comunicativa de Habermas se pueden moldear para obtener un modelo de defensa argumentativa acorde con la sociedad del conocimiento?\n\nSi se considera que Sócrates y Habermas evocan una dualidad única entre la tradición y la modernidad en lo que a recursos argumentativos y dialógicos (uso del lenguaje, comunicación de creencias y la interacción social) se refiere (Dijk, 2000), así como la incesante búsqueda de la verdad, es posible construir un modelo de defensa argumentativa. Sus razonamientos, conocimientos e influencia constituyen la base teórica que podría ayudar al investigador a producir un discurso científico; y mediante la interacción social de éste generar redes de conocimiento con sus pares, al permitirle plantear y estructurar una idea (o una tesis) y defenderla ante la crítica, a través de fundamentos y razones tales como datos, pruebas, consideraciones y evidencias empíricas y teóricas.\n\nDerivado de lo anterior, este ensayo mostrará –a través de una articulación dialógica, exposición y crítica–, una nueva forma de generar una argumentación capaz de romper paradigmas, que ayude a los investigadores a conservar y enfatizar su espíritu creativo e innovador, generando nuevas ideas. A partir de una de las capacidades del ser humano, que es la construcción incesante del conocimiento, como se describe en la riqueza de la virtud contenida en Apología de Sócrates, de Platón, este modelo de argumentación permite resolver problemas con perspectivas, visiones y acciones distintas a las establecidas en la formación tradicional de investigadores.\n\nAdicionalmente, para lograr construir y emplear un método de argumentación que erradique gradualmente la tradición positivista en los investigadores es importante reconocer que con el paso del tiempo las sociedades se transforman y con ellas su cultura, modificándose el lenguaje y las formas de expresar el conocimiento. Sin embargo, la apología de Sócrates da muestras de que el enjuiciamiento de las nuevas ideas sigue siendo un acto de preservación de poder de las viejas ideas, establecidas y fomentadas por la tradición científica dominante. Por consiguiente, se retoma del conocimiento socrático, la desarticulación de la crítica de los adversarios (bajo los mismos argumentos dirigidos en su contra), para plantear un contraargumento, evidenciando que la crítica carece de sustento cuando se basa en ideologías y creencias, y no en los resultados de investigaciones formales.\n\nOtra aportación fundamental para el presente ensayo es la de Habermas (2002). En Esferas de la racionalidad explica la integración del sustento de la racionalidad dialógica, comunicativa y argumentativa, la cual será útil a los investigadores para construir una amplia gama de teorías científicas y tecnológicas, que develarán descubrimientos y nuevas visiones de la realidad en la sociedad del conocimiento.",
+          "preguntas": [
+            {
+              "pregunta": "¿Qué función cumple el párrafo subrayado en el texto?",
+              "numPregunta" : 1,
+              "respuestas": [    
+                "Contiene el tema central que se aborda a lo largo de la noticia",
+                "Confronta la información proporcionada por distintas fuentes",
+                "Invita al lector a tomar medidas ante la situación en la Antártida"
+              ],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 0
+            },
+            {
+              "pregunta": "¿Cuál es el tema central de la noticia?",
+              "numPregunta" : 2,
+              "respuestas": [
+                "La comparación de los efectos que el cambio climático está provocando en la Antártida frente a otras zonas gélidas del mundo",
+                "Los resultados que han arrojado los estudios de investigadores chilenos respecto a los efectos del cambio climático en la Antártida",
+                "La polémica que ha surgido debido a las investigaciones de científicos chilenos, las cuales se contraponen con los datos de la NASA"
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 2
+            },
+            {
+              "pregunta": "Los científicos “_______” detectaron primero el cambio en la tendencia climática gracias a la observación de lugares como “_______”.",
+              "numPregunta" : 3,
+              "respuestas": [
+                "chilenos - la isla Rey Jorge",
+                "españoles - el mar de Amundsen",
+                "argentinos - la bahía Fildes"
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 0
+            }
+          ]
+        },
+        {
+          "titulo": "Impacto del Cambio Climático en la Península Antártica",
+          "contenido": "Desde enero a primeros de octubre, la península antártica ha sufrido cuatro olas de calor.\nLa primera de ellas, en febrero pasado, como ya conté entonces, pero es que después ha habido otras tres olas más: una en el verano austral y dos más durante el invierno que ahora está terminando. La última, entre el 9 y el 11 de julio. Los datos, recogidos en la isla Rey Jorge y analizados por los investigadores de la Universidad de Chile, revelan que está siendo el año más caluroso en esta zona del inmenso continente de hielo desde hace tres décadas y ello no augura nada bueno […].\n\nSon muchos los datos que aporta el trabajo, que se centra en el sur de la península antártica porque es allí, sobre todo en la isla Rey Jorge, donde hay una mayor concentración de bases científicas que han tomado los registros. Por cierto, no lejos de las bases españolas situadas en isla Livingston e isla Decepción. Y estos datos, que han confirmado con los recogidos por la NASA, nos cuentan que pese a que en agosto hubo un bajón en las temperaturas –también por debajo de la media–, no bastó para compensar los 34 días de calor (en términos antárticos, claro) que llegó a haber en la zona en meses anteriores. De hecho, este 2020 ni siquiera se ha llegado a helar la bahía Fildes, que da acceso a Rey Jorge.\n\nAsí, la apreciación de que en la Antártida no se notaba el cambio climático […] da paso a una preocupante tendencia: “Sabemos que en la segunda mitad del siglo XX hubo un intenso calentamiento en la Antártida, alcanzándose los récords en los años ochenta […]. Ahora vemos que se están cumpliendo los modelos climáticos que decían que la situación en el continente iba a empeorar”, argumenta Cordero.\n\nEn realidad, que esa tendencia estaba cambiando ya lo habían detectado científicos españoles en los glaciares, en el aumento de especies invasoras, en la disminución del krill […] y es visible en el debilitamiento de gigantes continentales como el glaciar Thwaites o el Pine Island, ambos en el mar de Amundsen […]. Para el científico chileno, “lo que se ve ahora en la Antártida es la consecuencia de lo que hemos hecho al clima en los últimos 20 años […]. Este año de temperaturas tan altas nos indica ahora una tendencia muy preocupante” […].\n\nEn la isla Rey Jorge ha nevado incluso tres veces más que hace medio siglo. ¿Significa eso que habrá más hielo? La respuesta de estos investigadores es que no. “Ese incremento de precipitaciones tiene también un reflejo del cambio climático. Si sube la temperatura superficial del mar, nieva más, pero eso no supone que vaya a haber más hielo porque se pierde por las temperaturas más de lo que cae. En 40 años, el ritmo de pérdida se ha sextuplicado. También hemos visto que más al sur, el mar de Weddell ha estado en 2020 más frío que otros años; sin embargo, el mar de Amudsen estuvo más cálido”, explica Cordero […].",
+
+          "preguntas": [
+            {
+              "pregunta": "¿Cuál es el tema central de la noticia?",
+              "numPregunta" : 4,
+              "respuestas": [
+                "La comparación de los efectos que el cambio climático está provocando en la Antártida frente a otras zonas gélidas del mundo",
+                "Los resultados que han arrojado los estudios de investigadores chilenos respecto a los efectos del cambio climático en la Antártida.",
+                "La polémica que ha surgido debido a las investigaciones de científicos chilenos, las cuales se contraponen con los datos de la NASA."
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 2
+            },
+            {
+              "pregunta": "Los científicos “_______” detectaron primero el cambio en la tendencia climática gracias a la observación de lugares como “_______”.",
+              "numPregunta" : 5,
+              "respuestas": [
+                "chilenos - la isla Rey Jorge",
+                "españoles - el mar de Amundsen",
+                "argentinos - la bahía Fildes"
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 0
+            }
+          ]
+        },
+        {
+          "titulo": "Redacción indirecta",
+          "contenido": "Lea cuidadosamente la pregunta y seleccione la respuesta correcta.",
+          "preguntas": [
+            {
+              "pregunta": "¿En cuál oración se establece una relación correcta entre las palabras?",
+              "numPregunta" : 6,
+              "respuestas": [
+                "La reciente decoración estuvo a cargo de la esposa y cuñada de Guillermo.",
+                "Las cocineras decidieron preparar la pasta y la ensalada simultáneamente.",
+                "La mujer había olvidado la bolsa y bufanda en la habitación de su hotel"
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 1
+            },
+            {
+              "pregunta": "Elija la opción que complete correctamente el enunciado. Ella se “_______” de que su exnovio “_______” un nuevo amor.",
+              "numPregunta" : 7,
+              "respuestas": [
+                "alegra - haya encontrado",
+                "alegrará - hubiera encontrado",
+                "ha alegrado - hubiese encontrado"
+              ],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 2
+            },
+            {
+              "pregunta": "Elija la oración con la puntuación correcta.",
+              "numPregunta" : 8,
+              "respuestas": [
+                "Hoy me entregaron el dictamen de la tesis, el cual, fue muy favorable.",
+                "Hoy me entregaron el dictamen de la tesis el cual, fue muy favorable.",
+                "Hoy me entregaron el dictamen de la tesis, el cual fue muy favorable."
+              ],
+              "correcta": 2,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 0
+            },
+            {
+              "pregunta": "Seleccione la opción que da sentido al fragmento. El término arquetipo fue introducido en la psicología analítica por Jung, “_______”, lo acuñó y desarrolló como concepto en su obra Los arquetipos y el inconsciente colectivo en los años 30.",
+              "numPregunta" : 9,
+              "respuestas": [
+                "es decir",
+                "en este sentido",
+                "por lo contrario"
+              ],
+              "correcta": 0,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 1
+            },
+            {
+              "pregunta": "Elija el enunciado en el que se establece una relación correcta entre las palabras.",
+              "numPregunta" : 10,
+              "respuestas": [
+                "La persona que sufrió el percance, un hombre joven, fue atendido en el hospital más cercano",
+                "El personaje, una anciana cruel y malvada, es interpretado por la actriz galardonada",
+                "La cría del tigre que está en cautiverio, un hermoso cachorro, será llevado a un santuario"
+              ],
+              "correcta": 1,
+              "retroalimentacion": "",
+              "retroalimentacionIndex": 2
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Nivel 1",
+      "tiempo": 5000,
+      "lecturas": [
+        {
+          "titulo": "Ventajas de JSON",
+          "contenido": "JSON es fácil de leer y escribir para los humanos y es eficiente para las computadoras...",
+          "preguntas": [
+            {
+              "pregunta": "¿Cuál es una ventaja principal de JSON?",
+              "respuestas": [
+                "Es fácil de leer y escribir",
+                "Es muy pesado",
+                "Solo funciona con Java"
+              ],
+              "correcta": 0,
+              "retroalimentacion": "Una de las principales ventajas de JSON es su facilidad de lectura y escritura."
+            },
+            {
+              "pregunta": "¿En qué formato se suele usar JSON?",
+              "respuestas": [
+                "Texto plano",
+                "Formato binario",
+                "Formato gráfico"
+              ],
+              "correcta": 0,
+              "retroalimentacion": "JSON se suele usar en formato de texto plano, lo que facilita su comprensión y edición."
+            }
+          ]
+        },
+        {
+          "titulo": "JSON vs XML",
+          "contenido": "JSON es una alternativa más ligera y fácil de usar en comparación con XML...",
+          "preguntas": [
+            {
+              "pregunta": "¿Qué ventaja tiene JSON sobre XML?",
+              "respuestas": [
+                "Es más ligero y fácil de leer",
+                "Es más seguro",
+                "Es compatible con menos lenguajes"
+              ],
+              "correcta": 0,
+              "retroalimentacion": "JSON es más ligero y fácil de leer que XML."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Nivel 2",
+      "tiempo": 7000,
+      "lecturas": [
+        {
+          "titulo": "Casos de uso de JSON",
+          "contenido": "JSON se utiliza en aplicaciones web para intercambiar datos entre cliente y servidor...",
+          "preguntas": [
+            {
+              "pregunta": "¿Dónde se utiliza JSON principalmente?",
+              "respuestas": [
+                "En aplicaciones web para intercambio de datos",
+                "Para el diseño gráfico",
+                "En hardware especializado"
+              ],
+              "correcta": 1,
+              "retroalimentacion": "JSON se utiliza principalmente en aplicaciones web para intercambio de datos."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

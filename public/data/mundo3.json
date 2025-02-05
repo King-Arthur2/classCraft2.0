@@ -1,0 +1,1131 @@
+{
+  "niveles": [
+    {
+      "nivel": "Nivel 13",
+      "tiempo": 600,
+      "lecturas": [
+        {
+          "titulo": "Texto con comentarios",
+          "contenido": "Texto principal\nLa retroalimentación en entornos de aprendizaje en línea juega un papel esencial para fomentar la motivación y el compromiso de los estudiantes. Al recibir comentarios sobre sus actividades virtuales, los alumnos pueden evaluar su progreso y detectar áreas de oportunidad. Además, la retroalimentación inmediata puede reducir la sensación de aislamiento que, en ocasiones, acompaña a la educación a distancia.\n\nEs fundamental que los instructores utilicen estrategias de retroalimentación tanto cualitativa como cuantitativa. Por un lado, los comentarios descriptivos permiten al estudiante comprender por qué un apartado de su trabajo es sólido o deficiente. Por otro lado, las valoraciones numéricas o escalas de calificación ofrecen una referencia objetiva de su desempeño.\n\nFinalmente, el intercambio de observaciones entre pares también resulta beneficioso. En foros o grupos de trabajo virtuales, los compañeros de clase pueden comentar proyectos y ensayos, lo cual promueve el pensamiento crítico y el aprendizaje colaborativo.\n\nComentario A (cualitativo):\n\"La explicación sobre el papel de la retroalimentación en la motivación de los estudiantes es clara, pero sería útil ampliar la parte en la que se menciona la reducción de la sensación de aislamiento.\"\n\nComentario B (cuantitativo):\n\"Puntuación: 9/10 en la categoría ‘relevancia del tema’ y 6/10 en ‘profundidad de análisis’.\"\n\nComentario C (docente-estudiante):\n\"Procura incluir ejemplos concretos de plataformas virtuales donde se haya aplicado la retroalimentación de manera exitosa para ilustrar mejor tus argumentos.\"",
+          "preguntas": [
+            {
+              "pregunta": "Según el texto, ¿cuál es uno de los principales beneficios de la retroalimentación en línea?",
+              "numPregunta": 1,
+              "respuestas": [
+                "Reducir la exigencia académica de los cursos.",
+                "Fomentar la motivación y el compromiso de los estudiantes.",
+                "Aumentar la cantidad de tareas que deben entregarse."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 3,
+              "retroalimentacion": ""
+            },
+            {
+              "pregunta": "¿Por qué resulta importante combinar retroalimentación cualitativa y cuantitativa?",
+              "numPregunta": 2,
+              "respuestas": [
+                "Porque la retroalimentación numérica suele ser más confiable que la descriptiva.",
+                "Porque ambas perspectivas permiten al alumno tener una visión amplia de su desempeño.",
+                "Porque las calificaciones son innecesarias en la educación a distancia."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 3,
+              "retroalimentacion": "La combinación de retroalimentación cualitativa y cuantitativa proporciona una visión más completa al alumno sobre su desempeño, integrando tanto aspectos descriptivos como numéricos."
+            },
+            {
+              "pregunta": "¿De qué manera puede la retroalimentación inmediata ayudar a los estudiantes en línea?",
+              "numPregunta": 3,
+              "respuestas": [
+                "Les da la sensación de que siempre deben competir con sus compañeros.",
+                "Les permite detectar fallas solo después de finalizar el curso.",
+                "Les ayuda a sentirse menos aislados y a identificar áreas de mejora de forma rápida."
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 3,
+              "retroalimentacion": ""
+            },
+            {
+              "pregunta": "Según el Comentario A (cualitativo), ¿qué podría mejorarse en el texto?",
+              "numPregunta": 4,
+              "respuestas": [
+                "Brindar más detalles sobre cómo la retroalimentación reduce el aislamiento en entornos virtuales.",
+                "Omitir la sección sobre retroalimentación entre pares.",
+                "Añadir una calificación numérica para cada apartado del texto."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 3,
+              "retroalimentacion": ""
+            },
+            {
+              "pregunta": "¿Qué información ofrece el Comentario B (cuantitativo)?",
+              "numPregunta": 5,
+              "respuestas": [
+                "Indica solamente los errores ortográficos.",
+                "Describe cómo mejorar la conclusión del texto.",
+                "Proporciona una puntuación relacionada con la relevancia del tema y la profundidad del análisis."
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 3,
+              "retroalimentacion": ""
+            },
+            {
+              "pregunta": "¿Cómo podría el autor mejorar el texto según el Comentario C (docente-estudiante)?",
+              "numPregunta": 6,
+              "respuestas": [
+                "Incluir ejemplos de plataformas virtuales que demuestren el éxito de la retroalimentación en línea.",
+                "Eliminar toda mención de la retroalimentación cualitativa.",
+                "Subir la calificación de ‘profundidad de análisis’ a 9/10."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 3,
+              "retroalimentacion": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Nivel 14",
+      "tiempo": 900,
+      "lecturas": [
+        {
+          "titulo": "Texto 1",
+          "contenido": "Pasaje: \n\n “Las flores necesitan agua y luz solar para sobrevivir. Si no reciben estos elementos, eventualmente se marchitarán. Por lo tanto, la clave para mantener vivas las flores es regarlas con frecuencia y colocarlas en un lugar soleado.”",
+          "preguntas": [
+            {
+              "pregunta": "¿Cuál de las siguientes oraciones expresa la conclusión principal del argumento?",
+              "numPregunta": 1,
+              "respuestas": [
+                "Las flores necesitan agua y luz solar para sobrevivir.",
+                "La clave para mantener vivas las flores es regarlas con frecuencia y colocarlas en un lugar soleado.",
+                "Si no reciben estos elementos, eventualmente se marchitarán."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 3,
+              "retroalimentacion": ""
+            },
+            {
+              "pregunta": "En relación con las premisas, ¿cuál de las siguientes opciones es correcta?",
+              "numPregunta": 2,
+              "respuestas": [
+                "La única premisa es que 'las flores se marchitan tarde o temprano'.",
+                "Hay dos premisas: la necesidad de agua y luz solar para sobrevivir, y la consecuencia de no recibir estos elementos.",
+                "No se presenta ninguna premisa, solo conclusiones."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 3,
+              "retroalimentacion": ""
+            },
+            {
+              "pregunta": "Si quisiéramos parafrasear el argumento, ¿cuál opción sería la más adecuada?",
+              "numPregunta": 3,
+              "respuestas": [
+                "Dado que las flores requieren agua y sol, si carecen de estos, se marchitan. Por ello, hay que proveerles ambos para que sigan vivas.",
+                "Algunas flores necesitan cuidados especiales, por lo tanto no es necesario regarlas.",
+                "Para proteger las flores de plagas, es esencial aplicar pesticidas, lo cual garantiza su supervivencia."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 3,
+              "retroalimentacion": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Texto 2",
+          "contenido": "Pasaje: \n\n“El uso excesivo del automóvil contribuye al aumento de la contaminación. Disminuir el uso de vehículos privados reduce la emisión de gases nocivos. Por consiguiente, para mejorar la calidad del aire, es recomendable fomentar el transporte público o el uso de bicicletas.”",
+          "preguntas": [
+            {
+              "pregunta": "¿Cuál es la conclusión del texto anterior?",
+              "numPregunta": 4,
+              "respuestas": [
+                "El uso excesivo del automóvil contribuye al aumento de la contaminación.",
+                "Disminuir el uso de vehículos privados reduce la emisión de gases nocivos.",
+                "Para mejorar la calidad del aire, es recomendable fomentar el transporte público o el uso de bicicletas."
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 3,
+              "retroalimentacion": ""
+            },
+            {
+              "pregunta": "¿Qué premisas sustentan la conclusión?",
+              "numPregunta": 5,
+              "respuestas": [
+                "La contaminación depende exclusivamente de las industrias.",
+                "El uso excesivo del automóvil aumenta la contaminación y reducir su uso baja las emisiones de gases.",
+                "Las bicicletas son el medio de transporte más rápido en la ciudad."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 3,
+              "retroalimentacion": ""
+            },
+            {
+              "pregunta": "¿Cómo podría diagramarse el argumento de manera sencilla?",
+              "numPregunta": 6,
+              "respuestas": [
+                "[Premisa 1] Reducir automóviles → [Premisa 2] Aumento de contaminación → [Conclusión] Uso de bicicletas.",
+                "[Premisa 1] Uso excesivo del coche = Contaminación alta → [Premisa 2] Menos coches = Menos emisiones → [Conclusión] Usar transporte público y bicicleta.",
+                "[Premisa 1] El transporte público es caro → [Premisa 2] La bicicleta es ineficiente → [Conclusión] Hay que usar coche."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 3,
+              "retroalimentacion": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Texto 3",
+          "contenido": "Pasaje: \n\n “Si una persona ahorra parte de sus ingresos, podrá enfrentar imprevistos financieros con mayor facilidad. Además, la inversión de dichos ahorros puede generar intereses. Por ende, es recomendable destinar siempre un porcentaje de los ingresos al ahorro y la inversión.”",
+          "preguntas": [
+            {
+              "pregunta": "¿Cuál de estas oraciones presenta una premisa del argumento?",
+              "numPregunta": 7,
+              "respuestas": [
+                "Si una persona ahorra parte de sus ingresos, podrá enfrentar imprevistos financieros con mayor facilidad.",
+                "Es recomendable destinar siempre un porcentaje de los ingresos al ahorro y la inversión.",
+                "Toda persona debería endeudarse para tener bienes de lujo."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 3,
+              "retroalimentacion": ""
+            },
+            {
+              "pregunta": "¿Cuál es la conclusión que se puede extraer del pasaje?",
+              "numPregunta": 8,
+              "respuestas": [
+                "Es recomendable destinar siempre un porcentaje de los ingresos al ahorro y la inversión.",
+                "Guardar dinero no sirve de nada si no se invierte.",
+                "Tener un préstamo es la mejor alternativa frente a gastos imprevistos."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 3,
+              "retroalimentacion": ""
+            },
+            {
+              "pregunta": "¿Cómo podría parafrasearse el argumento de manera correcta?",
+              "numPregunta": 9,
+              "respuestas": [
+                "Algunas personas prefieren gastar todo, pues ahorrar no soluciona los problemas imprevistos.",
+                "Al ahorrar, se pueden afrontar gastos inesperados. Además, invertir lo ahorrado genera rendimientos, así que es aconsejable apartar siempre algo de los ingresos.",
+                "Si no se ahorra, no pasa nada, pues siempre se puede pedir un préstamo."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 3,
+              "retroalimentacion": ""
+            }
+          ]
+        },
+        {
+          "titulo": "Texto 4",
+          "contenido": "Pasaje: \n\n“La lectura continua de textos de diversos géneros estimula el desarrollo del vocabulario y la capacidad de expresión escrita. Si se quiere mejorar la habilidad de redacción, es aconsejable leer a diario diferentes tipos de obras. Por consiguiente, leer novelas, ensayos y otros géneros literarios puede ayudar significativamente a quienes deseen mejorar su escritura.”",
+          "preguntas": [
+            {
+              "pregunta": "Identifica la conclusión más evidente en el pasaje:",
+              "numPregunta": 10,
+              "respuestas": [
+                "La lectura continua mejora la ortografía, pero no la redacción.",
+                "Leer diversos géneros ayuda a desarrollar el vocabulario y la capacidad de expresión.",
+                "Es aconsejable leer a diario para mejorar la habilidad de redacción."
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 3,
+              "retroalimentacion": ""
+            },
+            {
+              "pregunta": "¿Cuáles son las premisas que sostienen la conclusión?",
+              "numPregunta": 11,
+              "respuestas": [
+                "La lectura de diversos géneros desarrolla vocabulario y expresión escrita.",
+                "Es preferible leer solo novelas románticas.",
+                "La lectura y la escritura son actividades totalmente independientes."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 3,
+              "retroalimentacion": ""
+            },
+            {
+              "pregunta": "¿Cómo se podría diagramar el argumento de forma sencilla?",
+              "numPregunta": 12,
+              "respuestas": [
+                "[Premisa 1] Mejorar la habilidad de redacción → [Conclusión] Se debe escribir todos los días.",
+                "[Premisa 1] Leer diversos géneros = Desarrollo del vocabulario → [Premisa 2] Deseo de mejorar la redacción → [Conclusión] Lectura variada como método efectivo.",
+                "[Premisa 1] No hay relación entre lectura y vocabulario → [Premisa 2] No se puede mejorar la redacción con la lectura → [Conclusión] Leer no influye en la escritura."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 3,
+              "retroalimentacion": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Nivel 15",
+      "tiempo": 600,
+      "lecturas": [
+        {
+          "titulo": "Ejercicio: de acuerdo con lo visto en la lección responde las siguientes preguntas.",
+          "contenido": "",
+          "preguntas": [
+            {
+              "pregunta": "¿Cuál de las siguientes herramientas es ideal para crear mapas mentales y organizar ideas?",
+              "numPregunta": 1,
+              "respuestas": ["Lucidchart", "Jamboard", "Padlet"],
+              "correcta": 0,
+              "retroalimentacionIndex": 3,
+              "retroalimentacion": ""
+            },
+            {
+              "pregunta": "¿Qué herramienta digital se utiliza principalmente para lluvias de ideas colaborativas?",
+              "numPregunta": 2,
+              "respuestas": ["Flipgrid", "Canva", "Miro"],
+              "correcta": 2,
+              "retroalimentacionIndex": 3,
+              "retroalimentacion": ""
+            },
+            {
+              "pregunta": "¿Cuál es una ventaja clave del uso de Google Docs en la escritura creativa?",
+              "numPregunta": 3,
+              "respuestas": [
+                "Ofrece plantillas para mapas mentales",
+                "Permite crear presentaciones animadas",
+                "Facilita la colaboración en tiempo real"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 3,
+              "retroalimentacion": ""
+            },
+            {
+              "pregunta": "¿Qué característica distingue a Jamboard en el contexto de la escritura creativa?",
+              "numPregunta": 4,
+              "respuestas": [
+                "Su capacidad para integrar notas visuales y colores",
+                "La posibilidad de crear diagramas complejos",
+                "Funciones avanzadas de análisis de texto"
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 3,
+              "retroalimentacion": ""
+            },
+            {
+              "pregunta": "Según los documentos, ¿cuál es un beneficio de utilizar herramientas digitales para la escritura?",
+              "numPregunta": 5,
+              "respuestas": [
+                "Fomentar la creatividad y la innovación en el proceso",
+                "Reducir el tiempo dedicado a la escritura manual",
+                "Sustituir completamente las interacciones presenciales"
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 3,
+              "retroalimentacion": ""
+            },
+            {
+              "pregunta": "¿Cuál de las siguientes herramientas permite integrar elementos multimedia en proyectos de escritura creativa?",
+              "numPregunta": 6,
+              "respuestas": ["Mentimeter", "Canva", "Edpuzzle"],
+              "correcta": 1,
+              "retroalimentacionIndex": 3,
+              "retroalimentacion": ""
+            },
+            {
+              "pregunta": "¿Qué enfoque educativo enfatiza la interacción entre estudiantes y la construcción colectiva del conocimiento?",
+              "numPregunta": 7,
+              "respuestas": [
+                "Aprendizaje dialógico",
+                "Aprendizaje pasivo",
+                "Aprendizaje enciclopédico"
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 3,
+              "retroalimentacion": ""
+            },
+            {
+              "pregunta": "Según los documentos, ¿qué ventaja ofrece la colaboración en herramientas digitales como Padlet?",
+              "numPregunta": 8,
+              "respuestas": [
+                "Permitir intercambios de ideas en tiempo real",
+                "Generar textos largos automáticamente",
+                "Crear presentaciones en 3D"
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 3,
+              "retroalimentacion": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Nivel 16",
+      "tiempo": 1200,
+      "lecturas": [
+        {
+          "titulo": "Ejercicio: con la información proporcionada responde las siguientes preguntas.",
+          "contenido": "",
+          "preguntas": [
+            {
+                "pregunta": "¿Cuál es el uso principal del punto final?",
+                "numPregunta": 1,
+                "respuestas": [
+                  "Separar enunciados dentro de un párrafo.",
+                  "Separar dos párrafos distintos.",
+                  "Indicar el cierre de un texto."
+                ],
+                "correcta": 2,
+                "retroalimentacionIndex": 3,
+                "retroalimentacion": ""
+              },
+              {
+                "pregunta": "¿Qué signo se utiliza para encerrar aclaraciones dentro de un texto?",
+                "numPregunta": 2,
+                "respuestas": [
+                  "Paréntesis.",
+                  "Raya.",
+                  "Comillas."
+                ],
+                "correcta": 0,
+                "retroalimentacionIndex": 3,
+                "retroalimentacion": ""
+              },
+              {
+                "pregunta": "¿Qué signo indica una pausa breve dentro de un enunciado?",
+                "numPregunta": 3,
+                "respuestas": [
+                  "Punto y coma.",
+                  "Coma.",
+                  "Puntos suspensivos."
+                ],
+                "correcta": 1,
+                "retroalimentacionIndex": 3,
+                "retroalimentacion": ""
+              },
+              {
+                "pregunta": "¿Qué signo se usa al final de una enumeración abierta?",
+                "numPregunta": 4,
+                "respuestas": [
+                  "Puntos suspensivos.",
+                  "Dos puntos.",
+                  "Punto."
+                ],
+                "correcta": 0,
+                "retroalimentacionIndex": 3,
+                "retroalimentacion": ""
+              },
+              {
+                "pregunta": "¿Cuál es la diferencia principal entre el guion y la raya?",
+                "numPregunta": 5,
+                "respuestas": [
+                  "El guion se usa para dividir palabras, y la raya para aclaraciones.",
+                  "Ambos se usan para lo mismo.",
+                  "La raya se usa solo en matemáticas."
+                ],
+                "correcta": 0,
+                "retroalimentacionIndex": 3,
+                "retroalimentacion": ""
+              },
+              {
+                "pregunta": "¿Cuál es el uso principal de los puntos suspensivos?",
+                "numPregunta": 6,
+                "respuestas": [
+                  "Indicar el final de una oración.",
+                  "Expresar duda, suspenso o interrupción.",
+                  "Separar elementos en una enumeración."
+                ],
+                "correcta": 1,
+                "retroalimentacionIndex": 3,
+                "retroalimentacion": ""
+              },
+              {
+                "pregunta": "¿Cuál es el signo adecuado para separar elementos de una lista compleja con comas internas?",
+                "numPregunta": 7,
+                "respuestas": [
+                  "Punto y coma.",
+                  "Coma.",
+                  "Dos puntos."
+                ],
+                "correcta": 0,
+                "retroalimentacionIndex": 3,
+                "retroalimentacion": ""
+              },
+              {
+                "pregunta": "¿Qué tipo de punto se usa para separar enunciados dentro de un mismo párrafo?",
+                "numPregunta": 8,
+                "respuestas": [
+                  "Punto y seguido.",
+                  "Punto final.",
+                  "Punto y aparte."
+                ],
+                "correcta": 0,
+                "retroalimentacionIndex": 3,
+                "retroalimentacion": ""
+              },
+              {
+                "pregunta": "¿Qué uso tienen los dos puntos antes de una cita textual?",
+                "numPregunta": 9,
+                "respuestas": [
+                  "Introducir una explicación.",
+                  "Enfatizar la importancia de la cita.",
+                  "Indicar que viene una cita directa."
+                ],
+                "correcta": 2,
+                "retroalimentacionIndex": 3,
+                "retroalimentacion": ""
+              },
+              {
+                "pregunta": "¿Qué signo se utiliza para separar preguntas breves dentro de un mismo enunciado?",
+                "numPregunta": 10,
+                "respuestas": [
+                  "Coma.",
+                  "Punto y coma.",
+                  "Ambos son válidos."
+                ],
+                "correcta": 2,
+                "retroalimentacionIndex": 3,
+                "retroalimentacion": ""
+              },
+              {
+                "pregunta": "¿Cómo se llama el signo que se usa para encerrar citas textuales?",
+                "numPregunta": 11,
+                "respuestas": [
+                  "Comillas.",
+                  "Raya.",
+                  "Paréntesis."
+                ],
+                "correcta": 0,
+                "retroalimentacionIndex": 3,
+                "retroalimentacion": ""
+              },
+              {
+                "pregunta": "¿Qué regla aplica después de un punto y seguido?",
+                "numPregunta": 12,
+                "respuestas": [
+                  "Continuar con minúscula.",
+                  "Continuar en la misma línea con mayúscula.",
+                  "Comenzar una nueva línea con mayúscula."
+                ],
+                "correcta": 1,
+                "retroalimentacionIndex": 3,
+                "retroalimentacion": ""
+              },
+              {
+                "pregunta": "¿Qué signo se emplea al inicio y al final de las oraciones exclamativas?",
+                "numPregunta": 13,
+                "respuestas": [
+                  "Comillas.",
+                  "Signos de exclamación (¡!).",
+                  "Paréntesis."
+                ],
+                "correcta": 1,
+                "retroalimentacionIndex": 3,
+                "retroalimentacion": ""
+              },
+              {
+                "pregunta": "¿Qué sucede si los puntos suspensivos aparecen al final de una oración?",
+                "numPregunta": 14,
+                "respuestas": [
+                  "Se escribe otro punto adicional.",
+                  "No se añade ningún punto.",
+                  "Se añade un signo de interrogación."
+                ],
+                "correcta": 1,
+                "retroalimentacionIndex": 3,
+                "retroalimentacion": ""
+              },
+              {
+                "pregunta": "¿Cómo se separan las consonantes en una palabra con tres consonantes seguidas?",
+                "numPregunta": 15,
+                "respuestas": [
+                  "Se agrupan todas en la misma sílaba.",
+                  "Se reparten entre las dos sílabas.",
+                  "Se elimina una consonante."
+                ],
+                "correcta": 1,
+                "retroalimentacionIndex": 3,
+                "retroalimentacion": ""
+              },
+              {
+                "pregunta": "¿Qué signo se utiliza para intercalar una alternativa en un texto?",
+                "numPregunta": 16,
+                "respuestas": [
+                  "Corchetes.",
+                  "Paréntesis.",
+                  "Guion."
+                ],
+                "correcta": 1,
+                "retroalimentacionIndex": 3,
+                "retroalimentacion": ""
+              },
+              {
+                "pregunta": "¿Qué signo se emplea para introducir una enumeración?",
+                "numPregunta": 17,
+                "respuestas": [
+                  "Coma.",
+                  "Dos puntos.",
+                  "Punto y coma."
+                ],
+                "correcta": 1,
+                "retroalimentacionIndex": 3,
+                "retroalimentacion": ""
+              },
+              {
+                "pregunta": "¿Qué tipo de comillas se usan habitualmente en citas textuales?",
+                "numPregunta": 18,
+                "respuestas": [
+                  "Simples.",
+                  "Inglesas o dobles.",
+                  "Latinas o angulares."
+                ],
+                "correcta": 1,
+                "retroalimentacionIndex": 3,
+                "retroalimentacion": ""
+              },
+              {
+                "pregunta": "¿Qué función tiene el punto y coma al separar oraciones largas?",
+                "numPregunta": 19,
+                "respuestas": [
+                  "Indicar un cambio abrupto de tema.",
+                  "Facilitar la comprensión evitando confusión.",
+                  "Hacer una pausa breve."
+                ],
+                "correcta": 1,
+                "retroalimentacionIndex": 3,
+                "retroalimentacion": ""
+              },
+              {
+                "pregunta": "¿Qué signo se emplea para encerrar datos incidentales en un texto?",
+                "numPregunta": 20,
+                "respuestas": [
+                  "Comillas.",
+                  "Raya.",
+                  "Paréntesis."
+                ],
+                "correcta": 2,
+                "retroalimentacionIndex": 3,
+                "retroalimentacion": ""
+              }
+          ]
+        }
+      ]
+    },
+    {
+      "nivel": "Nivel 17",
+      "tiempo": 100,
+      "lecturas": [
+        {
+          "titulo": "Lectura",
+          "contenido": "Dos exposiciones paralelas rescatan los extraordinarios dibujos procedentes de los cuadernos de bocetos de Leonardo da Vinci (1452-1519), el genio universal del Renacimiento italiano, quien en raras ocasiones se presentaba en las cortes como un pintor, sino más bien como un ingeniero, arquitecto, músico, diseñador de armas u organizador de fiestas. La muestra Leonardo da Vinci: la mecánica del hombre se puede visitar hasta el 10 de noviembre de 2013 en The Queen's Gallery, en el Palacio de Holyroodhouse, en Edimburgo; y Leonardo da Vinci. El hombre universal hasta el 1 de diciembre en las Galerías de la Academia, en Venecia. Ambas retrospectivas representan una ocasión única para admirar los dibujos del célebre artista florentino, que son extremadamente frágiles, y en el caso de la muestra veneciana sólo se pueden exponer públicamente una vez durante una generación, ya que deben ser custodiados en la oscuridad más absoluta y bajo unas exigentes condiciones ambientales.\n\nLeonardo da Vinci: la mecánica del hombre examina los innovadores dibujos que realizó el artista sobre el cuerpo humano y demuestra que es uno de los más destacados anatomistas de la historia. La muestra reúne 30 obras que incluyen 18 hojas, entre las más preciosas de Leonardo, que forman el Manuscrito anatómico a más de 240 dibujos y 13 000 palabras rellenan estas páginas, que fueron realizadas durante el invierno de 1510 y 1511. Leonardo ilustró prácticamente cada hueso del cuerpo humano y los principales grupos musculares. Estos estudios anatómicos no fueron publicados a lo largo de su vida y permanecieron inéditos durante varios siglos. En sus anotaciones, presentes en la exposición, describe un examen post mortem de un hombre de 100 años de edad en el que ofrece la primera descripción exacta de una cirrosis hepática y del estrechamiento de las arterias. Los cuadernos de Leonardo se exhiben junto a imágenes médicas del siglo XXI que revelan el carácter precursor del genio florentino en técnicas como el escáner IRM o la modelización informática en 3D.\n\nLeonardo da Vinci. El hombre universal muestra los excepcionales folios del maestro florentino conservados desde el año 1822 en la colección gráfica del Gabinete de los Dibujos de las Galerías de la Academia, en Venecia. Un total de 25 obras gráficas que nunca han sido mostradas al público. La exposición cuenta también con otras 27 hojas procedentes de préstamos de museos italianos y extranjeros como la Biblioteca Real de Turín, la Galería Uffizi de Florencia, la Galería Nacional de Parma, la Royal Collection del Castillo de Windsor, el Museo Británico de Londres y el Museo Ashmolean de Oxford. La colección dedicada al estudio de las proporciones del cuerpo humano incluye el célebre Hombre de Vitruvio, una representación armónica que es un símbolo de la perfección clásica del cuerpo y la mente. También se pueden admirar sus dibujos de botánica, proyectos geométricos, retratos de hombres, figuras femeninas, batallas y proyectos de armas e ingenios militares.",
+          "preguntas": []
+        }
+      ]
+    },
+    {
+      "nivel": "Nivel 18",
+      "tiempo": 2400,
+      "lecturas": [
+        {
+          "titulo": "Carta poder",
+          "contenido": "La C. Esmeralda Ramírez Murcia, de nacionalidad mexicana y ocupación comerciante, otorga al C. Juan Carlos García Jaimes un PODER GENERAL para pleitos y cobranzas, incluyendo todas las facultades generales y especiales que requieren cláusula especial conforme a la ley. Este poder se concede con base en el Código Civil del estado de San Luis Potosí y su correlativo en los demás estados de la República Mexicana.\n\nEl apoderado está facultado para transigir, comprometer en árbitros, articular y absolver posiciones, desistirse de acciones y recursos, incluso del juicio de amparo, recusar y recibir pagos. También podrá representar al poderdante ante particulares, oficinas administrativas, funcionarios de cualquier nivel y toda clase de autoridades o corporaciones reconocidas por las leyes federales y locales en materia civil, penal o fiscal.\n\nAsimismo, se autoriza al apoderado para presentar denuncias y querellas penales, coadyuvar con el Ministerio Público, constituirse en parte civil, establecer convenios y otorgar perdones.\n\nEste poder también incluye la facultad de gestionar el cobro de rentas vencidas y la desocupación del inmueble ubicado en CALLE DEL AMOR NÚMERO 9876, COLONIA LOS AROMAS, San Luis Potosí, S.L.P. Este trámite será realizado en contra de la arrendataria, la C. Rigoberta Sánchez Pérez, y con el respaldo del fiador, el C. Rómulo Petit Flores.\n\nDado en la ciudad de San Luis Potosí, a los 20 días del mes de enero de 2020. <b> 0",
+          "preguntas": [
+            {
+              "pregunta": "¿Qué acción se realiza a partir de la emisión de esta carta?",
+              "numPregunta": 1,
+              "respuestas": [
+                "El apoderado, Rómulo, funge como fiador del poderdante Juan Carlos",
+                "La poderdante, Esmeralda, tramita la carta para cobrarle a Rigoberta",
+                "El fiador, Rómulo, procede en contra de la ciudadana Rigoberta"
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "Rómulo es fiador de Rigoberta, por lo tanto, no procede en su contra, solamente es una figura de apoyo para ella."
+            },
+            {
+              "pregunta": "Con base en el texto, ¿cuál afirmación es correcta?",
+              "numPregunta": 2,
+              "respuestas": [
+                "El apoderado, Rómulo, funge como fiador del poderdante Juan Carlos",
+                "La poderdante, Esmeralda, tramita la carta para cobrarle a Rigoberta",
+                "El fiador, Rómulo, procede en contra de la ciudadana Rigoberta"
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "El apoderado es Juan Carlos y el poderdante es Esmeralda."
+            },
+            {
+              "pregunta": "¿Qué documentos se deben anexar para dar validez a la carta?",
+              "numPregunta": 3,
+              "respuestas": [
+                "El pasaporte de Esmeralda, la identificación de Juan Carlos y los recibos vencidos de Rigoberta",
+                "La licencia de conducir de Esmeralda, el pasaporte de Juan Carlos y el INE de los testigos",
+                "Los recibos vencidos de Rigoberta, el contrato de fiador de Rómulo y el INE de los testigos"
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "Los recibos vencidos de Rigoberta no tienen relación con la validez de la carta."
+            }
+          ]
+        },
+        {
+          "titulo": "Un afeitado finísimo",
+          "contenido": "Ella le dijo que estaba mucho más guapo afeitado, así que él se afeitó, especialmente para ella. La tersa piel del rostro le brillaba con todo su esplendor cuando la fue a recoger aquella tarde y también el aroma de la loción para después del afeitado era de lo más agradable. Vieron una película, tomaron un café en un sitio cualquiera y, a continuación, él la acompañó a casa en coche. Se trataba, al fin y al cabo, de un segundo encuentro, de manera que él no intentó nada y ni tan siquiera le sugirió subir con ella a su piso. Antes de salir del coche ella le había dado un beso precipitado en la rojiza mejilla y él le había respondido con una tímida sonrisa sin devolverle el beso.\n\nSe trataba de una chica por la que merecía la pena esperar pacientemente.\n\nPasaría un día, pasaría otro día, pero al final todo terminaría por llegar. Una película, un café, una película más.\n\nUna puesta de sol, un par de veces a la bolera y, finalmente, sería suya.\n\nElla le dijo que resultaba mucho más agradable afeitado, porque sencillamente los pelos de la barba le picaban por el cuerpo. Y es que, ahora que estaban juntos, ¿dónde iba a poner él la cara que no fuera en su cuerpo? A él ni siquiera se le podía ocurrir pensar en otro sitio mejor.\n\nSe afeitaba todos los días, incluso dos veces al día. Eliminaba los incipientes pelos antes siquiera de que les hubiera dado tiempo a asomar, de manera que la estimulada piel parecía estar ardiendo en medio de una especie de cálida rojez. También los dientes se los cepillaba constantemente: tres, cuatro, y hasta cinco veces al día. Subía y bajaba el cepillo, escupía en el lavabo y, a continuación, se enjuagaba bien con agua para eliminar la espuma blanca del dentífrico. Después de todo eso se encontraba a sí mismo mucho más agradable, más estético, y una vez a la semana hasta se pasaba hilo dental por entre los dientes. A ella no le hubiera importado besarlo también si no hubiese hecho todo eso, porque lo amaba, pero no se podía esperar de ella que fuera a poner la lengua en un lugar que oliera mal o que estuviera sucio.\n\nElla le dijo que las cejas también le molestaban; resultaba difícil irse deslizando así, con los labios, por la pendiente de la frente para besarle los ojos. La cuchilla, al fin y al cabo, era la misma cuchilla, así es que si ya, de cualquier modo, se afeitaba, ¿Qué más le daba? Una vez al día, dos, a veces hasta tres. Y también empezó a usar el hilo dental con más asiduidad, hasta el punto de que se compró un rollo entero que, aunque no era más grande que una cajetilla de cigarrillos, tenía diecisiete metros de longitud. Porque lo habían enrollado muy apretado, como los sacos de dormir, que se pueden reducir hasta el tamaño de una baguette. Aprovechó y compró también loción para después del afeitado, un frasco de litro, porque el viejo ya se le había terminado.\n\nPasó el tiempo y ya llevaban dos meses viviendo juntos; él ocupándose exclusivamente de su higiene personal y ella de todo lo demás. Ni un solo vaso le pedía que fregara. Del pecho para abajo no tuvo necesidad de decírselo, porque él le captó enseguida la mirada. Y la verdad era que ya que se afeitaba antes de cada comida, e incluso con mayor frecuencia, ¿Qué más le daba depilarse entero? Incluso las pestañas, porque le picaban en la lengua a ella, que tanto lo amaba, y a la que él le gustaba lampiño, sin recovecos ni partes punzantes. Como todos los demás con los que él se había encontrado en el suelo del salón, todos tan agradables y cómodos. Al principio había creído que se trataba de unos silloncitos rosados en forma de puf, porque muchas veces la había visto allí sentada tan feliz, así que también él se sentaba en ellos. Resultaban tan agradables y suaves. Les había preguntado cómo lo conseguían, y ellos se lo habían contado todo. Las partes punzantes era por los huesos, pero había un tipo en Rosh Pina que los sacaba con toda facilidad, incluidos el cráneo y la columna vertebral. Ni siquiera dolía, a ella le resultaría mucho más agradable, y eso era, a fin de cuentas, lo único importante. Y es que la sonrisa de ella, cuando se le sentaba encima, lo valía todo.",
+          "preguntas": [
+            {
+              "pregunta": "¿Qué función tiene el título del cuento?",
+              "numPregunta": 4,
+              "respuestas": [
+                "Anticipa la transformación física que vivirá el protagonista",
+                "Hace referencia a la falta de higiene inicial del protagonista",
+                "Revela el ideal de belleza al que aspira el protagonista"
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "Si bien, al inicio del cuento podemos ver que el protagonista no está obsesionado con su aspecto físico (únicamente se afeita para una cita), el texto nunca menciona que este tuviera falta de higiene."
+            },
+            {
+              "pregunta": "¿Qué tipo de desenlace tiene el cuento?",
+              "numPregunta": 5,
+              "respuestas": [
+                "Previsible, ya que la suerte del protagonista es la que el lector esperaba",
+                "Terminante, pues el conflicto que vive el protagonista queda resuelto",
+                "Abierto, porque el lector tiene que imaginar el destino del protagonista"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "El desenlace del cuento no es previsible, pues, aunque el hilo conductor del relato es la incesante manera de afeitarse del protagonista, el lector no espera la secuencia final, cuando éste descubre que, lo que él pensaba que eran silloncitos rosados en medio del salón, resultan ser las parejas de su mujer que le precedieron. Además, después de dicho reconocimiento, el lector queda en suspenso respecto al final que le espera al protagonista."
+            }
+          ]
+        },
+        {
+          "titulo": "Chile se revienta",
+          "contenido": "Con el referéndum celebrado el pasado domingo, Chile ha dado el primer paso para superar la herencia institucional más pesada de la dictadura de Augusto Pinochet (1973-1990): la actual Constitución que, aunque reformada en numerosas ocasiones, data de 1980. Los votantes aprobaron por abrumadora mayoría redactar una nueva Carta Magna —un 78% a favor— y que esta sea elaborada por una Convención Constitucional elegida en su totalidad para este cometido —un 79% a favor de esta opción contra un 21% partidario de un órgano mixto con el actual Parlamento—. Este órgano presentará la importante característica de ser paritaria por género en su composición. Se trata, en su conjunto, de un inequívoco mandato de la sociedad chilena para reconsiderar la arquitectura institucional y el modelo socioeconómico del país.\n\nDesde el fin de la dictadura, Chile ha disfrutado de una salud democrática y un crecimiento económico notables. En estos aspectos, la comparación con los países de la región resulta favorable. Pero su modelo socioeconómico ultraliberal ha ido generando grandes bolsas de malestar en la sociedad, que estallaron en fuertes protestas hace un año. El proceso constituyente es el intento de canalizar por la vía institucional esa insatisfacción y representa un bienvenido síntoma de vitalidad democrática. El camino que se inicia, sin embargo, es incierto y repleto de desafíos, porque propone respuestas lentas a problemas inmediatos, porque se produce en medio de una pandemia que lo complica todo y con el trasfondo de un considerable descrédito de la clase política. También debe tenerse en cuenta la baja participación ciudadana, que se situó en torno al 50%. Es un porcentaje que, si bien resulta habitual desde que el voto dejó de ser obligatorio en 2012, deja el mal sabor de que la mitad de los chilenos no se han expresado sobre el inicio de un cambio histórico. Por todos estos factores, queda por ver si el proceso logrará apaciguar los elementos más extremos de la protesta y satisfacer a los moderados.\n\nLa sociedad chilena ha ido acumulando un creciente descontento ante la evidencia del desigual reparto de riqueza y por la creciente constatación de que había una parálisis en las posibilidades de ascenso social. Las redes de protección son también muy frágiles. La clase política dirigente hará bien en no esconderse detrás del proceso constituyente y esforzarse para ir dando respuesta a las necesidades más urgentes en tiempos tan difíciles. Para ello dispone de un buen margen de maniobra, gracias a la histórica ortodoxia fiscal chilena y porque la contracción del PIB para este año será probablemente menor de lo que se temió hace unos meses. Otro activo en esta transición es la amplia serie de diferentes convocatorias electorales previstas de aquí a 2022, lo que facilitará que la ciudadanía se sienta involucrada.\n\nHay que destacar, por otra parte, que se trata de un resultado donde no hay un claro vencedor político, pero sí un triunfo de la sociedad en su contundente voluntad de cambio. Y es lógico que así sea. Los sucesivos Gobiernos chilenos –de diferente ideología– han ido aplazando durante los últimos 30 años reformas de cuya necesidad eran conscientes todos. La prueba que afronta Chile es de máxima importancia. No solo para la sociedad chilena, sino también por el relevante significado que Chile tiene en la región.",
+          "preguntas": [
+            {
+              "pregunta": "De acuerdo con el texto, ¿Qué impacto tiene para México el proceso que vive Chile?",
+              "numPregunta": 6,
+              "respuestas": [
+                "Es una noticia que repercute en la vida política de Latinoamérica, región a la que pertenece México",
+                "Es un ejemplo para el gobierno mexicano en la toma de decisiones acerca de la estructura política",
+                "La sociedad mexicana toma como referencia las acciones de la sociedad chilena para su transformación"
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "Se menciona la relevancia de este acontecimiento para la región y que su impacto forma parte de los cambios en América Latina y, por lo tanto, es parte del contexto político en el que se encuentra México."
+            },
+            {
+              "pregunta": "¿Cuál oración sintetiza la postura del autor?",
+              "numPregunta": 7,
+              "respuestas": [
+                "Aunque no hubo tanta participación en el referéndum, Chile ha dado un gran paso político",
+                "Los chilenos no desean la transición, pues se sienten ajenos a las decisiones gubernamentales",
+                "La inminente transición chilena solo ha sido posible por la gran participación de la sociedad"
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "La transición no ha sido inminente, sino que el texto la refiere como un proceso y tampoco menciona que hubo gran participación, sino que sólo fue lograda con la participación de la mayoría de los votantes."
+            },
+            {
+              "pregunta": "¿Cómo se relaciona el creciente descontento de la sociedad con el resultado del referéndum?",
+              "numPregunta": 8,
+              "respuestas": [
+                "La situación actual en Chile provoca la apatía de la gente en la toma de decisiones",
+                "El referéndum es la única vía por la cual se expresa una inconformidad social",
+                "Los chilenos eligen participar en la consulta ciudadana para transformar su sociedad"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "El referéndum no es la única vía por la que se ha expresado la inconformidad. Primero hubo protestas y luego se decidió hacer el referéndum para calmar esas protestas."
+            },
+            {
+              "pregunta": "Los chilenos decidieron que _______ debe estar a cargo de _______.",
+              "numPregunta": 9,
+              "respuestas": [
+                "el Parlamento -- las reformas a la Constitución",
+                "un órgano mixto -- reconsiderar la arquitectura institucional",
+                "una convención constitucional -- la nueva Carta Magna"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "En el primer párrafo se aclara que sólo 21% votó a favor de que el actual parlamento participara en un órgano mixto que hiciera las reformas."
+            },
+            {
+              "pregunta": "De acuerdo con el texto, ¿Cuál es el problema con la actual Constitución de Chile?",
+              "numPregunta": 10,
+              "respuestas": [
+                "Responde a una forma de gobierno sin distribución de poderes ni legitimación para la toma de decisiones",
+                "Es muy antigua, por lo que requiere adecuarse a una sociedad que está demandando un cambio",
+                "Surgió en un momento en el que la sociedad no podía involucrarse en la toma de decisiones"
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "El hecho de que sea antigua no es el problema porque se menciona que ha habido ajustes a esa Constitución. El problema es de la estructura original que se creó bajo formas de gobierno diferentes."
+            },
+            {
+              "pregunta": "El estallido social fue a causa _______ y el proceso constituyente busca _______.",
+              "numPregunta": 11,
+              "respuestas": [
+                "de la dictadura -- infundir vitalidad democrática",
+                "de la pandemia -- dar respuestas a las necesidades más urgentes",
+                "del modelo socioeconómico -- canalizar el descontento por la vía institucional"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "El movimiento a favor del nuevo constituyente se produce en medio de la pandemia, no es causado por la pandemia. El editorial es el que sugiere dar respuestas."
+            }
+          ]
+        },
+        {
+          "titulo": "Poema para mi muerte",
+          "contenido": "Morir conmigo misma, abandonada y sola,\nen la más densa roca de una isla desierta.\nEn el instante un ansia suprema de claveles,\ny en el paisaje un trágico horizonte de piedra.\n\nMis ojos todos llenos de sepulcros de astro,\ny mi pasión, tendida, agotada, dispersa.\nMis dedos como niños, viendo perder la nube\ny mi razón poblada de sábanas inmensas.\n\nMis pálidos afectos retornando al silencio\n–¡hasta el amor, hermano derretido en mi senda!–\nMi nombre destorciéndose, amarillo en las ramas,\ny mis manos, crispándose para darme a las yerbas.\n\nIncorporarme el último, el integral minuto,\ny ofrecerme a los campos con limpieza de estrella\ndoblar luego la hoja de mi carne sencilla,\ny bajar sin sonrisa, ni testigo a la inercia.\n\nQue nadie me profane la muerte con sollozos,\nni me arropen por siempre con inocente tierra;\nque en el libre momento me dejen libremente\ndisponer de la única libertad del planeta.\n\n¡Con qué fiera alegría comenzarán mis huesos\na buscar ventanitas por la carne morena\ny yo, dándome, dándome, feroz y libremente\na la intemperie y sola rompiéndome cadenas!\n\n¿Quién podrá detenerme con ensueños inútiles\ncuando mi alma comience a cumplir su tarea,\nhaciendo de mis sueños un amasijo fértil\npara el frágil gusano que tocará a mi puerta?\n\nCada vez más pequeña mi pequeñez rendida,\ncada instante más grande y más simple la entrega,\nmi pecho quizás ruede a iniciar un capullo,\nacaso irán mis labios a nutrir azucenas.\n\n ¿Cómo habré de llamarme cuando sólo me quede \n recordarme, en la roca de una isla desierta? \nUn clavel interpuesto entre el viento y mi sombra, \nhijo mío y de la muerte, me llamará poeta.",
+          "preguntas": [
+            {
+              "pregunta": "La protagonista desea que cuando muera...",
+              "numPregunta": 12,
+              "respuestas": [
+                "sus afectos perduren y su nombre se destuerza",
+                "salgan los huesos de su carne a nutrir azucenas",
+                "eviten llorar por su muerte y arroparla con tierra"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "Dice que saldrán los huesos por las ventanitas de la carne pero no lo expresa como un deseo sino como la descripción de algo que ocurrirá."
+            },
+            {
+              "pregunta": "Seleccione la opción que completa correctamente el enunciado. La protagonista anhela que su muerte ocurra en _______ y _______.",
+              "numPregunta": 13,
+              "respuestas": [
+                "los campos - sonriendo",
+                "una isla - en soledad",
+                "sus sueños - entre sollozos"
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "En la primera estrofa dice que la muerte ocurrirá cuando esté en una isla y que estará sola."
+            },
+            {
+              "pregunta": "¿Qué condición debe darse para que la protagonista pueda ser nombrada poeta?",
+              "numPregunta": 14,
+              "respuestas": [
+                "Perder la vida en una isla",
+                "Quedarse sola y abandonada",
+                "Volverse parte de la tierra"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "Una vez que describió la descomposición y la reintegración de su cuerpo a la tierra, la cual se manifiesta cuando le nace una flor, dice que ya puede ser llamada poeta."
+            },
+            {
+              "pregunta": "De acuerdo con el poema, ¿qué pasará cuando la autora muera?",
+              "numPregunta": 15,
+              "respuestas": [
+                "Volverá el amor",
+                "Será olvidada",
+                "Afirmará su identidad"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "El poema alude en diferentes momentos a la memoria y al deseo de mantener su recuerdo como poeta, por ejemplo: ¿Cómo habré de llamarme cuando sólo me quede / recordarme, en la roca de una isla desierta? / Un clavel interpuesto entre el viento y mi sombra, /hijo mío y de la muerte, me llamará poeta. Por lo tanto ser olvidada no es la consecuencia de lo que pasará cuando ella muera."
+            },
+            {
+              "pregunta": "De acuerdo con el poema, ¿qué es la muerte?",
+              "numPregunta": 16,
+              "respuestas": [
+                "La reintegración a la naturaleza y a la vida",
+                "La tristeza de la soledad y el silencio",
+                "El final de los afectos y los sueños"
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "El tono de las descripciones se encamina a definir la muerte como una manera de reintegrarse a la naturaleza para florecer de otra manera."
+            },
+            {
+              "pregunta": "La función de los versos Un clavel interpuesto entre el viento y mi sombra, / hijo mío y de la muerte, me llamará poeta es...",
+              "numPregunta": 17,
+              "respuestas": [
+                "establecer una comparación entre la vida humana y una flor",
+                "atribuir una acción propia de los seres humanos a una flor",
+                "utilizar la flor como símbolo de la breve existencia humana"
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "Esta opción de respuesta puede remitir a la sinécdoque, figura retórica que toma un elemento a manera de símbolo, el cual representará un todo. Sin embargo, aunque la flor puede remitir a la breve existencia humana, debido a su condición frágil y perecedera, en este poema no está ejerciendo una función simbólica, sino más bien prosopopéyica."
+            }
+          ]
+        },
+        {
+          "titulo": "Era bonita, simpática y hablábamos todos los días... pero al final resultó una estafa",
+          "contenido": "Thomas y Tonia se conocieron en redes sociales y empezaron a chatear con regularidad. A ambos les unía la pasión por los viajes y sus mascotas.\n\nThomas, un hombre del oeste de Inglaterra de 34 años, estaba enloquecido con Tonia y planeaba un futuro junto a ella. Pero en realidad, se trataba de una estafadora.\n\n\"Tonia y yo teníamos tanto en común que hablamos todos los días durante siete meses. Era bonita, simpática y amable\", contó la víctima.\n\n\"Ahora miro atrás y no puedo creer lo fácil que le resultó aprovecharse de mí. No tenía ni idea de que me timaba para que le diera mis detalles personales y así tomar mi dinero\".\n\nLa trampa de los préstamos\n\nThomas fue víctima de un elaborado engaño.\n\nLa mujer le contaba que sus padres habían muerto y que vivía con su abuela enferma de cáncer en Estados Unidos.\n\nDecía que tenía que pagar por la comida y por costosas facturas médicas, así que le pidió dinero. A cambio, le mostró a Thomas la evidencia de que recibiría una gran herencia. Todo era una farsa.\n\nPara que la historia pareciera más real, Tonia depositó dinero a la cuenta de Thomas. Luego le pidió que lo distribuyera a varias cuentas bancarias, ya que ella no tenía.\n\nDe hecho, el dinero provenía de préstamos solicitados por Tonia a nombre de Thomas sin que éste lo supiera. Cuando Thomas comenzó a recibir cartas de los prestamistas, se percató de que había sido estafado.\n\nLuego acudió a su banco local, explicó la situación y le reembolsaron el dinero. Ahora trabaja para reparar su historial de crédito.\n\n\"He cerrado mi cuenta en redes sociales porque no quiero involucrarme en otra relación así. Me tomará un largo tiempo recuperarme y volver a confiar en alguien\", aseguró Thomas.\n\nEste caso es más inusual que las estafas de romance habituales porque la víctima es un hombre joven. Sin embargo, contiene todas las características típicas de un fraude.\n\nEstos engaños se dan, en su mayoría, en las aplicaciones de citas o redes sociales, donde el estafador adopta una identidad falsa.\n\nA este tipo de estafas se les conoce como catfishing.\n\nAumento\n\nEn Reino Unido, una encuesta reveló que 27% de los entrevistados que usaron páginas de citas habían sido objeto de un intento de fraude.\n\nA las víctimas o potenciales víctimas se les pidió poco más de US$400 de media, pero muchos fueron engañados para que enviaran más dinero.\n\nUK Finance, la organización británica de asesoramiento financiero que llevó a cabo la encuesta, mostró que en la primera mitad de 2019 se perdieron US$10 millones en este tipo de fraudes.\n\nLa cifra supone un aumento de más de 50% con respecto al mismo periodo de 2018.\n\n\"Los romances fraudulentos pueden ser emocional y financieramente dañinos para los que lo sufren. La popularidad de las apps de citas ha facilitado que los criminales se aprovechen de las víctimas\", dijo Katy Worobec, directora gerente de crímenes económicos en UK Finance.\n\nLa Oficina Nacional de Inteligencia contra el Fraude en Reino Unido advierte que los estafadores analizan los perfiles de sus objetivos para recopilar información sobre su estilo de vida y posición económica.\n\nAdemás, aconseja nunca enviar dinero a desconocidos y que se piense más de una vez a la hora de publicar información personal. Esta podría usarse para manipular al usuario.",
+          "preguntas": [
+            {
+              "pregunta": "¿Cuál refrán es equivalente a la situación planteada en la noticia?",
+              "numPregunta": 18,
+              "respuestas": [
+                "Ojos que no ven, corazón que no siente",
+                "Aunque la mona se vista de seda, mona se queda",
+                "No todo lo que brilla es oro"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "Este refrán más bien se refiere a que la ausencia contribuye al olvido, situación que no se plantea en la noticia."
+            },
+            {
+              "pregunta": "¿Cuál es el tema central de la noticia?",
+              "numPregunta": 19,
+              "respuestas": [
+                "Las decepciones amorosas en relaciones a distancia",
+                "El riesgo que implica la solicitud de préstamos bancarios",
+                "El aumento de las estafas a quienes buscan pareja en la red"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "Los usuarios son vulnerables en las redes sociales y aplicaciones cuando la confianza es ciega."
+            },
+            {
+              "pregunta": "El dinero que depositó _______ lo obtuvo de _______.",
+              "numPregunta": 20,
+              "respuestas": [
+                "Tonia -- préstamos",
+                "Thomas -- una herencia",
+                "Thomas – préstamos"
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 3,
+              "retroalimentacion": "El texto menciona \"Tonia depositó dinero a la cuenta de Thomas\", además no existe ninguna herencia."
+            }
+          ]
+        },
+        {
+          "titulo": "Redacción indirecta",
+          "contenido": "",
+          "preguntas": [
+            {
+              "pregunta": "Seleccione la opción que tiene un significado similar al de las palabras resaltadas entre comillas.\nFinalmente entregué el borrador de mi ensayo de Literatura; espero que no se pierda entre “la pila” de tareas que le entregaron al profesor.",
+              "numPregunta": 21,
+              "respuestas": ["la batería", "la fuente", "el montón"],
+              "correcta": 2,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "Según la RAE, una de las acepciones de la palabra 'pila' es: dispositivo, generalmente pequeño, en el que la energía química se transforma en eléctrica, lo cual coincide con 'batería', la cual tiene como una de sus acepciones el ser un acumulador de electricidad. Esta opción es incorrecta dado que, con base en el contexto, se hace evidente que no se trata de un instrumento u objeto que proporcione o acumule energía eléctrica."
+            },
+            {
+              "pregunta": "La editorial de un periódico de circulación nacional está por publicar una columna de opinión. ¿Cuál texto es el adecuado para tal fin?",
+              "numPregunta": 22,
+              "respuestas": [
+                "El incremento de la inflación ha impactado tanto en la tasa de interés como en el costo anual total de más de 20 instrumentos analizados durante el último trimestre del año. Además de estos datos, los resultados de la encuesta aplicada a los usuarios de tarjetas de crédito muestran que 56.9% de los tarjetahabientes realiza el pago del total, en tanto que 43.1% liquida el saldo total.",
+                "Según datos oficiales, miles de usuarios de tarjetas de crédito desconocen la manera en la que funcionan estos instrumentos, por lo que considero necesario difundir la educación financiera a la población en general e, incluso, incorporarla en la educación básica. De hecho, son varios los organismos públicos y privados que se suman a las iniciativas que, desde mi punto de vista, favorecen la educación financiera.",
+                "La educación financiera es una herramienta cada vez más necesaria. El libro Cuentas claras, carteras sanas plantea que este conocimiento tendría que incorporarse incluso como parte de la educación básica, pues, con base en los datos de esta obra, son miles los usuarios de servicios financieros los que toman malas decisiones por desconocimiento de instrumentos como las tarjetas de crédito."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "La reseña, género al que pertenece el texto, busca presentar la valoración de una obra, así como contextualizar al lector acerca de la temática o la importancia de un texto. El registro lingüístico es formal y utiliza oraciones cortas y coordinadas para facilitar la lectura por el público general."
+            },
+            {
+              "pregunta": "Elija la oración que está acentuada correctamente.",
+              "numPregunta": 23,
+              "respuestas": [
+                "Durante la audiencia, la jueza puso un 'estáte quieto' a la fiscalía.",
+                "Muchos discípulos no entienden, aun diciéndoselos de buena manera.",
+                "Algunas estrategias mejoran tu desempeño escolar, pónlas en práctica."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "De acuerdo con la RAE (2010, § 3.4.5.1.3, pág. 274-5), 'las formas verbales con pronombres enclíticos se someten a las reglas de acentuación, de modo que llevarán tilde o no según corresponda a la palabra resultante, con independencia de cómo se acentúe gráficamente la forma verbal sin los pronombres'. Por lo tanto, la palabra 'diciéndoselos' lleva tilde por tratarse de una voz sobresdrújula, aunque 'diciendo' no lleva tilde por ser una palabra grave."
+            },
+            {
+              "pregunta": "Una persona escribió la crónica de un día de su vida. ¿Cuál fragmento pertenece a esta situación comunicativa?",
+              "numPregunta": 24,
+              "respuestas": [
+                "Quienes nos vieron ese día dijeron que traíamos los ojos redondos como platos, y no era para menos. Daniel y yo habíamos sufrido la mayor impresión de nuestras vidas. La caminata de los lunes había sido interrumpida por un trozo enorme de metal que cayó apenas a un par de metros delante nuestro: era una especie de esfera metálica, en cuyo diámetro brillaba un cinturón mineral.",
+                "El 19 de enero, el día de mi cumpleaños, también cumple años Chema, mi mejor amigo y la única persona que me comprende. Posiblemente por esa coincidencia de fechas, Chema parece tener el poder de leerme la mente y de adivinar mis alegrías y tristezas. Yo lo quiero por eso, pero también porque es un chico amable, con un gran sentido del humor y siempre dispuesto a ayudar a los demás.",
+                "Esa jornada comenzó como cualquier otra. Yo había llegado puntualmente a la escuela para dar la clase de las 7:00, pues era martes. Todo transcurrió como de costumbre en las primeras tres sesiones. A las 10:00 vino el receso, que apenas me alcanzó para tomar un café. En punto de las 10:20, me dirigí al salón donde daría la penúltima clase. Para mi sorpresa, ella estaba ahí aguardándome."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "Esta opción corresponde a un relato de ficción y no a una crónica, pues el fragmento cuenta una historia ficticia protagonizada por dos personajes, sin dar un tratamiento minucioso a los hechos ni presentarlos en un orden temporal lógico."
+            },
+            {
+              "pregunta": "Elija la oración en la que se establece una relación correcta entre las palabras.",
+              "numPregunta": 25,
+              "respuestas": [
+                "Le pedí con mucha anticipación un ensayo a mis alumnos, pero igual no lo hicieron.",
+                "Nunca duden de aquel cuyas manos sean tan ásperas como la tierra que nos sustenta.",
+                "Las encontré exactamente donde dijiste: mis lentes estaban olvidados sobre el periódico."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "La relación catafórica es incorrecta, ya que el pronombre de objeto directo “las”, que en este caso antecede a su primera mención en el discurso, debería concordar en género y número con su referente “mis lentes”, que es un sustantivo masculino plural. Lo correcto debería ser: 'Los encontré exactamente donde dijiste: mis lentes estaban olvidados sobre el periódico'."
+            },
+            {
+              "pregunta": "¿Qué enunciado está acentuado correctamente?",
+              "numPregunta": 26,
+              "respuestas": [
+                "El género epico-lírico estaba en boga hace veintiseis siglos.",
+                "El género épico-lirico estaba en boga hace veintiseis siglos.",
+                "El género épico-lírico estaba en boga hace veintiséis siglos."
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "Cuando nos encontramos ante una palabra compuesta de dos o más lexemas que se escriben sin guion sólo lleva tilde el último componente, si lo necesita, según las reglas generales de acentuación, como sucede en 'veintiséis'. En el caso de las palabras compuestas unidas por guion, ambas palabras mantienen su acentuación como en 'épico-lírico'."
+            },
+            {
+              "pregunta": "¿En qué oración se usan de forma correcta los paréntesis?",
+              "numPregunta": 27,
+              "respuestas": [
+                "Carlos Fuentes (1928-2012) escribió La región más transparente.",
+                "Carlos Fuentes (1928)-(2012) escribió La región más transparente.",
+                "(Carlos Fuentes 1928-2012) escribió La región más transparente."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "Correcta. Ya que en este caso se utilizan para intercalar algún dato o precisan: fechas, lugares, significado de siglas, el autor u obra citados."
+            },
+            {
+              "pregunta": "Seleccione el enunciado que está puntuado correctamente.",
+              "numPregunta": 28,
+              "respuestas": [
+                "En este pequeño pueblo podemos encontrar tiendas, cafés, bares, etc…",
+                "Con base en todas las evidencias, el jurado decidió que… usted es el ganador.",
+                "Siempre me he preguntado: ¿Acaso me habré equivocado al suponer?..."
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "Los puntos suspensivos se escriben delante de los signos de cierre de interrogación o de exclamación si el enunciado interrogativo o exclamativo está incompleto; por tanto, en esta oración, deberían estar después de 'suponer' y antes del signo de interrogación. (Real Academia Española (s/f). Diccionario panhispánico de dudas (DPD). S.v. 'Puntos suspensivos')."
+            },
+            {
+              "pregunta": "En la redacción de un periódico se pretende publicar una noticia sobre la acusación de corrupción al rey de España. ¿Cuál fragmento es el apropiado?",
+              "numPregunta": 29,
+              "respuestas": [
+                "La Fiscalía abrió una nueva investigación judicial contra el rey. Se trata de la segunda indagatoria contra el monarca. En esta ocasión se le investiga por el supuesto cobro de comisiones ilegales en la construcción de un aeropuerto. La Fiscalía sospecha que hay una trama internacional en la que podrían estar involucrados empresarios de varios países.",
+                "Una vez más la monarquía se ve envuelta en un escándalo. Ahora resulta que al rey lo andan siguiendo por corrupto. O sea, que encima de que no trabaja, también le entraba al negocio de la construcción cobrando por tramitar permisos. Y la verdad la culpa es de la gente que en pleno siglo XXI sigue admitiendo a un rey; hay que ser ingenuos para aguantar semejante abuso.",
+                "Da igual cuál sea tu impresión sobre la famosísima monarquía. La nueva acusación de corrupción contra el rey es, además de toda una revelación de la que te enteraste aquí, un golpe para la institucionalidad del país. Para los enemigos de la Corona, resulta urgente que la sociedad se libere de esta institución, a la que consideran obsoleta, decadente y, además, corrupta."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "El registro de la opción es informal y resulta inapropiado para el ámbito de participación social que corresponde a la noticia."
+            },
+            {
+              "pregunta": "Elija la oración que está acentuada de forma correcta.",
+              "numPregunta": 30,
+              "respuestas": [
+                "Tras despedirme de mi asesora, cambié el tema del ensayo.",
+                "La isla se encontraba a veinte millas naúticas de la nave.",
+                "La región del Caúcaso se caracteriza por su geografía accidentada."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "En los diptongos formados por una vocal abierta tónica (a, e, o) y una cerrada átona (i, u), o viceversa, la tilde se coloca siempre sobre la vocal abierta; por eso 'cambié' lleva la tilde en la 'e'. (Real Academia Española (s/f). Diccionario panhispánico de dudas (DPD). S.v. 'Tilde', 2.1.3)."
+            },
+            {
+              "pregunta": "Seleccione la oración que está puntuada de forma correcta.",
+              "numPregunta": 31,
+              "respuestas": [
+                "¿Cómo te llamas?. ¿Qué estudiaste?. ¿En qué trabajas?.",
+                "¿Cómo te llamas?, ¿Qué estudiaste?, ¿En qué trabajas?",
+                "¿Cómo te llamas? ¿Qué estudiaste? ¿En qué trabajas?"
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "Cuando los signos de cierre (?/ !) constituyen el final del enunciado, la palabra que sigue se escribe con mayúscula inicial, por tal motivo de acuerdo con las reglas de puntuación este elemento es correcto."
+            },
+            {
+              "pregunta": "Seleccione el enunciado que está puntuado correctamente.",
+              "numPregunta": 32,
+              "respuestas": [
+                "Los jugadores que hayan faltado a un entrenamiento durante la semana, no serán titulares el domingo.",
+                "Los jugadores, independientemente de su rendimiento físico, deben pasar por una evaluación médica antes del torneo.",
+                "Toda la temporada de voleibol playero, que arrancó a principios de febrero ha estado llena de partidos excepcionales"
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "Solo se usa coma entre sujeto y verbo cuando inmediatamente después del sujeto se abre un inciso o aparece cualquiera de los elementos que se aíslan por comas parentéticas del resto del enunciado. (Real Academia Española (s/f). Diccionario panhispánico de dudas (DPD). S.v. 'Coma', 3.1)."
+            },
+            {
+              "pregunta": "Elija el enunciado que está escrito correctamente.",
+              "numPregunta": 33,
+              "respuestas": [
+                "Anhelo visitar un orfanato y ayudar a los huérfanos a aprender diversos temas.",
+                "Anelo visitar un orfanato y ayudar a los huérfanos a aprender diversos temas.",
+                "Anhelo visitar un horfanato y ayudar a los huérfanos a aprender diversos temas."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "De acuerdo con la regla ortográfica, 'anhelo' y 'huérfanos' se escriben con el grafema 'h'. 'Anhelo' presenta 'h' desde su origen (anhelare) y 'huérfanos' se escribe con 'h' porque comienza con el diptongo 'ue'."
+            },
+            {
+              "pregunta": "Complete el enunciado con las grafías correctas.\nVa___amos ___endo hacia donde ___ace encendida la ___ama.",
+              "numPregunta": 34,
+              "respuestas": [
+                "ll - y - ll - ll",
+                "y - y - y - ll",
+                "y - ll - y - y"
+              ],
+              "correcta": 1,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "'Vayamos' y 'yendo' se escriben con 'y' porque todas las formas verbales que carecen del fonema /y/ en su infinitivo y lo presentan en su conjugación, se escriben con 'y'. (Real Academia Española (2010). Ortografía de la lengua española. Barcelona: autor, 6.2.2.6.1.). 'Yace' se escribe con 'y' porque toda la conjugación de este verbo conserva la 'y' de su infinitivo. (Real Academia Española. (s/f). Diccionario de la lengua española. S.v. 'yacer'). 'Llama' se escribe con 'll' porque proviene del latín 'flamma', en cuya evolución la 'f' se asimiló a la 'l' y dio como resultado la 'll'. (Real Academia Española. (s/f). Diccionario de la lengua española. S.v. 'llama')."
+            },
+            {
+              "pregunta": "Complete el enunciado con la expresión que le da sentido.\nResulta difícil cuantificar los daños _______ no se sabe cuánta gente habita en la zona.",
+              "numPregunta": 35,
+              "respuestas": ["no obstante", "entonces", "porque"],
+              "correcta": 2,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "'Porque' es una conjunción que expresa causa (Reyes, G. (2008). Cómo escribir bien en español. Madrid, Arco, 142-3), por lo que vincula adecuadamente las dos partes del periodo, pues 'no se sabe cuánta gente habita en la zona' es la causa de 'resulta difícil cuantificar los daños'."
+            },
+            {
+              "pregunta": "Complete con las palabras que dan sentido al fragmento.\nJuan estaba platicando en clase. La maestra _______ dijo que _______ acompañara a la dirección. Él _______ siguió cabizbajo.",
+              "numPregunta": 36,
+              "respuestas": ["le - la - la", "lo - la - lo", "le - lo - le"],
+              "correcta": 0,
+              "retroalimentacionIndex": 0,
+              "retroalimentacion": "Los pronombres anafóricos son correctos: 'le' sustituye a 'Juan' en función de complemento indirecto, 'la' sustituye a 'maestra' en función de complemento directo, y el segundo 'la' también sustituye a 'maestra' en función de complemento directo."
+            },
+            {
+              "pregunta": "¿En cuál fragmento se establece una relación correcta entre las palabras?",
+              "numPregunta": 37,
+              "respuestas": [
+                "Los claros motivo y razones del cambio económico.",
+                "Las codiciadas fama y belleza entre la farándula.",
+                "Las necesarias atenciones y cuidados de los infantes."
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "Según el Diccionario panhispánico de dudas (DPD), cuando un adjetivo se antepone a varios sustantivos coordinados, establece concordancia de género y número con el más próximo. La referida concordancia se observa entre 'necesarias' y 'atenciones'."
+            },
+            {
+              "pregunta": "¿En cuál fragmento se establece una relación correcta entre las palabras?",
+              "numPregunta": 38,
+              "respuestas": [
+                "La carpeta verde y el escritorio estaban húmedas.",
+                "El autobús escolar y la cancha de futbol son nuevas.",
+                "El estudio y la práctica del deporte son necesarios."
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "Esta opción es incorrecta porque el adjetivo 'nuevas', pospuesto a los sustantivos de distinto género 'autobús' y 'cancha', debería ser masculino plural, pues esto se establece en el Diccionario panhispánico de dudas (DPD) para los casos de adjetivo pospuesto a varios sustantivos."
+            },
+            {
+              "pregunta": "La revista de una universidad publicó una convocatoria para escribir ensayos académicos sobre la responsabilidad de la humanidad con respecto a los animales. Se recibieron tres propuestas. ¿Cuál es el texto adecuado para publicar en la revista?",
+              "numPregunta": 39,
+              "respuestas": [
+                "En los últimos años me he comprometido con los animales. He dejado de usar ropa de piel y he optado por vestir prendas sintéticas. No soy la única persona: han crecido los grupos que defienden los derechos de los animales y se han creado santuarios para resguardar las especies que están en peligro de extinción. Además de eso, cada día somos más los vegetarianos y continuamos luchando para erradicar las corridas de toros y otro tipo de prácticas que atentan contra la vida de los animales.",
+                "Las vacas son animales bien inteligentes pertenecientes a la familia de los bóvidos. Por ejemplo, si se dejan a la orilla de un río y hay un puente, lo utilizarán para atravesar sin necesidad de un pastor. También los perritos son animales con una gran inteligencia, sin lugar a dudas. Actualmente, los estudios sobre la inteligencia en los animales no se centran ni en las vacas ni en los perros, sino en los cefalópodos como los pulpos, ya que han demostrado tener memoria y simetría bilateral.",
+                "La humanidad está pasando por un proceso de sensibilización hacia los sentimientos y las emociones de los animales, ya que estos presentan un sistema nervioso y una inteligencia semejantes a los de los humanos. Por esta razón, diversas ONG buscan concientizar sobre la violencia contra los animales al evidenciar la explotación poco sustentable de recursos naturales. De igual manera, se han investigado el comportamiento animal y los estímulos externos que repercuten en su desarrollo."
+              ],
+              "correcta": 2,
+              "retroalimentacionIndex": 2,
+              "retroalimentacion": "La opción utiliza un registro formal, los verbos de forma impersonal y no utiliza lenguaje especializado, sino uno apropiado para un ensayo académico."
+            },
+            {
+              "pregunta": "El profesor de Cinematografía está revisando los textos sobre una película de estreno reciente para elegir la reseña que incluirá en una publicación. ¿Cuál fragmento cumple de forma adecuada con ese objetivo?",
+              "numPregunta": 40,
+              "respuestas": [
+                "El estreno de la película de terror Epitafio pone en evidencia la abismal diferencia entre el cine que se produce en Estados Unidos y el que se puede producir en nuestro país. Epitafio parte de la misma premisa que un sinnúmero de películas del género: dos adolescentes se internan en un bosque para estar solos y lo que encuentran es la tragedia.",
+                "Por si no lo saben, les cuento que epitafio es como se les llama a las inscripciones grabadas en las sepulturas. Hay muchos epitafios famosos. Por ejemplo, está el epitafio de Groucho Marx que dice: 'Perdonen que no me levante'. Y bueno, Epitafio también es la más reciente película de terror mexicana. Me hizo brincar varias veces y eso no me pasa siempre.",
+                "Me gustan las películas de terror que me hacen reír y Epitafio no es la excepción. Al monstruo que aparece al final se le ven los hilos. Había gente que sí se encontraba espantada y a mí me daban ganas de reírme en la sala del cine. Pero cada quien, ¿no? Al menos eso pienso yo."
+              ],
+              "correcta": 0,
+              "retroalimentacionIndex": 1,
+              "retroalimentacion": "El registro de la opción es informal y resulta inapropiado para el ámbito académico. Por ejemplo, el nexo 'Y bueno' resulta coloquial, asimismo este tono se presenta en la oración 'La película me hizo brincar varias veces'."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
